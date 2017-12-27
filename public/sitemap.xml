@@ -3,17 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>/about/</loc>
+    <lastmod>2017-12-27T15:02:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2017-12-27T15:02:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/first-post/</loc>
+    <lastmod>2017-12-27T15:01:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2017-12-27T14:58:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-12-27T15:01:04+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>/</loc>
+    <lastmod>2017-12-27T15:02:13+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/topics/</loc>
     <priority>0</priority>
   </url>
   

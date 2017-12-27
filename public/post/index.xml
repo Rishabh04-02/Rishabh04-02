@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rishabh Chaudhary</title>
-    <link>/</link>
-    <description>Recent content on Rishabh Chaudhary</description>
+    <title>Posts on Rishabh Chaudhary</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Rishabh Chaudhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) 2018 Rishabh Chaudhary</copyright>
-    <lastBuildDate>Wed, 27 Dec 2017 15:02:13 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2017 15:01:04 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 27 Dec 2017 15:02:13 +0530</pubDate>
-      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
-      <guid>/about/</guid>
-      <description>This is the about page of the site</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Wed, 27 Dec 2017 15:02:13 +0530</pubDate>
-      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
-      <guid>/contact/</guid>
-      <description>This is the contact page of the site.</description>
-    </item>
     
     <item>
       <title>First Post</title>
