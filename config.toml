@@ -81,7 +81,7 @@ disqusShortname = "rishabh0402.disqus.com"
     switchlang = false
 
     # You can use markdown here.
-    BrandImage = "https://github.com/Rishabh04-02/Rishabh04-02.github.io/blob/master/logo.png" #top header brand image.
+    BrandImage = "https://github.com/Rishabh04-02/Rishabh04-02.github.io/raw/master/logo.png" #top header brand image.
     brand = "Rishabh Chaudhary" # brand image alt text.
     topline = "Computer Science and Engineering Student."
     footline = "made with <i class='fa fa-heart'></i>"
