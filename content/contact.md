@@ -2,13 +2,15 @@
 title: "Contact"
 date: 2017-12-27T15:02:13+05:30
 draft: false
-title: "Contact - Rishabh Chaudhary"
 project_url: "https://www.rishabhchaudhary.in/contact/"
+keywords: ["contact rishabh","contact rishabh chaudhary"]
+show_comments: true
+comments: true
 ---
 
 ## Reach me -
-**Email id** - [rishabh0402@gmail.com](mailto:rishabh0402@gmail.com?Subject=Hi%20Rishabh).
+* **Email id  <i style="color: maroon" class='fa fa-envelope'></i>** - [rishabh0402@gmail.com](mailto:rishabh0402@gmail.com?Subject=Hi%20Rishabh).
 
-**Twitter** - [Rishabh0402](https://twitter.com/Rishabh0402).
+* **Twitter  <i class='fa fa-twitter'></i>** - [Rishabh0402](https://twitter.com/Rishabh0402).
 
-**Not available on Facebook and Instagram**.
+* **Not available on Facebook <i style="color: blue" class='fa fa-facebook'></i> and Instagram <i style="color: pink" class='fa fa-instagram'></i>**.
