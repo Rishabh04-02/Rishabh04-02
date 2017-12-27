@@ -2,6 +2,8 @@
 title: "Contact"
 date: 2017-12-27T15:02:13+05:30
 draft: false
+title: "Contact - Rishabh Chaudhary"
+project_url: "https://www.rishabhchaudhary.in/contact/"
 ---
 
 ## Reach me -

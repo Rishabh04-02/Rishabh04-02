@@ -38,6 +38,7 @@ disqusShortname = "rishabh0402.disqus.com"
 [taxonomies]
     tag = "tags"
     topic = "topics"
+    category = "categories"
 
 [author]
     name = "Rishabh Chaudhary"
