@@ -1,0 +1,162 @@
+# hostname (and path) to the root eg. http://google.com/
+baseurl = "/"
+
+DefaultContentLanguage = "en"
+
+# If you want all of the languages to be put below their respective language code,
+# enable DefaultContentLanguageInSubdir = true. Without enabling it english content
+# will be in the root and other languages in their respective subfolder such as /sv/.
+# See [Languages] settings at the end of this file.
+
+# Language
+languageCode = "en"
+
+# SES friendly url:s
+canonifyurls = true
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hugo-bootstrap-premium"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "rishabh0402.disqus.com"
+
+[permalinks]
+    #post = "/:year/:month/:day/:filename/"
+    post = "/:filename/"
+    code = "/:filename/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "Rishabh Chaudhary"
+    email = "rishabh0402@gmail.com"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+
+# bootswatch theme name, unmark and select one: cerulean, cosmo (myedit : +2), cyborg (myedit : +1), darkly (myedit : +1),
+# default, flatly, journal,  lumen (myedit : +1), paper, readable, sandstone, simplex,
+# slate, spacelab, superhero, united, yeti (myedit : +2).
+
+[params.theme]
+  name = "yeti"
+
+[params.popover]
+  # This is a highly configurable popover form.
+  enablepopover = false #enable or disable popover: true/false.
+  posturl = "https://zapier.com/hooks/..."
+  headerimage = "//placehold.it/1000x600"
+  expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
+  cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
+  signupheader = "Join Our Newsletter"
+  showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
+  mouseleave = true #show popover when mouse leaves window: true/false.
+  modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
+  imagedescription = "Placeholder image for this popover modal optin form"
+  signuptext = "Signup today for free and be the first to get notified on new updates."
+  inputplaceholder = "Enter your email"
+  submitbutton = "Subscribe"
+  successmessage = "Thanks for your subscription!"
+  errormessage = "Submitting form failed!"
+  optin = true #opt-in: true/false
+
+[params]
+    # menu for changing language. This changes languages with js and stores the choice with the help
+    # of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the
+    # md files needs to have the same name for each language abbreviation to work correctly. Example:
+    # showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
+    switchlang = false
+
+    # You can use markdown here.
+    BrandImage = "http://blog.appernetic.io/images/apperneticlogo.png" #top header brand image.
+    brand = "Rishabh Chaudhary" # brand image alt text.
+    topline = "Computer Science and Engineering Student."
+    footline = "made with <i class='fa fa-heart'></i>"
+
+    # Show a sidebar menu
+    showRightSidebar = true
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
+
+    mailmunchid = "" # Mailmunch site id
+    sumomeid = "" # Sumome id
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Google Analytics.
+    googleAnalytics = "Your Google Analytics tracking code"
+
+    # Sidebar social links.
+    github = "enten/hugo-boilerplate" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+    # Menus
+    # If you want active menu items highlighted for internal pages don't add them here, they need to be added in each files front matter.
+    # like this:
+    #[menu]
+    #     [menu.main]
+    #        name = "Showcase"
+    #        weight = 3
+    #        identifier = "showcase"
+    # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+    #[[Languages.sv.menu.switchlang]]
+    #  name = "English"
+    #  identifier = ""
+    #  weight = 4
+    #  url = "en"
+
+    [Languages]
+    [Languages.en]
+    weight = 1
+    copyright = "(c) 2018 Rishabh Chaudhary"
+    title = "Rishabh Chaudhary" # Site title
+
+    [[Languages.en.menu.main]]
+    name = "About"
+    weight = 1
+    identifier = ""
+    url = "/about"
+    #pre = "<i class='fa fa-road'></i>"
+
+    [[Languages.en.menu.main]]
+    name = "Contact"
+    identifier = ""
+    weight = 2
+    url = "/contact"
+
+    [[Languages.en.menu.main]]
+    name = "Blog"
+    pre = ""
+    weight = 3
+    identifier = "post"
+    url = "/post/"
