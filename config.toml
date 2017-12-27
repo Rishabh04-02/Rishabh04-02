@@ -1,6 +1,8 @@
 # hostname (and path) to the root eg. http://google.com/
 baseurl = "/"
 
+publishDir = "public"
+
 DefaultContentLanguage = "en"
 
 # If you want all of the languages to be put below their respective language code,
