@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rishabh Chaudhary</title>
-    <link>/</link>
-    <description>Recent content on Rishabh Chaudhary</description>
+    <title>Abouts on Rishabh Chaudhary</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on Rishabh Chaudhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
@@ -11,35 +11,16 @@
     <copyright>(c) 2018 Rishabh Chaudhary</copyright>
     <lastBuildDate>Wed, 27 Dec 2017 15:02:13 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/about/about/</link>
       <pubDate>Wed, 27 Dec 2017 15:02:13 +0530</pubDate>
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
-      <guid>/about/</guid>
+      <guid>/about/about/</guid>
       <description>Information -  Rishabh Chaudhary is an 8th semester Computer Science and Engineering student at National Institute Of Technology Hamirpur (HP), India - 177005. Passed 12th (2014 batch) from DAV Public School Baghni, Nurpur (HP), India – 176202. Training &amp;amp; Placement Representative final year at NIT Hamirpur. Member of GLUG. Member of Team .EXE. Maintainer Awesome CSS.  Interests -  Contributing to Open Source. Quora. Linux Administration. Enjoys blogging.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Wed, 27 Dec 2017 15:02:13 +0530</pubDate>
-      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
-      <guid>/contact/</guid>
-      <description>This is the contact page of the site.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>/first-post/</link>
-      <pubDate>Wed, 27 Dec 2017 15:01:04 +0530</pubDate>
-      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
-      <guid>/first-post/</guid>
-      <description> Hello  This is the first post
- </description>
     </item>
     
   </channel>

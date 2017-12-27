@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Rishabh Chaudhary</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Rishabh Chaudhary</description>
+    <title>Contacts on Rishabh Chaudhary</title>
+    <link>/contact/</link>
+    <description>Recent content in Contacts on Rishabh Chaudhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) 2018 Rishabh Chaudhary</copyright>
-    <lastBuildDate>Wed, 27 Dec 2017 15:01:04 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2017 15:02:13 +0530</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>/first-post/</link>
-      <pubDate>Wed, 27 Dec 2017 15:01:04 +0530</pubDate>
+      <title>Contact</title>
+      <link>/contact/contact/</link>
+      <pubDate>Wed, 27 Dec 2017 15:02:13 +0530</pubDate>
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
-      <guid>/first-post/</guid>
-      <description> Hello  This is the first post
- </description>
+      <guid>/contact/contact/</guid>
+      <description>This is the contact page of the site.</description>
     </item>
     
   </channel>
