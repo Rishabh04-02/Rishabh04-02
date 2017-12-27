@@ -4,8 +4,6 @@ date: 2017-12-27T15:02:13+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/contact/"
 keywords: ["contact rishabh","contact rishabh chaudhary"]
-show_comments: true
-comments: true
 ---
 
 ## Reach me -

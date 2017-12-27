@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/the-girl-i-loved/</loc>
+    <lastmod>2017-12-27T22:29:10+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2017-12-27T15:02:13+05:30</lastmod>
   </url>
@@ -23,19 +28,32 @@
   </url>
   
   <url>
+    <loc>/tags/poem/</loc>
+    <lastmod>2017-12-27T22:29:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/poem/</loc>
+    <lastmod>2017-12-27T22:29:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2017-12-27T15:01:04+05:30</lastmod>
+    <lastmod>2017-12-27T22:29:10+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-12-27T15:02:13+05:30</lastmod>
+    <lastmod>2017-12-27T22:29:10+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2017-12-27T22:29:10+05:30</lastmod>
     <priority>0</priority>
   </url>
   

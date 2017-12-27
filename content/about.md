@@ -2,6 +2,8 @@
 title: "About"
 date: 2017-12-27T15:02:13+05:30
 draft: false
+project_url: "https://www.rishabhchaudhary.in/about/"
+keywords: ["about rishabh","about rishabh chaudhary"]
 ---
 
 ## Information -

@@ -36,9 +36,9 @@ disqusShortname = "rishabh0402"
     code = "/:filename/"
 
 [taxonomies]
-    tag = "tags"
-    topic = "topics"
-    category = "categories"
+    Tag = "tags"
+    Topic = "topics"
+    Category = "categories"
 
 [author]
     name = "Rishabh Chaudhary"
@@ -85,7 +85,7 @@ disqusShortname = "rishabh0402"
     BrandImage = "https://github.com/Rishabh04-02/Rishabh04-02.github.io/raw/master/logo.png" #top header brand image.
     brand = "Rishabh Chaudhary" # brand image alt text.
     topline = "Computer Science and Engineering Student."
-    footline = "made with <i class='fa fa-heart'></i>"
+    footline = "Coded with <i style='color:red' class='fa fa-heart'></i>"
 
     # Show a sidebar menu
     showRightSidebar = true
@@ -141,7 +141,7 @@ disqusShortname = "rishabh0402"
     [Languages]
     [Languages.en]
     weight = 1
-    copyright = "(c) 2018 Rishabh Chaudhary"
+    copyright = "(c) : 2018 | Rishabh Chaudhary"
     title = "Rishabh Chaudhary" # Site title
 
     [[Languages.en.menu.main]]
