@@ -1,11 +1,11 @@
 ---
 title: "The Girl I Loved"
-date: 2015-09-1T22:29:10+05:30
+date: 2015-09-01T22:29:10+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/the-girl-i-loved/"
 tags: ["poem"]
 categories: ["poem"]
-keywords: ["contact rishabh","contact rishabh chaudhary"]
+keywords: ["poem by rishabh","poem by rishabh chaudhary"]
 ---
 
 
