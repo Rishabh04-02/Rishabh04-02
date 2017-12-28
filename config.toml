@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. http://google.com/
-baseurl = "/"
+baseurl = "https://rishabhchaudhary.in/"
 
 publishDir = "public"
 
@@ -36,9 +36,9 @@ disqusShortname = "rishabh0402"
     code = "/:filename/"
 
 [taxonomies]
-    Tag = "tags"
-    Topic = "topics"
-    Category = "categories"
+    Tag = "Tags"
+    Topic = "Topics"
+    Category = "Categories"
 
 [author]
     name = "Rishabh Chaudhary"

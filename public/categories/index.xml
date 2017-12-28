@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rishabh Chaudhary</title>
-    <link>/categories/</link>
+    <link>https://rishabhchaudhary.in/categories/</link>
     <description>Recent content in Categories on Rishabh Chaudhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,15 +10,15 @@
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rishabhchaudhary.in/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Poem</title>
-      <link>/categories/poem/</link>
+      <link>https://rishabhchaudhary.in/categories/poem/</link>
       <pubDate>Sat, 26 Nov 2016 22:29:10 +0530</pubDate>
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
-      <guid>/categories/poem/</guid>
+      <guid>https://rishabhchaudhary.in/categories/poem/</guid>
       <description></description>
     </item>
     
