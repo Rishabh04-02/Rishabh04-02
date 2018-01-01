@@ -9,10 +9,28 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
-    <lastBuildDate>Mon, 30 Mar 2015 09:41:09 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 25 Dec 2015 11:25:55 +0530</lastBuildDate>
     
 	<atom:link href="https://rishabhchaudhary.in/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Facebook</title>
+      <link>https://rishabhchaudhary.in/tags/facebook/</link>
+      <pubDate>Fri, 25 Dec 2015 11:25:55 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freebasics</title>
+      <link>https://rishabhchaudhary.in/tags/freebasics/</link>
+      <pubDate>Fri, 25 Dec 2015 11:25:55 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/tags/freebasics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Github</title>
@@ -20,6 +38,15 @@
       <pubDate>Mon, 30 Mar 2015 09:41:09 +0530</pubDate>
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
       <guid>https://rishabhchaudhary.in/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Internet</title>
+      <link>https://rishabhchaudhary.in/tags/open-internet/</link>
+      <pubDate>Fri, 25 Dec 2015 11:25:55 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/tags/open-internet/</guid>
       <description></description>
     </item>
     
@@ -71,7 +98,7 @@
     <item>
       <title>Website</title>
       <link>https://rishabhchaudhary.in/tags/website/</link>
-      <pubDate>Mon, 30 Mar 2015 09:41:09 +0530</pubDate>
+      <pubDate>Fri, 25 Dec 2015 11:25:55 +0530</pubDate>
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
       <guid>https://rishabhchaudhary.in/tags/website/</guid>
       <description></description>

@@ -1,5 +1,5 @@
 ---
-title: "A trip to Shillong (Part — 1) On the way to Shillong"
+title: "A trip to Shillong (Part - 1) On the way to Shillong"
 date: 2016-02-17T11:17:30+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/A_trip_to_Shillong.md/"
