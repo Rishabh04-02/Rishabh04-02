@@ -36,9 +36,9 @@ disqusShortname = "rishabh0402"
     code = "/:filename/"
 
 [taxonomies]
-    Tag = "Tags"
-    Topic = "Topics"
-    Category = "Categories"
+    Tag = "tags"
+    Topic = "topics"
+    Category = "categories"
 
 [author]
     name = "Rishabh Chaudhary"

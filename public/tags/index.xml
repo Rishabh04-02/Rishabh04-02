@@ -9,10 +9,19 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
-    <lastBuildDate>Sat, 26 Nov 2016 22:29:10 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2015 09:41:09 +0530</lastBuildDate>
     
 	<atom:link href="https://rishabhchaudhary.in/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Github</title>
+      <link>https://rishabhchaudhary.in/tags/github/</link>
+      <pubDate>Mon, 30 Mar 2015 09:41:09 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/tags/github/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poem</title>
@@ -20,6 +29,24 @@
       <pubDate>Sat, 26 Nov 2016 22:29:10 +0530</pubDate>
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
       <guid>https://rishabhchaudhary.in/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://rishabhchaudhary.in/tags/technology/</link>
+      <pubDate>Mon, 30 Mar 2015 09:41:09 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://rishabhchaudhary.in/tags/website/</link>
+      <pubDate>Mon, 30 Mar 2015 09:41:09 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/tags/website/</guid>
       <description></description>
     </item>
     
