@@ -1,5 +1,5 @@
 ---
-title: "Hosting my website — Journey to Github"
+title: "Hosting my website - Journey to Github"
 date: 2015-03-30T09:41:09+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/Hosting_my_website_—_Journey_to_Github.md/"

@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/hosting_my_website__journey_to_github/</loc>
+    <loc>https://rishabhchaudhary.in/hosting_my_website_journey_to_github/</loc>
     <lastmod>2015-03-30T09:41:09+05:30</lastmod>
   </url>
   
@@ -43,25 +43,25 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/tags/github/</loc>
-    <lastmod>2015-03-30T09:41:09+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rishabhchaudhary.in/categories/github/</loc>
     <lastmod>2015-03-30T09:41:09+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/tags/poem/</loc>
-    <lastmod>2016-11-26T22:29:10+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/tags/github/</loc>
+    <lastmod>2015-03-30T09:41:09+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rishabhchaudhary.in/categories/poem/</loc>
+    <lastmod>2016-11-26T22:29:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/tags/poem/</loc>
     <lastmod>2016-11-26T22:29:10+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -85,13 +85,13 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/tags/technology/</loc>
+    <loc>https://rishabhchaudhary.in/categories/technology/</loc>
     <lastmod>2015-03-30T09:41:09+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/technology/</loc>
+    <loc>https://rishabhchaudhary.in/tags/technology/</loc>
     <lastmod>2015-03-30T09:41:09+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -102,13 +102,13 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/tags/website/</loc>
+    <loc>https://rishabhchaudhary.in/categories/website/</loc>
     <lastmod>2015-03-30T09:41:09+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/website/</loc>
+    <loc>https://rishabhchaudhary.in/tags/website/</loc>
     <lastmod>2015-03-30T09:41:09+05:30</lastmod>
     <priority>0</priority>
   </url>
