@@ -56,6 +56,19 @@ but at every step being cheated by some ally.</description>
     </item>
     
     <item>
+      <title>How to make your computer welcome you</title>
+      <link>https://rishabhchaudhary.in/how_to_make_your_computer_welcome_you/</link>
+      <pubDate>Wed, 06 Jan 2016 10:11:43 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/how_to_make_your_computer_welcome_you/</guid>
+      <description>Open notepad by searching it in the menu.
+ Copy these lines as it is and paste them into your notepad.
+Dim speaks, speech speaks=&amp;quot;Welcome back USERNAME &amp;quot; Set speech=CreateObject(&amp;quot;sapi.spvoice&amp;quot;) speech.Speak speaks  Note — You can replace USERNAME with your Name/Username.
+ Save the file as welcome.vbs (on your desktop) or any other name with extension as “.vbs”.
+ Go to C drive the view option on the menu bar and check the option “Show hidden files”.</description>
+    </item>
+    
+    <item>
       <title>Extended uses of VLC</title>
       <link>https://rishabhchaudhary.in/extended_uses_of_vlc/</link>
       <pubDate>Fri, 01 Jan 2016 10:00:44 +0530</pubDate>
