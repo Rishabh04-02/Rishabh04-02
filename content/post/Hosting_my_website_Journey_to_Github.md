@@ -2,10 +2,10 @@
 title: "Hosting my website - Journey to Github"
 date: 2015-03-30T09:41:09+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/Hosting_my_website_—_Journey_to_Github.md/"
+project_url: "https://www.rishabhchaudhary.in/Hosting_my_website_Journey_to_Github.md/"
 Tags: ["Github","Technology","Website"]
 Categories: ["Github","Technology","Website"]
-keywords: ["poem by rishabh","poem by rishabh chaudhary"]
+keywords: ["hosting website on Github","journey to github"]
 ---
 
 After 12th when i got admission in NIT Hamirpur, I came across few seniors who’re just great, then i discovered that they all had their websites which represents them on this World wide web. As i had the knowledge of html learn’t in 10 class and was very much impressed by its abilities, i thought of designing a website of my own. Before this me along with my few friends had tried designing and hosting of two unsuccessful sites (Photo-effects and Cyberbullying — unsuccessful because we left the development of these sites in between and deleted them after few months) and so this was my 3rd experiment with hosting and developing a site.

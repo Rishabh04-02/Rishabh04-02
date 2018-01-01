@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://rishabhchaudhary.in/extended_uses_of_vlc/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rishabhchaudhary.in/the-girl-i-loved/</loc>
     <lastmod>2015-09-01T22:29:10+05:30</lastmod>
   </url>
@@ -55,6 +60,18 @@
   </url>
   
   <url>
+    <loc>https://rishabhchaudhary.in/categories/opensource/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/tags/opensource/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rishabhchaudhary.in/categories/poem/</loc>
     <lastmod>2016-11-26T22:29:10+05:30</lastmod>
     <priority>0</priority>
@@ -86,18 +103,30 @@
   
   <url>
     <loc>https://rishabhchaudhary.in/categories/technology/</loc>
-    <lastmod>2015-03-30T09:41:09+05:30</lastmod>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rishabhchaudhary.in/tags/technology/</loc>
-    <lastmod>2015-03-30T09:41:09+05:30</lastmod>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rishabhchaudhary.in/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/categories/vlc/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/tags/vlc/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
