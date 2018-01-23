@@ -16,3 +16,10 @@ keywords: ["contact rishabh","contact rishabh chaudhary"]
 * **Facebook  <i style="color: navy" class='fa fa-facebook'></i>** - **Error 404** : User Not Found.
 
 * **Instagram <i style="color: fuchsia" class='fa fa-instagram'></i>** - **Error 404** : User Not Found.
+
+________________
+
+
+<a href="https://twitter.com/rishabh0402?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rishabh0402</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" href="https://twitter.com/rishabh0402?ref_src=twsrc%5Etfw">Tweets by rishabh0402</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
