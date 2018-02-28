@@ -98,7 +98,7 @@ disqusShortname = "rishabh0402"
   # This is a highly configurable popover form.
   enablepopover = false #enable or disable popover: true/false.
   posturl = "https://zapier.com/hooks/..."
-  headerimage = "//placehold.it/1000x600"
+  headerimage = "/favicon.png"
   expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
   cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
   signupheader = "Join Our Newsletter"
