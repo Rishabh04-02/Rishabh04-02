@@ -21,7 +21,7 @@ It was the time for Nimbus auditions & i was in confusion whether to join the te
 
 **The interview**
 
-So, i went to the interview & also took one of my friend Mayank with me although he wasn’t willing to take the interview. When i went there i knew how to rock it (as I’d been rejected in an interview of a club in 1st year) & yes i rocked it with confidence & few technical skills.
+So, i went to the interview & also took one of my friend Mayank with me although he wasn’t willing to take the interview. When I went there I knew how to rock it (as I’d been rejected in an interview of a club in 1st year) & yes I rocked it with confidence & few technical skills.
 
 Then started a series of regular meetings for deciding new projects & events (these meetings were really tiring) And after few meetings projects & events were decided.
 
@@ -33,34 +33,38 @@ And the website of Team EXE was also successful launched along with the introduc
 **Below is the list of our events & projects.**
 
 Online Events (6)
-
-    Paradox — Guess it if you can!
-    Trolled — Keep trolling others!
-    BrainBuster — It can burst your brain!
-    Hunt the code — The hunt has begun!
-    Webbed — Design the best out of it!
-    The Game of codes — Code it right!
+<pre>
+Paradox — Guess it if you can!
+Trolled — Keep trolling others!
+BrainBuster — It can burst your brain!
+Hunt the code — The hunt has begun!
+Webbed — Design the best out of it!
+The Game of codes — Code it right!
+</pre>
 
 Offline Events (4)
-
-    Exeplore — Keep exeploring!
-    CodeSwap — Write and switch, The loop begins!
-    CodeSense — The all new senses!
-    HackHunt — Hack and hunt!
+<pre>
+Exeplore — Keep exeploring!
+CodeSwap — Write and switch, The loop begins!
+CodeSense — The all new senses!
+HackHunt — Hack and hunt!
+</pre>
 
 Workshops (3)
-
-    Ethical Hacking — Hack it if you can!
-    Linux Installation Fest — Its a step towards open source!
-    Linux Command Line — Just command your way!
+<pre>
+Ethical Hacking — Hack it if you can!
+Linux Installation Fest — Its a step towards open source!
+Linux Command Line — Just command your way!
+</pre>
 
 Projects (5)
-
-    Makey Makey
-    Nith Registration Portal
-    Steganography
-    Events Portal
-    Women Safety App
+<pre>
+Makey Makey
+Nith Registration Portal
+Steganography
+Events Portal
+Women Safety App
+</pre>
 
 And several other projects were on display (those were on request from their owners) and with all this we rocked the Nimbus and regained the lost respect of the club along with an award for — **Excellence in online event**.
 
