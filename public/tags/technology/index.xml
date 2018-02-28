@@ -9,10 +9,22 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
-    <lastBuildDate>Fri, 24 Jun 2016 10:20:45 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 10:20:45 +0530</lastBuildDate>
     
 	<atom:link href="https://rishabhchaudhary.in/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is ZeroNet the future?</title>
+      <link>https://rishabhchaudhary.in/is_zeronet_the_future/</link>
+      <pubDate>Sun, 22 Jan 2017 10:20:45 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/is_zeronet_the_future/</guid>
+      <description>What is ZeroNet?
+It’s a Decentralized web platform using Bitcoin cryptography and BitTorrent network. Which provides open, free &amp;amp; uncensorable websites.
+ Why ZeroNet?
+   Because it provides Peer-to-Peer connectivity without any central server and hence content is distributed directly to visitors. Uncensored because its nowhere to be found. No hosting cost as sites are served by visitors. Impossible to shutdown as its nowhere yet everywhere. No point of failure as the site will keep serving till the last peer serving.</description>
+    </item>
     
     <item>
       <title>Team .EXE (joining the Team - part 1)</title>
