@@ -65,7 +65,7 @@ disqusShortname = "rishabh0402"
     BrandImage = "/logo.png" #top header brand image.
     brand = "Rishabh Chaudhary" # brand image alt text.
     topline = "Computer Science and Engineering Student."
-    footline = "Coded with <i style='color:red' class='fa fa-heart'></i>"
+    footline = "Made with <i style='color:red' class='fa fa-heart'></i>"
 
     # Show a sidebar menu
     showRightSidebar = true
