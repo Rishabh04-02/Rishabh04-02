@@ -48,34 +48,14 @@ disqusShortname = "rishabh0402"
 # All parameters below here are optional and can be mixed and matched.
 #
 
-# bootswatch theme name, unmark and select one: cerulean, cosmo (myedit : +2), cyborg (myedit : +1), darkly (myedit : +1),
-# default, flatly, journal,  lumen (myedit : +1), paper, readable, sandstone, simplex,
-# slate, spacelab, superhero, united, yeti (myedit : +2).
-
-[params.theme]
-  name = "yeti"
-
-[params.popover]
-  # This is a highly configurable popover form.
-  enablepopover = false #enable or disable popover: true/false.
-  posturl = "https://zapier.com/hooks/..."
-  headerimage = "//placehold.it/1000x600"
-  expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
-  cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
-  signupheader = "Join Our Newsletter"
-  showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
-  mouseleave = true #show popover when mouse leaves window: true/false.
-  modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
-  imagedescription = "Placeholder image for this popover modal optin form"
-  signuptext = "Signup today for free and be the first to get notified on new updates."
-  inputplaceholder = "Enter your email"
-  submitbutton = "Subscribe"
-  successmessage = "Thanks for your subscription!"
-  errormessage = "Submitting form failed!"
-  optin = true #opt-in: true/false
-
 [params]
-    # menu for changing language. This changes languages with js and stores the choice with the help
+  # bootswatch theme name, select one: cerulean, cosmo (+2:me), cyborg, darkly,
+  # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
+  # slate, spacelab, superhero, united, yeti(+2:me).
+
+  bootswatchtheme = "cosmo"
+
+  # menu for changing language. This changes languages with js and stores the choice with the help
     # of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the
     # md files needs to have the same name for each language abbreviation to work correctly. Example:
     # showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
@@ -113,6 +93,26 @@ disqusShortname = "rishabh0402"
     twitter = "Rishabh0402" # Your Twitter profile ID
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
+
+[params.popover]
+  # This is a highly configurable popover form.
+  enablepopover = false #enable or disable popover: true/false.
+  posturl = "https://zapier.com/hooks/..."
+  headerimage = "//placehold.it/1000x600"
+  expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
+  cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
+  signupheader = "Join Our Newsletter"
+  showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
+  mouseleave = true #show popover when mouse leaves window: true/false.
+  modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
+  imagedescription = "Placeholder image for this popover modal optin form"
+  signuptext = "Signup today for free and be the first to get notified on new updates."
+  inputplaceholder = "Enter your email"
+  submitbutton = "Subscribe"
+  successmessage = "Thanks for your subscription!"
+  errormessage = "Submitting form failed!"
+  optin = true #opt-in: true/false
+    
 
 [blackfriday]
     angledQuotes = true
