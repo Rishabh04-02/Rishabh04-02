@@ -79,7 +79,7 @@ disqusShortname = "rishabh0402"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
-    highlight = "default"
+    highlight = "monokai"
 
     # Google Analytics.
     googleAnalytics = "Your Google Analytics tracking code"
