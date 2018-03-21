@@ -88,19 +88,13 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/facebook/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rishabhchaudhary.in/tags/facebook/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/freebasics/</loc>
+    <loc>https://rishabhchaudhary.in/categories/facebook/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -112,8 +106,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/github/</loc>
-    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/freebasics/</loc>
+    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,8 +118,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/open-internet/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/github/</loc>
+    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -136,8 +130,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/opensource/</loc>
-    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/open-internet/</loc>
+    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -148,13 +142,19 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/poem/</loc>
-    <lastmod>2018-03-21T12:24:47+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/opensource/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rishabhchaudhary.in/tags/poem/</loc>
+    <lastmod>2018-03-21T12:24:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/categories/poem/</loc>
     <lastmod>2018-03-21T12:24:47+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -178,20 +178,14 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/teamexe/</loc>
-    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rishabhchaudhary.in/tags/teamexe/</loc>
     <lastmod>2016-06-24T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/technology/</loc>
-    <lastmod>2017-05-20T12:24:09+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/teamexe/</loc>
+    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,13 +196,13 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/topics/</loc>
+    <loc>https://rishabhchaudhary.in/categories/technology/</loc>
+    <lastmod>2017-05-20T12:24:09+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/travel/</loc>
-    <lastmod>2016-02-17T11:17:30+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/topics/</loc>
     <priority>0</priority>
   </url>
   
@@ -219,8 +213,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/vlc/</loc>
-    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/travel/</loc>
+    <lastmod>2016-02-17T11:17:30+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -231,8 +225,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/wannacry/</loc>
-    <lastmod>2017-05-20T12:24:09+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/vlc/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -243,8 +237,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/website/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/wannacry/</loc>
+    <lastmod>2017-05-20T12:24:09+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -255,8 +249,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/windows/</loc>
-    <lastmod>2016-01-06T10:11:43+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/website/</loc>
+    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,13 +261,19 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/zeronet/</loc>
-    <lastmod>2017-01-30T10:20:45+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/windows/</loc>
+    <lastmod>2016-01-06T10:11:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rishabhchaudhary.in/tags/zeronet/</loc>
+    <lastmod>2017-01-30T10:20:45+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/categories/zeronet/</loc>
     <lastmod>2017-01-30T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
