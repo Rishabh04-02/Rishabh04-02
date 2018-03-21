@@ -10,23 +10,23 @@ keywords: ["poem by rishabh","poem by rishabh chaudhary"]
 
 
 <center><b>
-Being misunderstood has become a part of my life,<br><br>
+Being misunderstood has become a part of my life,<br>
 people here will judge you on the base of strife.<br><br>
-Life has changed a lot,<br><br>
+Life has changed a lot,<br>
 like a growing money-plant in a pot.<br><br>
-Once a happy soul,<br><br>
+Once a happy soul,<br>
 is now a hated ghoul.<br><br>
-No, one wants to be in your shoes,<br><br>
+No, one wants to be in your shoes,<br>
 but everyone wants to get you blues.<br><br>
-Trying hard to find the meaning of life’s valley,<br><br>
+Trying hard to find the meaning of life’s valley,<br>
 but at every step being cheated by some ally.<br><br>
-Still hopeful that someday they’ll understand my action,<br><br>
+Still hopeful that someday they’ll understand my action,<br>
 and will give me the deserved reactions.<br><br>
 </b></center>
 
 ___________________________________________
-``` 
-© : Rishabh Chaudhary 
+```
+© : Rishabh Chaudhary
 ```
 
 ___________________________________________
