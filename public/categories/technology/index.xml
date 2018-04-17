@@ -33,8 +33,9 @@ Well It’s source code is not yet available, but below is some information that
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
       <guid>https://rishabhchaudhary.in/how_does_zeronet_work/</guid>
       <description>The Basics of Asymmetric Cryptography  When i create a new site we get two keys -
-Private Key 5JNiiGspzqt8sC8FM54FMr53U9XvLVh8Waz6YYDK69gG6hso9xu Public key 16YsjZK9nweXyy3vNQQPKT8tfjCNjEX9JM  a) Private key 5JNiiGspzqt8sC8FM54FMr53U9XvLVh8Waz6YYDK69gG6hso9xIu
- Only I have it. It allows me to sign new content to the site. No central registry, it never leaves my computer. It don’t need to be published anywhere. Impossible to modify site without it.  b) Public key 16YsjZK9nweXyy3vNQQPKT8tfjCNjEX9JM</description>
+Private Key 5JNiiGspzqt8sC8FM54FMr53U9XvL\ Vh8Waz6YYDK69gG6hso9xu Public key 16YsjZK9nweXyy3vNQ\ QPKT8tfjCNjEX9JM  a) Private key 5JNiiGspzqt8sC8FM54FMr53U9XvL
+Vh8Waz6YYDK69gG6hso9xIu
+ Only I have it. It allows me to sign new content to the site. No central registry, it never leaves my computer. It don’t need to be published anywhere. Impossible to modify site without it.  b) Public key 16YsjZK9nweXyy3vNQ</description>
     </item>
     
     <item>

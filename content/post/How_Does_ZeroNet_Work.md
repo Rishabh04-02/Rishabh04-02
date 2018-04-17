@@ -13,12 +13,15 @@ keywords: ["Zeronet working","How does Zeronet work"]
 
 When i create a new site we get two keys -
 
-	Private Key 5JNiiGspzqt8sC8FM54FMr53U9XvLVh8Waz6YYDK69gG6hso9xu
+	Private Key 5JNiiGspzqt8sC8FM54FMr53U9XvL\
+	Vh8Waz6YYDK69gG6hso9xu
 
-    Public key 16YsjZK9nweXyy3vNQQPKT8tfjCNjEX9JM
+    Public key 16YsjZK9nweXyy3vNQ\
+    QPKT8tfjCNjEX9JM
 
 
-a) Private key <code>5JNiiGspzqt8sC8FM54FMr53U9XvLVh8Waz6YYDK69gG6hso9xIu</code>
+a) Private key <code>5JNiiGspzqt8sC8FM54FMr53U9XvL\
+Vh8Waz6YYDK69gG6hso9xIu</code>
 
 * Only **I have it**.
 * It allows me to **sign new content** to the site.
@@ -26,7 +29,8 @@ a) Private key <code>5JNiiGspzqt8sC8FM54FMr53U9XvLVh8Waz6YYDK69gG6hso9xIu</code>
 * **Impossible to modify** site without it.
 
 
-b) Public key <code>16YsjZK9nweXyy3vNQQPKT8tfjCNjEX9JM</code>
+b) Public key <code>16YsjZK9nweXyy3vNQ\
+QPKT8tfjCNjEX9JM</code>
 
 * This is my **site’s address**.
 * Using this anyone can **verify** that the content on the site is created by me (site owner).
