@@ -8,7 +8,7 @@ Categories: ["gsoc","technology"]
 keywords: ["rishabh GSOC","GSOC rishabh chaudhary","GSOC","Google summer of code Rishabh"]
 ---
 
-![Google Summer of Code](https://rishabhchaudhary.in/gsoclogo.jpg)
+![Google Summer of Code](https://rishabhchaudhary.in/gsoc-logo.svg)
 
 
 **Google Summer of Code (GSOC) 2018** result was announced on April 23 at 09:30PM.
