@@ -8,6 +8,9 @@ Categories: ["gsoc","technology"]
 keywords: ["rishabh GSOC","GSOC rishabh chaudhary","GSOC","Google summer of code Rishabh"]
 ---
 
+![Google Summer of Code](https://rishabhchaudhary.in/gsoclogo.jpg)
+
+
 **Google Summer of Code (GSOC) 2018** result was announced on April 23 at 09:30PM.
 I got selected for GSOC 2018 😊 in organization [The Libreswan Project](https://libreswan.org/).
 My project is [Web based Certificate and Profile User Interface](https://summerofcode.withgoogle.com/projects/#5863013991579648).
