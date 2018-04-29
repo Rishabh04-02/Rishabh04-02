@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gsoc on Rishabh Chaudhary</title>
+    <link>https://rishabhchaudhary.in/tags/gsoc/</link>
+    <description>Recent content in Gsoc on Rishabh Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
+    <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
+    <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 10:51:04 +0530</lastBuildDate>
+    
+	<atom:link href="https://rishabhchaudhary.in/tags/gsoc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Summer of Code(GSOC) 2018</title>
+      <link>https://rishabhchaudhary.in/rishabh_gsoc_2018/</link>
+      <pubDate>Sun, 29 Apr 2018 10:51:04 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/rishabh_gsoc_2018/</guid>
+      <description>Google Summer of Code(GSOC) 2018 result was announced on April 23 at 09:30PM. I got selected for GSOC 2018 in organization The Libreswan Project. My project is Web based Certificate and Profile User Interface.
+I am really happy, It means a lot to me. Special thanks to Manoj Kumar (The motivator), Gurpreet singh and Lokesh sharma . These guys helped me a lot in making this possible and also my family and friends who always encouraged and helped me in my bad times.</description>
+    </item>
+    
+  </channel>
+</rss>
