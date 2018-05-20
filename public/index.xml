@@ -9,10 +9,29 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
-    <lastBuildDate>Sun, 29 Apr 2018 10:51:04 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 11:23:06 +0530</lastBuildDate>
     
 	<atom:link href="https://rishabhchaudhary.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>See you soon</title>
+      <link>https://rishabhchaudhary.in/see_you_soon/</link>
+      <pubDate>Sun, 20 May 2018 11:23:06 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/see_you_soon/</guid>
+      <description> This Poem is dedicated to my dearest friend Pooja.
+ See you soon,
+even if that means passing through dune.
+You are one of my dearest friends,
+for whom I pray, her happiness ascends.
+You are one of the finest persons in my life,
+whom I never want to see in strife.
+You are the one inspiring girl,
+who one day will surely shine like a pearl.
+
+© : Rishabh Chaudhary  </description>
+    </item>
     
     <item>
       <title>Google Summer of Code(GSOC) 2018</title>
