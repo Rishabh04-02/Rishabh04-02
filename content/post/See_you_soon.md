@@ -13,7 +13,7 @@ keywords: ["poem by rishabh","poem by rishabh chaudhary","see you soon"]
 *This Poem is dedicated to my dearest friend Pooja.*<br><br>
 <b>
 See you soon,<br>
-even if that means passing through dune.<br><br>
+even if that means passing through dunes.<br><br>
 You are one of my dearest friends,<br>
 for whom I pray, her happiness ascends.<br><br>
 You are one of the finest persons in my life,<br>
