@@ -9,10 +9,20 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
-    <lastBuildDate>Sun, 20 May 2018 11:23:06 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 23 May 2018 13:17:22 +0530</lastBuildDate>
     
 	<atom:link href="https://rishabhchaudhary.in/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GSOC - Selecting the project and organization</title>
+      <link>https://rishabhchaudhary.in/gsoc_selecting_the_project_and_organization/</link>
+      <pubDate>Wed, 23 May 2018 13:17:22 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/gsoc_selecting_the_project_and_organization/</guid>
+      <description>On February 5 I started working towards GSOC 2018. I remember the date because my birthday is on 4th February and it was the day I decided that I&amp;rsquo;ll try to be a part of GSOC 2018.
+So, the first step in the process is the selection of a project/organization. Instead of selecting the organization I thought to go for a project of my interest, as in case of selecting an organization it is possible that the organization is doing something that interests us but their available projects don&amp;rsquo;t interests us much.</description>
+    </item>
     
     <item>
       <title>See you soon</title>
