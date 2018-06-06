@@ -20,4 +20,8 @@ During this searching period I was contributing to the projects of the organizat
 It was already March and after getting the responses of the mentors of the organizations Zenodo and The Libreswan Project, I decided to go with the project of Libreswan. 
 
 Note - Usually the students contribute to multiple projects from different organizations as it increases their chances of getting selected for GSOC.
+
+
+Next post(GSOC Initial phase and getting selected) coming soon....
+
 ___________________________________________
