@@ -3,8 +3,8 @@ title: "Google Summer of Code(GSOC) 2018"
 date: 2018-04-29T10:51:04+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/Rishabh_GSOC_2018/"
-Tags: ["GSOC","technology"]
-Categories: ["GSOC","technology"]
+Tags: ["GSOC","Libreswan","technology"]
+Categories: ["GSOC","Libreswan","technology"]
 keywords: ["rishabh GSOC","GSOC rishabh chaudhary","GSOC","Google summer of code Rishabh"]
 ---
 
@@ -19,6 +19,6 @@ I am really happy 😊, It means a lot to me.
 Special thanks to **Manoj Kumar**, **Gurpreet singh** and **Lokesh sharma**. These guys helped me a lot in making this possible by motivating and supporting me during the phase, also my family and friends who always encouraged me to go an extra mile and helped me in my bad times.
 
 
-Post - [GSOC - Selecting the project and organization](https://rishabhchaudhary.in/gsoc_selecting_the_project_and_organization/)
+Next Post - [GSOC - Selecting the project and organization](https://rishabhchaudhary.in/gsoc_selecting_the_project_and_organization/)
 
 ___________________________________________

@@ -9,11 +9,12 @@ keywords: ["about rishabh","about rishabh chaudhary"]
 ## Information -
 
 * Rishabh Chaudhary is a 9th semester B.Tech+M.Tech Computer Science Engineering (Dual Degree) student at [National Institute of Technology Hamirpur](http://nith.ac.in/) (H.P.), India - 177005.
-* Passed 12th (2014 batch) from DAV Public School Baghni, Nurpur (H.P.), India – 176202. 
-* Training & Placement Representative final year at [NIT Hamirpur](http://nith.ac.in/).
+* Passed 12th (2014 batch) from [M.C.M. DAV Sr. Sec. Public School Baghni, Nurpur](http://www.davbaghni.com/) Distt. Kangra(H.P.), India – 176202. 
+* Training & Placement Coordinator at [NIT Hamirpur](http://nith.ac.in/).
 * Member of [GLUG](http://glug.nith.ac.in/).
 * Member of [Team .EXE](http://exe.nith.ac.in/).
-* Maintainer [Awesome CSS](https://github.com/sotayamashita/awesome-css).
+* Maintainer [Awesome CSS](https://github.com/awesome-css-group/awesome-css).
+* Google Summer of Code 2018 student at [The Libreswan Project](https://libreswan.org/).
 
 ___________________________________________
 

@@ -13,11 +13,7 @@ keywords: ["contact rishabh","contact rishabh chaudhary"]
 
 * **Linkedin  <i class='fa fa-linkedin'></i>** - [Rishabh Chaudhary](https://www.linkedin.com/in/rishabh-chaudhary-0402/).
 
-* **Facebook  <i style="color: navy" class='fa fa-facebook'></i>** - [Rishabh0402](https://www.facebook.com/rishabh0402).
-
-* **Instagram <i style="color: fuchsia" class='fa fa-instagram'></i>** - **Error 404** : User Not Found.
-
-________________
+______________________
 
 
 <a href="https://twitter.com/rishabh0402?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rishabh0402</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

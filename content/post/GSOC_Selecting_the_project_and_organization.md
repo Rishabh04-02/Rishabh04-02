@@ -3,8 +3,8 @@ title: "GSOC - Selecting the project and organization"
 date: 2018-05-23T13:17:22+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/GSOC_Selecting_the_project_and_organization/"
-Tags: ["GSOC","Libreswan"]
-Categories: ["GSOC","Libreswan"]
+Tags: ["GSOC","Libreswan","technology"]
+Categories: ["GSOC","Libreswan","technology"]
 keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code"]
 ---
 

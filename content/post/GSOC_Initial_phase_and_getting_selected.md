@@ -3,8 +3,8 @@ title: "GSOC - Initial phase and getting selected"
 date: 2018-06-06T13:50:45+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/GSOC_Initial_phase_and_getting_selected/"
-Tags: ["GSOC","Libreswan"]
-Categories: ["GSOC","Libreswan"]
+Tags: ["GSOC","Libreswan","technology"]
+Categories: ["GSOC","Libreswan","technology"]
 keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code"]
 ---
 
@@ -38,6 +38,6 @@ Then I shared the draft(80% complete) with the project mentor but got no suggest
 Its already 09:30 PM on the result day, I'm busy chatting with a friend regarding the photos of a trip and completely unaware of the fact that the result was to be announced at 09:30 PM. Its when I saw the story of a friend stating "GSOC result @ 09:30", I realized it. Then I checked the result on their website and I was selected :joy: (wasn't having much expectations, although had worked a lot). Then I told my friend (i was chatting with) about it and then my other friends from the hostel, we all were excited as hell (me because you know and they because they'd no idea I am applying for GSOC, it came to them as a great surprise) and then I went to meet my those friends who've helped me achieve this target by motivating and supporting me and at last but not the least I called my parents to give them this great news.
 
 ## The journey
-This journey till the phase of selection was exciting and full of suspense and during this I lost my motivation many times to keep going. I used to sleep like *I can't do it anymore* and then wake up like *I'll try one more time*. Many times Manoj helped me regain my motivation and the other times my inner self.
+This journey till the phase of selection was exciting and full of suspense and during this I lost my motivation to keep going many times. I used to sleep like *I can't do it anymore* and then wake up like *I'll try one more time*. Many times Manoj helped me regain my motivation and the other times my inner self.
 
 ___________________________________________
