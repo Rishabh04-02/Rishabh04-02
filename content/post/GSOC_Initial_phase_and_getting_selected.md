@@ -1,5 +1,5 @@
 ---
-title: "GSOC Initial phase and getting selected"
+title: "GSOC - Initial phase and getting selected"
 date: 2018-06-06T13:50:45+05:30
 draft: false
 project_url: "https://www.rishabhchaudhary.in/GSOC_Initial_phase_and_getting_selected/"

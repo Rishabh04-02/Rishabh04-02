@@ -25,6 +25,6 @@ It was already March and after getting the responses of the mentors of the organ
 Note - Usually the students contribute to multiple projects from different organizations as it increases their chances of getting selected for GSOC.
 
 
-Next post - [GSOC Initial phase and getting selected](https://www.rishabhchaudhary.in/GSOC_Initial_phase_and_getting_selected/)
+Next post - [GSOC - Initial phase and getting selected](https://www.rishabhchaudhary.in/GSOC_Initial_phase_and_getting_selected/)
 
 ___________________________________________
