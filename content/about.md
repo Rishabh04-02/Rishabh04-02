@@ -8,7 +8,7 @@ keywords: ["about rishabh","about rishabh chaudhary"]
 
 ## Information -
 
-* Rishabh Chaudhary is an 8th semester Computer Science and Engineering student at [National Institute Of Technology Hamirpur](http://nith.ac.in/) (H.P.), India - 177005.
+* Rishabh Chaudhary is a 9th semester B.Tech+M.Tech Computer Science Engineering (Dual Degree) student at [National Institute of Technology Hamirpur](http://nith.ac.in/) (H.P.), India - 177005.
 * Passed 12th (2014 batch) from DAV Public School Baghni, Nurpur (H.P.), India – 176202. 
 * Training & Placement Representative final year at [NIT Hamirpur](http://nith.ac.in/).
 * Member of [GLUG](http://glug.nith.ac.in/).
