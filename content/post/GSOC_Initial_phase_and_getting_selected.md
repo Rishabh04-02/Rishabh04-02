@@ -8,6 +8,9 @@ Categories: ["GSOC","Libreswan"]
 keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code"]
 ---
 
+![Google Summer of Code](https://rishabhchaudhary.in/gsoc-logo.svg)
+
+
 Previous post - [GSOC - Selecting the project and organization](https://rishabhchaudhary.in/gsoc_selecting_the_project_and_organization/)
 
 *Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do*. - Pele

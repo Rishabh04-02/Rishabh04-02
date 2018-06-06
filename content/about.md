@@ -50,4 +50,4 @@ ___________________________________________
     new GitHubCalendar(".calendar", "Rishabh04-02");
 </script>
 
-<center>Contributin Graph Credits [IonicaBizau](https://github.com/IonicaBizau/).</center>
+<center>Contribution Graph Credits [IonicaBizau](https://github.com/IonicaBizau/).</center>
