@@ -158,8 +158,14 @@ disqusShortname = "rishabh0402"
     url = "/contact"
 
     [[Languages.en.menu.main]]
+    name = "Projects"
+    identifier = ""
+    weight = 3
+    url = "/projects"
+
+    [[Languages.en.menu.main]]
     name = "Blog"
     pre = ""
-    weight = 3
+    weight = 4
     identifier = "post"
     url = "/post/"
