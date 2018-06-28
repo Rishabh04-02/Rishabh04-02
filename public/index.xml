@@ -9,10 +9,20 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
     <copyright>(c) : 2018 | Rishabh Chaudhary</copyright>
-    <lastBuildDate>Wed, 06 Jun 2018 13:50:45 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 15:02:13 +0530</lastBuildDate>
     
 	<atom:link href="https://rishabhchaudhary.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://rishabhchaudhary.in/projects/</link>
+      <pubDate>Wed, 27 Jun 2018 15:02:13 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/projects/</guid>
+      <description>Loading the data just for you.   new GitHubCalendar(&#34;.calendar&#34;, &#34;Rishabh04-02&#34;);  1. Libreswan managing interface  GSoC 2018, Django 2.0, Python 3.5, MySQL, HTML-CSS
+ Background There are shell scripts for creating X.509 certificates, revoking certificates and signing CRLs and scripts for the creation of Profile certificate files for certain devices such as Linux, Apple OS X, Windows, iOS, etc., these require careful specification of various certificate attributes so that these certificates work on a variety of devices: Android, Windows, iOS/OSX, Linux, etc.</description>
+    </item>
     
     <item>
       <title>GSOC - Initial phase and getting selected</title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rishabhchaudhary.in/projects/</loc>
+    <lastmod>2018-06-27T15:02:13+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rishabhchaudhary.in/gsoc_initial_phase_and_getting_selected/</loc>
     <lastmod>2018-06-06T13:50:45+05:30</lastmod>
   </url>
@@ -113,19 +118,13 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/facebook/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rishabhchaudhary.in/tags/facebook/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/freebasics/</loc>
+    <loc>https://rishabhchaudhary.in/categories/facebook/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -137,8 +136,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/github/</loc>
-    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/freebasics/</loc>
+    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,8 +148,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/gsoc/</loc>
-    <lastmod>2018-06-06T13:50:45+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/github/</loc>
+    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,7 +160,7 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/libreswan/</loc>
+    <loc>https://rishabhchaudhary.in/categories/gsoc/</loc>
     <lastmod>2018-06-06T13:50:45+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -173,8 +172,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/open-internet/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/libreswan/</loc>
+    <lastmod>2018-06-06T13:50:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,8 +184,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/opensource/</loc>
-    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/open-internet/</loc>
+    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,13 +196,19 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/poem/</loc>
-    <lastmod>2018-05-20T11:23:06+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/opensource/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rishabhchaudhary.in/tags/poem/</loc>
+    <lastmod>2018-05-20T11:23:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/categories/poem/</loc>
     <lastmod>2018-05-20T11:23:06+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -216,7 +221,7 @@
   
   <url>
     <loc>https://rishabhchaudhary.in/</loc>
-    <lastmod>2018-06-06T13:50:45+05:30</lastmod>
+    <lastmod>2018-06-27T15:02:13+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -227,20 +232,14 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/teamexe/</loc>
-    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rishabhchaudhary.in/tags/teamexe/</loc>
     <lastmod>2016-06-24T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/technology/</loc>
-    <lastmod>2018-06-06T13:50:45+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/teamexe/</loc>
+    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -251,13 +250,13 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/topics/</loc>
+    <loc>https://rishabhchaudhary.in/categories/technology/</loc>
+    <lastmod>2018-06-06T13:50:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/travel/</loc>
-    <lastmod>2016-02-17T11:17:30+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/topics/</loc>
     <priority>0</priority>
   </url>
   
@@ -268,8 +267,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/vlc/</loc>
-    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/travel/</loc>
+    <lastmod>2016-02-17T11:17:30+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -280,8 +279,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/wannacry/</loc>
-    <lastmod>2017-05-20T12:24:09+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/vlc/</loc>
+    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -292,8 +291,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/website/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/wannacry/</loc>
+    <lastmod>2017-05-20T12:24:09+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,8 +303,8 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/windows/</loc>
-    <lastmod>2016-01-06T10:11:43+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/website/</loc>
+    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -316,13 +315,19 @@
   </url>
   
   <url>
-    <loc>https://rishabhchaudhary.in/categories/zeronet/</loc>
-    <lastmod>2017-01-30T10:20:45+05:30</lastmod>
+    <loc>https://rishabhchaudhary.in/categories/windows/</loc>
+    <lastmod>2016-01-06T10:11:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rishabhchaudhary.in/tags/zeronet/</loc>
+    <lastmod>2017-01-30T10:20:45+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rishabhchaudhary.in/categories/zeronet/</loc>
     <lastmod>2017-01-30T10:20:45+05:30</lastmod>
     <priority>0</priority>
   </url>
