@@ -95,7 +95,7 @@ ___________________________________________
 
 | Skill Type | Skills list|
 |------:|:------|
-| Programming Languages | **C**, **C++**, **Python**, **PHP**, **Javascript**, **R** |
+| Programming Languages | **C**, **C++**, **Python**, **Javascript**, **Bash**, **PHP** |
 | Softwares | **MySQL**, **Apache**, **Git**, **Matlab**, **MS Office** |
 | Web | **HTML**, **CSS**, **Bootstrap**, **HUGO**, **Jquery**, **Django** |
 | Design | **Adobe Photoshop**, **Adobe Premier Pro**, **Adobe After Effects**, **Sony Vegas Pro** |
