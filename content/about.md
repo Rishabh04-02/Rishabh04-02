@@ -14,7 +14,7 @@ ___________________________________________
 
 ## Education -
 * 	**National Institute of Technology Hamirpur**<br>
-	Degree Name - **Dual Degree (5 year Integrated B.Tech + M. Tech)**<br>
+	Degree Name - **Dual Degree (Bachelors and Masters)**<br>
 	Field Of Study - **Computer Science and Engineering**<br>
 	Dates attended 2014 – 2019<br>
 	Activities and Societies: Team .EXE, GLUG NITH<br>
