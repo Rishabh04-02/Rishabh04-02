@@ -8,8 +8,8 @@ keywords: ["about rishabh","about rishabh chaudhary"]
 
 ## Information -
 
-Hi, I'm an experienced Developer with a demonstrated history of working in various teams, clubs & societies. Skilled in Python, C, C++, PHP, Microsoft Office (Word, Excel & PPT). Strong Professional working as Student Training and Placements Coordinator and pursuing the course of Dual degree (Bachelors and Masters) in Computer Science & Engineering from one of the prestigious institutes, National Institute of Technology, Hamirpur (H.P.).<br>
-<a href="https://docs.google.com/document/d/16cGd-uWYytl8NHFBKTGl08DcWiDunjrVDu2svCaKKWI/edit?usp=sharing" target="_blank">View my Resume</a>
+Hi, I'm an experienced Developer with a demonstrated history of working in various teams, clubs & societies. Skilled in Python, C, C++, PHP, Microsoft Office (Word, Excel & PPT). Strong Professional working as Student Training and Placements Coordinator and pursuing the course of Dual degree (Bachelors and Masters) in Computer Science & Engineering from one of the prestigious institutes, National Institute of Technology, Hamirpur (H.P.).<br><br>
+<a href="https://docs.google.com/document/d/16cGd-uWYytl8NHFBKTGl08DcWiDunjrVDu2svCaKKWI/edit?usp=sharing" target="_blank"><button><b>View my Resume</b></button></a>
 
 ___________________________________________
 
