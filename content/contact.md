@@ -11,7 +11,7 @@ keywords: ["contact rishabh","contact rishabh chaudhary"]
 
 * **Twitter  <i class='fa fa-twitter'></i>** - [Rishabh0402](https://twitter.com/Rishabh0402).
 
-* **Linkedin  <i class='fa fa-linkedin'></i>** - [Rishabh Chaudhary](https://www.linkedin.com/in/rishabh-chaudhary-0402/).
+* **Linkedin  <i class='fa fa-linkedin'></i>** - [Rishabh Chaudhary](https://www.linkedin.com/in/rishabh0402/).
 
 ______________________
 

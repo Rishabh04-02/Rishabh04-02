@@ -8,7 +8,8 @@ keywords: ["about rishabh","about rishabh chaudhary"]
 
 ## Information -
 
-Hi I am Rishabh  an experienced Coordinator with a demonstrated history of working in various teams, clubs & societies. Skilled in Python, PHP, Microsoft Word, Excel and C++. Strong professional with a high school focused in Science from DAV public school Nurpur (HP) & pursuing the course of Dual degree (5 year Integrated B.Tech. + M.Tech.) in Computer Science & Engineering from one of the prestigious institute, National Institute of Technology, Hamirpur (H.P.).
+Hi, I'm an experienced Developer with a demonstrated history of working in various teams, clubs & societies. Skilled in Python, C, C++, PHP, Microsoft Office (Word, Excel & PPT). Strong Professional working as Student Training and Placements Coordinator and pursuing the course of Dual degree (Bachelors and Masters) in Computer Science & Engineering from one of the prestigious institutes, National Institute of Technology, Hamirpur (H.P.).<br>
+<a href="https://docs.google.com/document/d/16cGd-uWYytl8NHFBKTGl08DcWiDunjrVDu2svCaKKWI/edit?usp=sharing" target="_blank">View my Resume</a>
 
 ___________________________________________
 
