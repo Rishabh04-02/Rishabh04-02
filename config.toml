@@ -82,7 +82,7 @@ disqusShortname = "rishabh0402"
     highlight = "monokai"
 
     # Google Analytics.
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-69202678-1"
 
     # Sidebar social links.
     github = "Rishabh04-02" # Your Github profile ID
@@ -141,7 +141,7 @@ disqusShortname = "rishabh0402"
     [Languages]
     [Languages.en]
     weight = 1
-    copyright = "(c) : 2018 | Rishabh Chaudhary"
+    copyright = "(c) : 2019 | Rishabh Chaudhary"
     title = "Rishabh Chaudhary" # Site title
 
     [[Languages.en.menu.main]]
