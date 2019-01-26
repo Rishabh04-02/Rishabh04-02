@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wannacry on Rishabh Chaudhary</title>
+    <link>https://rishabhchaudhary.in/categories/wannacry/</link>
+    <description>Recent content in Wannacry on Rishabh Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
+    <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
+    <copyright>(c) : 2019 | Rishabh Chaudhary</copyright>
+    <lastBuildDate>Sat, 20 May 2017 12:24:09 +0530</lastBuildDate>
+    
+	<atom:link href="https://rishabhchaudhary.in/categories/wannacry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Few things about WannaCry ransomware</title>
+      <link>https://rishabhchaudhary.in/few_things_about_wannacry_ransomware/</link>
+      <pubDate>Sat, 20 May 2017 12:24:09 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/few_things_about_wannacry_ransomware/</guid>
+      <description>A global cyber attack has been underway since Friday 12 May 2017, affecting more than 200,000 organizations and 230,000 computers in over 150 countries. It has been described as unprecedented in scale.
+
+Well It’s source code is not yet available, but below is some information that can be useful in understanding its structure and behavior.
+ Virus Name: WannaCrypt, WannaCry, WanaCrypt0r, WCrypt, WCRY Vector: All Windows versions before Windows 10 are vulnerable if not patched for MS-17–010.</description>
+    </item>
+    
+  </channel>
+</rss>

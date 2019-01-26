@@ -22,11 +22,11 @@ _______________________________________
 
 <center><b>
 The coast grew silent & so did I,<br>
-But she was somehow smiling with joy,.<br><br>
+But she was somehow smiling with joy.<br><br>
 The happy moments come to my mind,<br>
 When I saw in her eyes who was never mine.<br><br>
 And then she said a very good bye,<br>
-To which I said but why, but why..<br><br>
+To which I said but why, but why...<br><br>
 And there she goes with her new boyfriend,<br>
 And I was left at the coast with a wedding card in my hand.<br><br>
 </b></center>
@@ -34,7 +34,7 @@ And I was left at the coast with a wedding card in my hand.<br><br>
 ___________________________________________
 
 <center><b>
-Completely broken I thought to jump & end my life in the endless sea..<br>
+Completely broken I thought to jump & end my life in the endless sea...<br>
 But then there comes god’s gift to me,<br>
 My best friend who always wished for me.<br><br>
 Who saved my life & made it clear,<br>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vlc on Rishabh Chaudhary</title>
+    <link>https://rishabhchaudhary.in/categories/vlc/</link>
+    <description>Recent content in Vlc on Rishabh Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
+    <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
+    <copyright>(c) : 2019 | Rishabh Chaudhary</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 10:00:44 +0530</lastBuildDate>
+    
+	<atom:link href="https://rishabhchaudhary.in/categories/vlc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extended uses of VLC</title>
+      <link>https://rishabhchaudhary.in/extended_uses_of_vlc/</link>
+      <pubDate>Fri, 01 Jan 2016 10:00:44 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/extended_uses_of_vlc/</guid>
+      <description>You thought vlc as just another audio/video player, but to your surprise its much more than that. If you are using vlc you must be using it because its quite popular and maybe your friend recommended it to you as its a good player and if you ask him/her how its good then you must got in reply that it can play more formats of video than any other player can even think of.</description>
+    </item>
+    
+  </channel>
+</rss>

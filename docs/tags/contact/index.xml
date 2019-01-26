@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Rishabh Chaudhary</title>
+    <link>/tags/contact/</link>
+    <description>Recent content in Contact on Rishabh Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
+    <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
+    <copyright>(c) 2018 Rishabh Chaudhary</copyright>
+    <lastBuildDate>Wed, 27 Dec 2017 15:02:13 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact - Rishabh Chaudhary</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 27 Dec 2017 15:02:13 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>/contact/</guid>
+      <description>Reach me - Email id - rishabh0402@gmail.com.
+Twitter - Rishabh0402.
+Not available on Facebook and Instagram.</description>
+    </item>
+    
+  </channel>
+</rss>

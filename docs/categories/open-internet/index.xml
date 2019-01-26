@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Internet on Rishabh Chaudhary</title>
+    <link>https://rishabhchaudhary.in/categories/open-internet/</link>
+    <description>Recent content in Open Internet on Rishabh Chaudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
+    <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
+    <copyright>(c) : 2019 | Rishabh Chaudhary</copyright>
+    <lastBuildDate>Fri, 25 Dec 2015 11:25:55 +0530</lastBuildDate>
+    
+	<atom:link href="https://rishabhchaudhary.in/categories/open-internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Net Neutrality &amp; its relation with free basics and internet.org by Facebook</title>
+      <link>https://rishabhchaudhary.in/net_neutrality_and_its_relation_with_free_basics_and_internet.org_by_facebook/</link>
+      <pubDate>Fri, 25 Dec 2015 11:25:55 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <guid>https://rishabhchaudhary.in/net_neutrality_and_its_relation_with_free_basics_and_internet.org_by_facebook/</guid>
+      <description>This post deals with the importance of Net neutrality and its relation with services like free basics and internet.org by facebook.
+ what is net neutrality?  Net neutrality (also network neutrality, Internet neutrality, or net equality) is the principle that Internet service providers and governments should treat all data on the Internet the same, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication.</description>
+    </item>
+    
+  </channel>
+</rss>
