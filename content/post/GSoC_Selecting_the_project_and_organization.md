@@ -1,10 +1,10 @@
 ---
-title: "GSOC - Selecting the project and organization"
+title: "GSoC - Selecting the project and organization"
 date: 2018-05-23T13:17:22+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/GSOC_Selecting_the_project_and_organization/"
-Tags: ["GSOC","Libreswan","technology"]
-Categories: ["GSOC","Libreswan","technology"]
+project_url: "https://www.rishabhchaudhary.in/GSoC_Selecting_the_project_and_organization/"
+Tags: ["GSoC","Libreswan","technology"]
+Categories: ["GSoC","Libreswan","technology"]
 keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code"]
 ---
 
@@ -25,6 +25,6 @@ It was already March and after getting the responses of the mentors of the organ
 Note - Usually the students contribute to multiple projects from different organizations as it increases their chances of getting selected for GSoC.
 
 
-Next post - [GSoC - Initial phase and getting selected](https://www.rishabhchaudhary.in/GSOC_Initial_phase_and_getting_selected/)
+Next post - [GSoC - Initial phase and getting selected](https://www.rishabhchaudhary.in/GSoC_Initial_phase_and_getting_selected/)
 
 ___________________________________________

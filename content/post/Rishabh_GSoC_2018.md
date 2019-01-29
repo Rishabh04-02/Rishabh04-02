@@ -1,11 +1,11 @@
 ---
-title: "Google Summer of Code(GSOC) 2018"
+title: "Google Summer of Code(GSoC) 2018"
 date: 2018-04-29T10:51:04+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/Rishabh_GSOC_2018/"
-Tags: ["GSOC","Libreswan","technology"]
-Categories: ["GSOC","Libreswan","technology"]
-keywords: ["rishabh GSOC","GSOC rishabh chaudhary","GSOC","Google summer of code Rishabh"]
+project_url: "https://www.rishabhchaudhary.in/Rishabh_GSoC_2018/"
+Tags: ["GSoC","Libreswan","technology"]
+Categories: ["GSoC","Libreswan","technology"]
+keywords: ["rishabh GSoC","GSoC rishabh chaudhary","GSoC","Google summer of code Rishabh"]
 ---
 
 ![Google Summer of Code](https://rishabhchaudhary.in/gsoc-logo.svg)
