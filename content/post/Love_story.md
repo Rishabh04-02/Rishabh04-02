@@ -13,7 +13,7 @@ keywords: ["poem by rishabh","poem by rishabh chaudhary","Love Story"]
 It all started with a pleasant smile,<br>
 which left its imprint for a while.<br><br>
 Then came the part of introduction,<br>
-which lasted longer the usual deduction.<br><br>
+which lasted longer than the usual deduction.<br><br>
 Our meetings started getting long and cosy,<br>
 little did we know that it's going to be rosy.<br><br>
 The realization of it being love wasn't late,<br>
