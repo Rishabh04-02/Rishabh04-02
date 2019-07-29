@@ -7,138 +7,103 @@ keywords: ["about rishabh","about rishabh chaudhary"]
 ---
 
 ## Information -
-
-Hi, I'm an experienced Developer with a demonstrated history of working in various teams, clubs & societies. Skilled in Python, C, C++, PHP, Microsoft Office (Word, Excel & PPT). Strong Professional working as Student Training and Placements Coordinator and pursuing the course of Dual degree (Bachelors and Masters) in Computer Science & Engineering from one of the prestigious institutes, National Institute of Technology, Hamirpur (H.P.).<br><br>
-<a href="https://docs.google.com/document/d/16cGd-uWYytl8NHFBKTGl08DcWiDunjrVDu2svCaKKWI/edit?usp=sharing" target="_blank"><button><b>View my Resume</b></button></a>
+Smart and Adaptive with a keen interest in Research and Development in the field of Information security, Internet of Things, and Opportunistic Encryption. An achiever and a team player with a demonstrated history of leading/working in various Teams, Clubs & Societies. Held responsibility as Student training and placement Coordinator at National Institute of Technology Hamirpur.
+<br><br><a href="https://drive.google.com/file/d/1lg_m6PtkVcnSDPLGqUbWBo8AQPP3czTA/view?usp=sharing" target="_blank"><button style="width: 35%"><b>View my Resume</b></button></a>  <a href="https://www.linkedin.com/in/rishabh0402/" target="_blank"><button style="width: 35%"><b>Visit my Linkedin Profile</b></button></a>
 
 ___________________________________________
+
 
 ## Education -
-* 	**National Institute of Technology Hamirpur**<br>
-	Degree Name - **Dual Degree (Bachelors and Masters)**<br>
-	Field Of Study - **Computer Science and Engineering**<br>
-	Dates attended 2014 – 2019<br>
-	Activities and Societies: Team .EXE, GLUG NITH<br>
-	I am a passionate Computer Science and Engineering Student at National Institute of Technology Hamirpur (H.P.) India - 177005.<br>
-
-*	**DAV Public Sr. Sec. School Baghni, Nurpur (H.P.) India - 176202**<br>
-	Degree Name - **High School Graduate**<br>
-	Field Of Study - **Science (non medical)**<br>
-	Dates attended 2012 – 2014
+* **National Institute of Technology Hamirpur**            _(Jul. 2014 - Jun. 2019)_<br>
+	Dual Degree (B.Tech. and M.Tech.) in Computer Science and Engineering <br>
+	_CGPI (B.Tech.: 7.0/10, M.Tech.: 6.8/10)_<br>
+* **D.A.V. Public Senior Secondary School Baghni, Nurpur** _(Apr. 2013 - Mar. 2014)_<br>
+	Higher Secondary Education (CBSE)<br>
+	_Percentage: 78%_<br>
 
 ___________________________________________
 
-## Experience -
-* 	**Google Summer of Code 2018 with The Libreswan Project**<br>
-	<img src="https://rishabhchaudhary.in/gsoc-logo.svg" width="50%">
-	Company Name - **Google**<br>
-	Dates Employed May 2018 – Present<br>
-	Location - India<br>
-	I am working with the Developers of The Libreswan Project on their new project - Libreswan Managing Interface. For more info visit [Projects page](https://rishabhchaudhary.in/projects/) of website.<br>
-	Mentors: Tuomo Soini, Kim B. Heino<br>
-	Organization website: https://libreswan.org/<br>
-	GSoC Project link: https://summerofcode.withgoogle.com/projects/#5863013991579648<br>
-	Project Development link: https://github.com/Rishabh04-02/Libreswan-managing-interface<br>
-	Acceptance Verification letter: [Link](https://www.linkedin.com/in/rishabh-chaudhary-0402/detail/treasury/position:1331011909/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAABoUsCUBCG57jSklKA4TvKR9PNMMUdwUJYA%2C1530193395149)&section=position%3A1331011909&treasuryCount=2&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BtdfOjNYATRqXvJTiRzS8Zg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell)
 
-*	**Student Training and Placements Coordinator**<br>
-	Organization Name - **National Institute of Technology Hamirpur**<br>
-	Dates Employed May 2018 – Present<br>
-	Location - National Institute of Technology, Hamirpur<br>
-	Teams: Technical Innovation and Support, Industry Interaction (CSE Dual Degree)<br>
-	Official notice [verification link](https://www.linkedin.com/in/rishabh-chaudhary-0402/detail/treasury/position:1331015842/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAABoUsCUBCG57jSklKA4TvKR9PNMMUdwUJYA%2C1530193913154)&section=position%3A1331015842&treasuryCount=2&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BtdfOjNYATRqXvJTiRzS8Zg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell)
-
-*	**Maintainer - Awesome CSS**<br>
-	Company Name - **GitHub**<br>
-	Dates Employed Sep 2017 – Present<br>
-	Location India<br>
-	Awesome css is a curated list of awesome framework, style guide and other cool nuggets for the amazing CSS. It does not help everyone understand what CSS is not only find great cool stuffs.<br>
-	Link for [verification](https://github.com/awesome-css-group/awesome-css)
-
-*	**Mentor - Team .EXE**<br>
-	Organization Name - **National Institute of Technology Hamirpur**<br>
-	Dates Employed Apr 2017 – Present<br>
-	Location - National Institute of Technology, Hamirpur<br>
-	Mentored the Departmental team Team .EXE during the Technical festival Nimbus 2018.<br>
-	Secured our online applications, rolled out the Team .EXE application (with Paradox integrated).<br>
-	Got award- Excellence in online event for Paradox.
-
-*	**Student Training and Placement Representative**<br>
-	Organization Name - **National Institute of Technology Hamirpur**<br>
-	Dates Employed Sep 2016 – Apr 2018<br>
-	Location - National Institute of Technology, Hamirpur<br>
-	Worked as a Training and Placement Representative for the Office of Training and Placements NIT Hamirpur.
-
-*	**Coordinator - Team .EXE**<br>
-	Organization Name - **National Institute of Technology Hamirpur**<br>
-	Dates Employed Feb 2017 – Jan 2018<br>
-	Location - National Institute of Technology, Hamirpur<br>
-	Coordinated the Departmental team during the technical festival of NIT Hamirpur.<br>
-	Got award - Excellence in online event for the event Paradox.
-
-*	**Coordinator - ISTE Udbhava**<br>
-	Organization Name - **National Institute of Technology Hamirpur**<br>
-	Dates Employed Aug 2017 – Dec 2017<br>
-	Location - National Institute of Technology, Hamirpur<br>
-	Coordinated the Departmental team for ISTE students convention Udbhava.
-
-
-*	**Computer Science and Engineering Student**<br>
-	Organization Name - **National Institute of Technology Hamirpur**<br>
-	Dates Employed Aug 2014 – Present<br>
-	Location - National Institute of Technology, Hamirpur<br>
-	I am a passionate Computer Science and Engineering Student at National Institute of Technology Hamirpur (H.P.) India - 177005.
-
+## Publications
+*	Rishabh and T.P. Sharma, **_“Device Classification Based Data Encryption for Internet of Things_** **,”** International Journal of High Performance Computing and Networking, 2019. (Communicated)<br>
+* Rishabh and T.P. Sharma, **_“Lightweight Encryption Algorithms, Technologies, and Architectures in Internet of Things: A Survey_** **,”** 7th International Conference on Innovations in Computer Science and Engineering, 2019. (Springer)
 
 ___________________________________________
 
-## Skills -
 
+## Dissertation
+* **_“Device Classification Based Data Encryption for IoT_** **,”** A Dissertation submitted for the award of the degree of _Master of Technology_ (2019), in Computer Science and Engineering Department, National Institute of Technology Hamirpur, H.P. India.
+
+___________________________________________
+
+
+## Research Experience
+Research Mentor: Dr. T.P. Sharma, Associate Professor, National Institute of Technology Hamirpur
+* **Device Classification Based Data Encryption for Internet of Things** _(Aug. 2018 - Jun. 2019)_<br>
+	* Classified devices into various classes, based on their computational and communication capabilities and proposed Class-specific data encryption/decryption techniques for heterogeneous IoT devices.<br>
+	* Different schemes for data encryption are proposed at different levels of interconnection across devices of various classes.<br>
+	* Simulation experiments reveal significant improvements in the solution of encryption techniques for given scenarios.<br><br>
+
+* **Lightweight Encryption Algorithms, Technologies, and Architectures in Internet of Things: A Survey** _(Aug. 2018 - Jun. 2019)_<br>
+	* The paper provides an overview of IoT along with presenting various privacy and security-related issues, and the differences between the security in IoT, and the security in conventional systems.<br>
+	* Different lightweight encryption techniques for IoT, Limitations in IoT, IoT technologies, and architectures are discussed and compared in the paper.<br><br>
+
+* **Theoretical Analysis on Client-Server Interaction** _(Aug. 2017 - Jan. 2018)<br>
+Research Collaborators: Rishabh, Akhilesh Kumar, Rahul Kumar, Gourav Sisodiya_<br>
+	* The paper discusses various types of client-server architectures, along with explaining different related terminologies along with presenting numerous related security concerns.
+	* It discusses the mobile agents and the security concerns related to them and the different applications of client-server interactions, along with discussing the current trends.<br>
+
+___________________________________________
+
+
+## Development Experience
+* **Google Summer of Code** ( _2019, 2018)_
+	* **Libreswan Opportunistic IPsec using Let’s Encrypt:** Created shell scripts for establishing the Opportunistic Encryption connection using Libreswan IPsec. It also generates client/server configurations and updates and imports the certificates automatically along with handling files safely. Server/Client crashes handled. The project makes the process of using OE easier, automated and over 10 times faster than the manual procedure.
+	* **Libreswan Managing Interface:** Developed Application for generating & signing CA root certificates & user certificates (VPN connection profiles) along with generating custom configurations for user certificates. Automatic creating and updating of certificate revocation list implemented. The project increased the efficiency of performing all the above tasks by over 7 times as compared to the existing manual procedure.<br><br>
+* **Internships at NIT Hamirpur** _(Summer 2018, 2017)_<br>
+	* **Elective manager:** Built an application for the online allotment of various UG/PG electives, which are allotted based on CGPA, elective priority & available seats. The software has an auto backup mechanism and is using SQL procedures for performing various tasks. The project has proved to be over 15 times faster than the existing system (manual).
+	* **Training and placement portal:** Developed Official website - Office of Training and Placement NIT Hamirpur. It eases the process of finding the relevant info regarding the Placement cell and helps with the process when visiting the Institute for placements. The project has turned out to be over 10 times faster than the existing procedure.
+
+___________________________________________
+
+
+## Skills
 | Skill Type | Skills list|
 |------:|:------|
-| Programming Languages | **C**, **C++**, **Python**, **Javascript**, **Bash**, **PHP** |
+| Programming Languages | **C**, **C++**, **Python**, **Javascript**, **Bash(Shell Scripting)**, **PHP** |
 | Softwares | **MySQL**, **Apache**, **Git**, **Matlab**, **MS Office** |
 | Web | **HTML**, **CSS**, **Bootstrap**, **HUGO**, **Jquery**, **Django** |
 | Design | **Adobe Photoshop**, **Adobe Premier Pro**, **Adobe After Effects**, **Sony Vegas Pro** |
-| Miscellaneous | **Data Structure**, **Algorithms**, **Database Designing**, **Linux**, **OpenGL**, **Markdown**, **Cpanel-web services**, **IRC** |
+| Miscellaneous | **Data Structure**, **Algorithms**, **Database Designing**, **Linux**, **OpenGL**, **Markdown**, **Cpanel-web services**, **IRC**, **LaTeX** |
 
 ___________________________________________
 
-## Organizations -
-*	**Team .EXE**<br>
-	Jan 2017 – Present - **Mentor**<br>
-	Mentored the Departmental team Team .EXE during the Technical festival Nimbus 2018.<br>
-	Secured our online applications, rolled out the Team .EXE application (with Paradox integrated).<br>
-	Got award- Excellence in online event for Paradox.<br>
 
-	Feb 2016 – Apr 2017 - **Coordinator**<br>
-	Coordinated the Departmental team during the technical festival of NIT Hamirpur.<br>
-	Got award - Excellence in online event for the event Paradox. <br>
-
-*	**GLUG - NITH**<br>
-	Aug 2015 – Present - **Coordinator**<br>
-	Conducted various workshops for the students.<br>
-	Organized hackathons.<br>
-	Conducted Linux installation workshops and Other workshops related to Linux.<br>
-
-	Aug 2014 – Aug 2015 - **Volunteer**<br>
-	Volunteered in the Organization, Helped in organization MozVision (by Mozilla)<br>
-
-*	**Awesome CSS**<br>
-	Sep 2017 – Present - **Maintainer**<br>
-	Awesome css is a curated list of awesome framework, style guide and other cool nuggets for the amazing CSS. It does not help everyone understand what CSS is not only find great cool stuffs.<br>
-	I maintain the Organization Repository<br>
+## Awards and Achievements
+* **Google Summer of Code:** 2019, 2018
+* **Appreciation Award:** Technical Secretary (MILAN)
+* **Winner:** Ethical Hacking by Aptron (Nimbus 2016)
+* **Appreciation Award:** Coordinating ISTE Students Convention (2017)
 
 ___________________________________________
 
-## Interests -
 
-* 	Contributing to [Open Source](http://github.com/Rishabh04-02/)<br>
+## Position of Responsibility
+* **Office of Training and Placement:** Coordinator (2018), Representative (2017, 2016)
+* **MILAN:** Technical Secretary
+* **GLUG NITH:** Member (Mentor, Volunteer)
+* **Team .EXE:** Mentor (2019, 2018), Coordinator (2017), Executive (2016)
+* **ISTE Udbhava:** Coordinator
+
+___________________________________________
+
+
+## Recreational Interests
+* Contributing to [Open Source](http://github.com/Rishabh04-02/)<br>
 	I love contributing to Open Source and have contributed to a lot of Open Source Projects of organizations ranging from The Libreswan Project, Mozilla, PhpBB, etc.
-* 	[Quora](https://www.quora.com/profile/Rishabh-Chaudhary-19)<br>
-	I love to write and share my experiences, so sometimes write on quora. But you know what? I love reading more :) .
+* I love writing and sharing my experiences, so sometimes write on quora. But you know what? I love reading more :) .
 * Linux Administration.
-* 	Enjoys blogging<br>
+* Enjoys blogging<br>
 	As I've already written, I love to write. Want to read my blogs? [Click here](https://rishabhchaudhary.in/post/).
 * Photo and Video editing.
 * Philosophy, Photography.
@@ -148,15 +113,16 @@ ___________________________________________
 
 ___________________________________________
 
-## Projects -
-For viewing my projects please visit the [projects page](https://rishabhchaudhary.in/projects/) of website.
 
+## Projects
+For viewing my projects please visit the [projects page](https://rishabhchaudhary.in/projects/) of website.
 
 ___________________________________________
 
-## Contributions -
 
-> GitHub Username - [Rishabh04-02](https://github.com/Rishabh04-02/)
+## Open Source Activities
+* **Contributor in Organizations: Over 150 commits in The Libreswan Project, Mozilla, phpBB, Awesome CSS, PublicLab, Sendgrid.**
+* **GitHub ([Rishabh04- 02](https://github.com/Rishabh04-02/)) : 1 ,900+ Open Source Commits.**
 
 <!-- Prepare a container for your calendar. -->
 <script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>
