@@ -37,8 +37,8 @@ With all this being told, let&amp;rsquo;s see where it goes,</description>
       <pubDate>Wed, 27 Jun 2018 15:02:13 +0530</pubDate>
       <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
       <guid>https://rishabhchaudhary.in/projects/</guid>
-      <description>Loading the data just for you.   new GitHubCalendar(&#34;.calendar&#34;, &#34;Rishabh04-02&#34;);  1. Libreswan managing interface  GSoC 2018, Django 2.0, Python 3.5, MySQL, HTML-CSS
- Background There are shell scripts for creating X.509 certificates, revoking certificates and signing CRLs and scripts for the creation of Profile certificate files for certain devices such as Linux, Apple OS X, Windows, iOS, etc., these require careful specification of various certificate attributes so that these certificates work on a variety of devices: Android, Windows, iOS/OSX, Linux, etc.</description>
+      <description>1. Libreswan Opportunistic IPsec using Let’s Encrypt  GSoC 2019, Bash(Shell Scripting), NSS database, Lets Encrypt, Certbot
+ Created shell scripts for establishing the Opportunistic Encryption connection using Libreswan IPsec. It also generates client/server configurations and updates and imports the certificates automatically along with handling files safely. Server/Client crashes handled. The project makes the process of using OE easier, automated and over 10 times faster than the manual procedure.</description>
     </item>
     
     <item>

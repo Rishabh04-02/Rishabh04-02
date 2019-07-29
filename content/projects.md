@@ -6,45 +6,56 @@ project_url: "https://www.rishabhchaudhary.in/projects/"
 keywords: ["rishabh projects","rishabh chaudhary projects"]
 ---
 
-<!-- Prepare a container for your calendar. -->
-<script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"/>
-<!-- Prepare a container for your calendar. -->
-<div class="calendar" style="width:auto; overflow-x:scroll">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-<script>
-    new GitHubCalendar(".calendar", "Rishabh04-02");
-</script>
+
+## 1. [Libreswan Opportunistic IPsec using Let’s Encrypt](https://github.com/Rishabh04-02/Libreswan-Opportunistic-IPsec/)
+<img src="https://rishabhchaudhary.in/gsoc-logo.svg" width="50%">
+
+>	GSoC 2019, Bash(Shell Scripting), NSS database, Lets Encrypt, Certbot
+
+Created shell scripts for establishing the Opportunistic Encryption connection using Libreswan IPsec. It also generates client/server configurations and updates and imports the certificates automatically along with handling files safely. Server/Client crashes handled. The project makes the process of using OE easier, automated and over 10 times faster than the manual procedure.
+
+### Background  
+Opportunistic IPsec is an attempt to encrypt the internet at large. The idea is to build VPN tunnels directly to all internet hosts irrespective of the communication used. An initial proof of concept was created that leverages LetsEncrypt certificates for use with IKE and IPsec. The goal of this project is to turn this proof of concept into production quality code that makes it trivial to enrol and deploy on any server and any client.
+
+The project has the following objectives:
+
+* Automate Client, Server configuration and the enrollment and updating of LetsEncrypt certificates for use with libreswan.
+* Implement a DNS/DNSSEC based method for advertising Opportunistic IPsec support using LetsEncrypt for servers.
+* Design a non-DNS based method for publishing support of LetsEncrypt based Opportunistic IPsec for servers.
+* Enhance libreswan to allow a secure fallback to the existing NULL Authentication method.
+* Ensure the working of two behind the same NAT. Along with ensuring the working of two clients behind NAT, with one not using IPsec.
+* Support the recovery from server OR client reboot/crashes. Along with ensuring no lockouts happen.
 
 ___________________________________________
 
-## 1. [Libreswan managing interface](https://github.com/Rishabh04-02/Libreswan-managing-interface)
+## 2. [Libreswan managing interface](https://github.com/Rishabh04-02/Libreswan-managing-interface)
 <img src="https://rishabhchaudhary.in/gsoc-logo.svg" width="50%">
 
 >	GSoC 2018, Django 2.0, Python 3.5, MySQL, HTML-CSS  
 
-### Background  
-There   are   shell   scripts   for   creating   X.509   certificates,   revoking   certificates   and  signing   CRLs   and   scripts   for   the   creation   of   Profile   certificate   files   for   certain  devices   such   as   Linux,   Apple   OS   X,   Windows,   iOS,   etc.,   these   require   careful  specification   of   various   certificate   attributes   so   that   these   certificates   work   on   a  variety   of   devices:   Android,   Windows,   iOS/OSX,   Linux,   etc.   The   goal   of   this   project  is to gather all that knowledge into a simple interface. 
- 
-The interface supports the following: 
+Developed Application for generating & signing CA root certificates & user certificates (VPN connection profiles) along with generating custom configurations for user certificates. Automatic creating and updating of certificate revocation list implemented. The project increased the efficiency of performing all the above tasks by over 7 times as compared to the existing manual procedure.
 
-* Generating   the   proper   ipsec.conf   configuration   based   on   web   admin  interface including DNS/split-DNS configurations. 
-* Allow Administrator to invite new users using email id. 
-* A   new   user   after   account   validation   can   download   the   generated  certificate/profile (over TLS) for different platforms. 
-* The   generated   certificates/profiles   can   only   be   downloaded   once,   through  the portal. 
-* Admin   can   list,   revoke/disable   (temporary   revocation)   user  certificates/profiles. 
-* Generate PKCS#12​ certificates for users. 
-* Generate   iOS/OSX   ​ .mobileconfig   profiles   for   automatic   installation   on  iOS/OSX. 
-* Ipsilon user authentication to web application. 
+### Background  
+There   are   shell   scripts   for   creating   X.509   certificates,   revoking   certificates   and  signing   CRLs   and   scripts   for   the   creation   of   Profile   certificate   files   for   certain  devices   such   as   Linux,   Apple   OS   X,   Windows,   iOS,   etc.,   these   require   careful  specification   of   various   certificate   attributes   so   that   these   certificates   work   on   a  variety   of   devices:   Android,   Windows,   iOS/OSX,   Linux,   etc.   The   goal   of   this   project  is to gather all that knowledge into a simple interface.
+
+The interface supports the following:
+
+* Generating   the   proper   ipsec.conf   configuration   based   on   web   admin  interface including DNS/split-DNS configurations.
+* Allow Administrator to invite new users using email id.
+* A   new   user   after   account   validation   can   download   the   generated  certificate/profile (over TLS) for different platforms.
+* The   generated   certificates/profiles   can   only   be   downloaded   once,   through  the portal.
+* Admin   can   list,   revoke/disable   (temporary   revocation)   user  certificates/profiles.
+* Generate PKCS#12​ certificates for users.
+* Generate   iOS/OSX   ​ .mobileconfig   profiles   for   automatic   installation   on  iOS/OSX.
+* Ipsilon user authentication to web application.
 * Configure munin-node to work with libreswan plugin.
 
 ___________________________________________
 
-## 2. [Linux based secure systems manager](https://github.com/Colviz/Vince/)
+## 3. [Linux based secure systems manager](https://github.com/Colviz/Vince/)
 >	Python, Sockets, GPG (GNU Privacy Guard), Linux, Broadcasting
+
+Allowing the system administrators to perform different tasks parallelly on 100’s of the client systems. It has error detection and correction functionality, along with providing real-time support for clients. The payload sending is secured with PGP key encryption. This project increases the efficiency of performing the above tasks by over 30 times as compared to the manual procedure.
 
 ## Background
 This project is Developed and submitted (as Major Project II) in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology and is the continuation of project: Agent using client server Interaction.
@@ -57,7 +68,7 @@ Thefuck for error handling and error correction tries to match a rule for the pr
 
 ___________________________________________
 
-## 3. [Agent using client server Interaction](https://github.com/Colviz/Vince/tree/abb8c829f1b7b92a3c58c94f7bb2f61730f4ae34)
+## 4. [Agent using client server Interaction](https://github.com/Colviz/Vince/tree/abb8c829f1b7b92a3c58c94f7bb2f61730f4ae34)
 >	Python, Sockets, Linux, Broadcasting
 
 ## Background
@@ -69,8 +80,10 @@ This software can be used in any computers connected to a single network like a 
 
 ___________________________________________
 
-## 4. [Elective Manager](https://github.com/Rishabh04-02/Elective-manager)
+## 5. [Elective Manager](https://github.com/Rishabh04-02/Elective-manager)
 >	PHP, MySQL, Javascript, HTML-CSS, Material Design						  
+
+Built an application for the online allotment of various UG/PG electives, which are allotted based on CGPA, elective priority & available seats. The software has an auto backup mechanism and is using SQL procedures for performing various tasks. The project has proved to be over 15 times faster than the existing system (manual).
 
 ### Background
 This project named Elective Manager, is an open source project. It will be used to allot the Elective subjects to undergraduate as well as post-graduate students. These elective subjects are published by the departments and are allotted to students based
@@ -81,8 +94,10 @@ The Prime objective of this project is to automate the process of allotment thus
 
 ___________________________________________
 
-## 5. [Training and placement portal NITH](https://github.com/Rishabh04-02/Training-and-placement-portal-NITH)
+## 6. [Training and placement portal NITH](https://github.com/Rishabh04-02/Training-and-placement-portal-NITH)
 >	Django, Python, Mysql, Javascript, HTML-CSS
+
+Developed Official website - Office of Training and Placement NIT Hamirpur. It eases the process of finding the relevant info regarding the Placement cell and helps with the process when visiting the Institute for placements. The project has turned out to be over 10 times faster than the existing procedure.
 
 ### Background
 This project is the website of Office of Training and Placements NIT Hamirpur (H.P.) India - 177005.
@@ -92,8 +107,10 @@ This portal has all the relevant information on it be it about the functionaries
 
 ___________________________________________
 
-## 6. [Paradox - Team .EXE](https://teamexe.in/paradox/)
+## 7. [Paradox - Team .EXE](https://teamexe.in/paradox/)
 >	PHP, MySQL, Javascript, API, HTML-CSS
+
+An online game, with answers based on an image/set of images. Hints are provided periodically. Website and App work on APIs. The App has 50K+ downloads on Google play store and receives 5K+ monthly registrations.
 
 ## Background
 Paradox is a globally acclaimed event that is organized before as well as during NIMBUS by Team .EXE , the departmental team of Computer Science and Engineering of NIT Hamirpur.
@@ -103,31 +120,35 @@ I've developed Paradox for 3 consecutive years - 2016, 2017, 2018.
 
 ___________________________________________
 
-## 7. [Life Cycle](https://github.com/Rishabh04-02/Life-cycle)
+## 8. [Life Cycle](https://github.com/Rishabh04-02/Life-cycle)
 >	C++, OpenGL, Graphics.h
 
 ### Background
 This project aims at describing the life cycle of a common person with the help of a character named SUDO. In this project Sudo covers all the basic life experiences and changes which we humans encounter during our life cycle. If this project needs to
 be categorized then the category under which it falls will be - A short film, but that in graphics mode and made with OpenGL.
-OpenGL language is used in making of this project and it uses various advanced tools of Computer graphics. 
+OpenGL language is used in making of this project and it uses various advanced tools of Computer graphics.
 
 OpenGL - It’s the most powerful language available for Computer Graphics and to prove this statement we can see that all the operating systems runs on OpenGL to display their Graphics output and its by default installed in every OS so as to display Its GUI (graphical user interface).
 
 ___________________________________________
 
-## 8. [Uploadbin](https://github.com/Rishabh04-02/uploadbin)
+## 9. [Uploadbin](https://github.com/Rishabh04-02/uploadbin)
 >	PHP, MySQL, Javascript, HTML-CSS
+
+The portal allows the users to upload and share files online. When a file is uploaded, a sharing link is generated which will allow the downloading of the file. Also, the admin can review and delete the files whenever needed. It can be installed on intranet and can make the file sharing 5 times faster.
 
 ### Background
 It lets the user upload and share files online. When a file is created a link is generated which will download the file on opening. One can share the link to the people one want to share the file. Also the admin can review and delete the files whenever needed. This was developed to submit assignments online as this will be running on a local server so that makes uploading and sharing files really easy and fast.
 
 ___________________________________________
 
-## 9. [Article Management System](https://github.com/Rishabh04-02/article-management-system)
+## 10. [Article Management System](https://github.com/Rishabh04-02/article-management-system)
 >	PHP, MySQL, Javascript, HTML-CSS
 
+Web Application allowing the Professors to give assignments to students. The students can see the assignment along with the submission deadline and can submit the solutions accordingly. The teacher then evaluates the assignments. It increases the assignment submission and evaluation efficiency by over 5 times.
+
 ### Background
-It is a management system where the teacher can give assignments/programming questions to students of a respective branch/group. The students can see the assignment on their interface and can submit the solutions respectively for each question/assignment as per the requirements set by the teachers. 
+It is a management system where the teacher can give assignments/programming questions to students of a respective branch/group. The students can see the assignment on their interface and can submit the solutions respectively for each question/assignment as per the requirements set by the teachers.
 
 The interface has the following features:
 
@@ -142,3 +163,16 @@ The interface has the following features:
 * Students can change any of their program at any time of any lab.
 
 ___________________________________________
+
+<!-- Prepare a container for your calendar. -->
+<script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link rel="stylesheet" href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"/>
+<!-- Prepare a container for your calendar. -->
+<div class="calendar" style="width:auto; overflow-x:scroll">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+<script>
+    new GitHubCalendar(".calendar", "Rishabh04-02");
+</script>

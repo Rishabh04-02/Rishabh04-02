@@ -60,7 +60,7 @@
     },
     "datePublished": "2018-06-27",
     "description": "",
-    "wordCount":  1423 
+    "wordCount":  2018 
   }
 </script>
   
@@ -189,23 +189,34 @@
       <div class="content">
   
 
-<!-- Prepare a container for your calendar. -->
+<h2 id="1-libreswan-opportunistic-ipsec-using-let-s-encrypt-https-github-com-rishabh04-02-libreswan-opportunistic-ipsec">1. <a href="https://github.com/Rishabh04-02/Libreswan-Opportunistic-IPsec/">Libreswan Opportunistic IPsec using Let’s Encrypt</a></h2>
 
-<script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"/>
-<!-- Prepare a container for your calendar. -->
-<div class="calendar" style="width:auto; overflow-x:scroll">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-<script>
-    new GitHubCalendar(".calendar", "Rishabh04-02");
-</script>
+<p><img src="https://rishabhchaudhary.in/gsoc-logo.svg" width="50%"></p>
+
+<blockquote>
+<p>GSoC 2019, Bash(Shell Scripting), NSS database, Lets Encrypt, Certbot</p>
+</blockquote>
+
+<p>Created shell scripts for establishing the Opportunistic Encryption connection using Libreswan IPsec. It also generates client/server configurations and updates and imports the certificates automatically along with handling files safely. Server/Client crashes handled. The project makes the process of using OE easier, automated and over 10 times faster than the manual procedure.</p>
+
+<h3 id="background">Background</h3>
+
+<p>Opportunistic IPsec is an attempt to encrypt the internet at large. The idea is to build VPN tunnels directly to all internet hosts irrespective of the communication used. An initial proof of concept was created that leverages LetsEncrypt certificates for use with IKE and IPsec. The goal of this project is to turn this proof of concept into production quality code that makes it trivial to enrol and deploy on any server and any client.</p>
+
+<p>The project has the following objectives:</p>
+
+<ul>
+<li>Automate Client, Server configuration and the enrollment and updating of LetsEncrypt certificates for use with libreswan.</li>
+<li>Implement a DNS/DNSSEC based method for advertising Opportunistic IPsec support using LetsEncrypt for servers.</li>
+<li>Design a non-DNS based method for publishing support of LetsEncrypt based Opportunistic IPsec for servers.</li>
+<li>Enhance libreswan to allow a secure fallback to the existing NULL Authentication method.</li>
+<li>Ensure the working of two behind the same NAT. Along with ensuring the working of two clients behind NAT, with one not using IPsec.</li>
+<li>Support the recovery from server OR client reboot/crashes. Along with ensuring no lockouts happen.</li>
+</ul>
 
 <hr />
 
-<h2 id="1-libreswan-managing-interface-https-github-com-rishabh04-02-libreswan-managing-interface">1. <a href="https://github.com/Rishabh04-02/Libreswan-managing-interface">Libreswan managing interface</a></h2>
+<h2 id="2-libreswan-managing-interface-https-github-com-rishabh04-02-libreswan-managing-interface">2. <a href="https://github.com/Rishabh04-02/Libreswan-managing-interface">Libreswan managing interface</a></h2>
 
 <p><img src="https://rishabhchaudhary.in/gsoc-logo.svg" width="50%"></p>
 
@@ -213,7 +224,9 @@
 <p>GSoC 2018, Django 2.0, Python 3.5, MySQL, HTML-CSS</p>
 </blockquote>
 
-<h3 id="background">Background</h3>
+<p>Developed Application for generating &amp; signing CA root certificates &amp; user certificates (VPN connection profiles) along with generating custom configurations for user certificates. Automatic creating and updating of certificate revocation list implemented. The project increased the efficiency of performing all the above tasks by over 7 times as compared to the existing manual procedure.</p>
+
+<h3 id="background-1">Background</h3>
 
 <p>There   are   shell   scripts   for   creating   X.509   certificates,   revoking   certificates   and  signing   CRLs   and   scripts   for   the   creation   of   Profile   certificate   files   for   certain  devices   such   as   Linux,   Apple   OS   X,   Windows,   iOS,   etc.,   these   require   careful  specification   of   various   certificate   attributes   so   that   these   certificates   work   on   a  variety   of   devices:   Android,   Windows,   iOS/OSX,   Linux,   etc.   The   goal   of   this   project  is to gather all that knowledge into a simple interface.</p>
 
@@ -233,13 +246,15 @@
 
 <hr />
 
-<h2 id="2-linux-based-secure-systems-manager-https-github-com-colviz-vince">2. <a href="https://github.com/Colviz/Vince/">Linux based secure systems manager</a></h2>
+<h2 id="3-linux-based-secure-systems-manager-https-github-com-colviz-vince">3. <a href="https://github.com/Colviz/Vince/">Linux based secure systems manager</a></h2>
 
 <blockquote>
 <p>Python, Sockets, GPG (GNU Privacy Guard), Linux, Broadcasting</p>
 </blockquote>
 
-<h2 id="background-1">Background</h2>
+<p>Allowing the system administrators to perform different tasks parallelly on 100’s of the client systems. It has error detection and correction functionality, along with providing real-time support for clients. The payload sending is secured with PGP key encryption. This project increases the efficiency of performing the above tasks by over 30 times as compared to the manual procedure.</p>
+
+<h2 id="background-2">Background</h2>
 
 <p>This project is Developed and submitted (as Major Project II) in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology and is the continuation of project: Agent using client server Interaction.</p>
 
@@ -251,13 +266,13 @@
 
 <hr />
 
-<h2 id="3-agent-using-client-server-interaction-https-github-com-colviz-vince-tree-abb8c829f1b7b92a3c58c94f7bb2f61730f4ae34">3. <a href="https://github.com/Colviz/Vince/tree/abb8c829f1b7b92a3c58c94f7bb2f61730f4ae34">Agent using client server Interaction</a></h2>
+<h2 id="4-agent-using-client-server-interaction-https-github-com-colviz-vince-tree-abb8c829f1b7b92a3c58c94f7bb2f61730f4ae34">4. <a href="https://github.com/Colviz/Vince/tree/abb8c829f1b7b92a3c58c94f7bb2f61730f4ae34">Agent using client server Interaction</a></h2>
 
 <blockquote>
 <p>Python, Sockets, Linux, Broadcasting</p>
 </blockquote>
 
-<h2 id="background-2">Background</h2>
+<h2 id="background-3">Background</h2>
 
 <p>This project is Developed and submitted (as Major Project I) in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology.</p>
 
@@ -267,13 +282,15 @@
 
 <hr />
 
-<h2 id="4-elective-manager-https-github-com-rishabh04-02-elective-manager">4. <a href="https://github.com/Rishabh04-02/Elective-manager">Elective Manager</a></h2>
+<h2 id="5-elective-manager-https-github-com-rishabh04-02-elective-manager">5. <a href="https://github.com/Rishabh04-02/Elective-manager">Elective Manager</a></h2>
 
 <blockquote>
 <p>PHP, MySQL, Javascript, HTML-CSS, Material Design</p>
 </blockquote>
 
-<h3 id="background-3">Background</h3>
+<p>Built an application for the online allotment of various UG/PG electives, which are allotted based on CGPA, elective priority &amp; available seats. The software has an auto backup mechanism and is using SQL procedures for performing various tasks. The project has proved to be over 15 times faster than the existing system (manual).</p>
+
+<h3 id="background-4">Background</h3>
 
 <p>This project named Elective Manager, is an open source project. It will be used to allot the Elective subjects to undergraduate as well as post-graduate students. These elective subjects are published by the departments and are allotted to students based
 on their priority of published subjects and CGPA. The system can adapt to a range of events from small scale to large scale.</p>
@@ -283,13 +300,15 @@ The Prime objective of this project is to automate the process of allotment thus
 
 <hr />
 
-<h2 id="5-training-and-placement-portal-nith-https-github-com-rishabh04-02-training-and-placement-portal-nith">5. <a href="https://github.com/Rishabh04-02/Training-and-placement-portal-NITH">Training and placement portal NITH</a></h2>
+<h2 id="6-training-and-placement-portal-nith-https-github-com-rishabh04-02-training-and-placement-portal-nith">6. <a href="https://github.com/Rishabh04-02/Training-and-placement-portal-NITH">Training and placement portal NITH</a></h2>
 
 <blockquote>
 <p>Django, Python, Mysql, Javascript, HTML-CSS</p>
 </blockquote>
 
-<h3 id="background-4">Background</h3>
+<p>Developed Official website - Office of Training and Placement NIT Hamirpur. It eases the process of finding the relevant info regarding the Placement cell and helps with the process when visiting the Institute for placements. The project has turned out to be over 10 times faster than the existing procedure.</p>
+
+<h3 id="background-5">Background</h3>
 
 <p>This project is the website of Office of Training and Placements NIT Hamirpur (H.P.) India - 177005.
 This portal is made to reduce the effort by the visitors (students/companies/organizations) in finding the relevant information regarding the Placement cell NIT Hamirpur and also for ease of access when visiting the institute for placements.
@@ -298,13 +317,15 @@ This portal has all the relevant information on it be it about the functionaries
 
 <hr />
 
-<h2 id="6-paradox-team-exe-https-teamexe-in-paradox">6. <a href="https://teamexe.in/paradox/">Paradox - Team .EXE</a></h2>
+<h2 id="7-paradox-team-exe-https-teamexe-in-paradox">7. <a href="https://teamexe.in/paradox/">Paradox - Team .EXE</a></h2>
 
 <blockquote>
 <p>PHP, MySQL, Javascript, API, HTML-CSS</p>
 </blockquote>
 
-<h2 id="background-5">Background</h2>
+<p>An online game, with answers based on an image/set of images. Hints are provided periodically. Website and App work on APIs. The App has 50K+ downloads on Google play store and receives 5K+ monthly registrations.</p>
+
+<h2 id="background-6">Background</h2>
 
 <p>Paradox is a globally acclaimed event that is organized before as well as during NIMBUS by Team .EXE , the departmental team of Computer Science and Engineering of NIT Hamirpur.
 It is an online level based game where the participant looks for a &laquo;word&raquo; that is signified by an image/set of images. Hints are provided periodically to help with the process of thinking in the right direction. It is open for participation from the students of the college as well as globally.
@@ -313,13 +334,13 @@ I&rsquo;ve developed Paradox for 3 consecutive years - 2016, 2017, 2018.</p>
 
 <hr />
 
-<h2 id="7-life-cycle-https-github-com-rishabh04-02-life-cycle">7. <a href="https://github.com/Rishabh04-02/Life-cycle">Life Cycle</a></h2>
+<h2 id="8-life-cycle-https-github-com-rishabh04-02-life-cycle">8. <a href="https://github.com/Rishabh04-02/Life-cycle">Life Cycle</a></h2>
 
 <blockquote>
 <p>C++, OpenGL, Graphics.h</p>
 </blockquote>
 
-<h3 id="background-6">Background</h3>
+<h3 id="background-7">Background</h3>
 
 <p>This project aims at describing the life cycle of a common person with the help of a character named SUDO. In this project Sudo covers all the basic life experiences and changes which we humans encounter during our life cycle. If this project needs to
 be categorized then the category under which it falls will be - A short film, but that in graphics mode and made with OpenGL.
@@ -329,25 +350,29 @@ OpenGL language is used in making of this project and it uses various advanced t
 
 <hr />
 
-<h2 id="8-uploadbin-https-github-com-rishabh04-02-uploadbin">8. <a href="https://github.com/Rishabh04-02/uploadbin">Uploadbin</a></h2>
+<h2 id="9-uploadbin-https-github-com-rishabh04-02-uploadbin">9. <a href="https://github.com/Rishabh04-02/uploadbin">Uploadbin</a></h2>
 
 <blockquote>
 <p>PHP, MySQL, Javascript, HTML-CSS</p>
 </blockquote>
 
-<h3 id="background-7">Background</h3>
+<p>The portal allows the users to upload and share files online. When a file is uploaded, a sharing link is generated which will allow the downloading of the file. Also, the admin can review and delete the files whenever needed. It can be installed on intranet and can make the file sharing 5 times faster.</p>
+
+<h3 id="background-8">Background</h3>
 
 <p>It lets the user upload and share files online. When a file is created a link is generated which will download the file on opening. One can share the link to the people one want to share the file. Also the admin can review and delete the files whenever needed. This was developed to submit assignments online as this will be running on a local server so that makes uploading and sharing files really easy and fast.</p>
 
 <hr />
 
-<h2 id="9-article-management-system-https-github-com-rishabh04-02-article-management-system">9. <a href="https://github.com/Rishabh04-02/article-management-system">Article Management System</a></h2>
+<h2 id="10-article-management-system-https-github-com-rishabh04-02-article-management-system">10. <a href="https://github.com/Rishabh04-02/article-management-system">Article Management System</a></h2>
 
 <blockquote>
 <p>PHP, MySQL, Javascript, HTML-CSS</p>
 </blockquote>
 
-<h3 id="background-8">Background</h3>
+<p>Web Application allowing the Professors to give assignments to students. The students can see the assignment along with the submission deadline and can submit the solutions accordingly. The teacher then evaluates the assignments. It increases the assignment submission and evaluation efficiency by over 5 times.</p>
+
+<h3 id="background-9">Background</h3>
 
 <p>It is a management system where the teacher can give assignments/programming questions to students of a respective branch/group. The students can see the assignment on their interface and can submit the solutions respectively for each question/assignment as per the requirements set by the teachers.</p>
 
@@ -366,6 +391,20 @@ OpenGL language is used in making of this project and it uses various advanced t
 </ul>
 
 <hr />
+
+<!-- Prepare a container for your calendar. -->
+
+<script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link rel="stylesheet" href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"/>
+<!-- Prepare a container for your calendar. -->
+<div class="calendar" style="width:auto; overflow-x:scroll">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+<script>
+    new GitHubCalendar(".calendar", "Rishabh04-02");
+</script>
 
 </div>
 
