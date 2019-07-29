@@ -1,4 +1,4 @@
-# Rishabh04-02-website
+# Rishabh04-02-website [![Netlify Status](https://api.netlify.com/api/v1/badges/7085e378-7558-4d7e-8adc-6ed45d72f0c5/deploy-status)](https://app.netlify.com/sites/rishabhchaudhary/deploys)
 
 This repository holds my website [https://rishabhchaudhary.in/](https://rishabhchaudhary.in/)
 
