@@ -5,11 +5,6 @@ publishDir = "public"
 
 DefaultContentLanguage = "en"
 
-# If you want all of the languages to be put below their respective language code,
-# enable DefaultContentLanguageInSubdir = true. Without enabling it english content
-# will be in the root and other languages in their respective subfolder such as /sv/.
-# See [Languages] settings at the end of this file.
-
 # Language
 languageCode = "en"
 
@@ -38,7 +33,7 @@ disqusShortname = "rishabh0402"
 [taxonomies]
     Tag = "tags"
     Topic = "topics"
-    Category = "categories"
+    #Category = "categories"
 
 [author]
     name = "Rishabh"
@@ -56,68 +51,35 @@ disqusShortname = "rishabh0402"
   bootswatchtheme = "cosmo"
 
   # menu for changing language. This changes languages with js and stores the choice with the help
-    # of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the
-    # md files needs to have the same name for each language abbreviation to work correctly. Example:
-    # showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
-    switchlang = false
+  # of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the
+  # md files needs to have the same name for each language abbreviation to work correctly. Example:
+  # showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
+  switchlang = false
 
-    # You can use markdown here.
-    BrandImage = "/logo.png" #top header brand image.
-    brand = "Rishabh Chaudhary" # brand image alt text.
-    topline = "Computer Science and Engineering Student."
-    footline = "Made with <i style='color:red' class='fa fa-heart'></i>"
+  # You can use markdown here.
+  BrandImage = "/logo.png" #top header brand image.
+  brand = "Rishabh" # brand image alt text.
+  topline = "Research Scholar"
+  footline = "Made with <i style='color:red' class='fa fa-heart'></i>"
 
-    # Show a sidebar menu
-    showRightSidebar = true
+  # Show a sidebar menu
+  showRightSidebar = true
 
-    # Text for the top menu link, which goes the root URL for the site.
-    # Default (if omitted) is "Home".
-    home = "home"
+  # Text for the top menu link, which goes the root URL for the site.
+  # Default (if omitted) is "Home".
+  home = "Home"
 
-    mailmunchid = "" # Mailmunch site id
-    sumomeid = "" # Sumome id
+  # Select a syntax highight.
+  # Check the static/css/highlight directory for options.
+  highlight = "monokai"
 
-    # Select a syntax highight.
-    # Check the static/css/highlight directory for options.
-    highlight = "monokai"
-
-    # Google Analytics.
-    googleAnalytics = "UA-69202678-3"
-
-    # Sidebar social links.
-    github = "Rishabh04-02" # Your Github profile ID
-    bitbucket = "" # Your Bitbucket profile ID
-    linkedin = "rishabh-chaudhary-0402" # Your LinkedIn profile ID (from public URL)
-    googleplus = "RishabhChaudhary0402" # Your Google+ profile ID
-    facebook = "" # Your Facebook profile ID
-    twitter = "Rishabh0402" # Your Twitter profile ID
-    youtube = ""  # Your Youtube channel ID
-    flattr = ""  # populate with your flattr uid
-
-[params.popover]
-  # This is a highly configurable popover form.
-  enablepopover = false #enable or disable popover: true/false.
-  posturl = "https://zapier.com/hooks/..."
-  headerimage = "/favicon.png"
-  expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
-  cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
-  signupheader = "Join Our Newsletter"
-  showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
-  mouseleave = true #show popover when mouse leaves window: true/false.
-  modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
-  imagedescription = "Placeholder image for this popover modal optin form"
-  signuptext = "Signup today for free and be the first to get notified on new updates."
-  inputplaceholder = "Enter your email"
-  submitbutton = "Subscribe"
-  successmessage = "Thanks for your subscription!"
-  errormessage = "Submitting form failed!"
-  optin = true #opt-in: true/false
-    
+  # Google Analytics.
+  googleAnalytics = "UA-69202678-3"    
 
 [blackfriday]
     angledQuotes = true
     fractions = false
-    hrefTargetBlank = false
+    hrefTargetBlank = true
     latexDashes = true
     plainIdAnchors = true
     extensions = []
@@ -147,19 +109,19 @@ disqusShortname = "rishabh0402"
     [[Languages.en.menu.main]]
     name = "About"
     weight = 1
-    identifier = ""
+    identifier = "about"
     url = "/about"
     #pre = "<i class='fa fa-road'></i>"
 
     [[Languages.en.menu.main]]
     name = "Contact"
-    identifier = ""
+    identifier = "contact"
     weight = 2
     url = "/contact"
 
     [[Languages.en.menu.main]]
     name = "Projects"
-    identifier = ""
+    identifier = "projects"
     weight = 3
     url = "/projects"
 

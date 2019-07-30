@@ -3,18 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://therishabh.in/categories/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/gsoc/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/gsoc/</loc>
     <lastmod>2019-07-30T11:30:16+05:30</lastmod>
     <priority>0</priority>
@@ -23,12 +11,6 @@
   <url>
     <loc>https://therishabh.in/gsoc_completing_the_project/</loc>
     <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/libreswan/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -56,12 +38,6 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/categories/technology/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/technology/</loc>
     <lastmod>2019-07-30T11:30:16+05:30</lastmod>
     <priority>0</priority>
@@ -70,12 +46,6 @@
   <url>
     <loc>https://therishabh.in/love_story/</loc>
     <lastmod>2018-11-21T13:39:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/poem/</loc>
-    <lastmod>2018-11-21T13:39:19+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -135,12 +105,6 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/categories/wannacry/</loc>
-    <lastmod>2017-05-20T12:24:09+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/wannacry/</loc>
     <lastmod>2017-05-20T12:24:09+05:30</lastmod>
     <priority>0</priority>
@@ -149,12 +113,6 @@
   <url>
     <loc>https://therishabh.in/how_does_zeronet_work/</loc>
     <lastmod>2017-01-30T10:20:45+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/zeronet/</loc>
-    <lastmod>2017-01-30T10:20:45+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -174,12 +132,6 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/categories/github/</loc>
-    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/github/</loc>
     <lastmod>2016-06-24T10:20:45+05:30</lastmod>
     <priority>0</priority>
@@ -188,12 +140,6 @@
   <url>
     <loc>https://therishabh.in/team_exe_joining_the_team/</loc>
     <lastmod>2016-06-24T10:20:45+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/teamexe/</loc>
-    <lastmod>2016-06-24T10:20:45+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -208,12 +154,6 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/categories/travel/</loc>
-    <lastmod>2016-02-17T11:17:30+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/travel/</loc>
     <lastmod>2016-02-17T11:17:30+05:30</lastmod>
     <priority>0</priority>
@@ -222,12 +162,6 @@
   <url>
     <loc>https://therishabh.in/how_to_make_your_computer_welcome_you/</loc>
     <lastmod>2016-01-06T10:11:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/windows/</loc>
-    <lastmod>2016-01-06T10:11:43+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -242,19 +176,7 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/categories/opensource/</loc>
-    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/opensource/</loc>
-    <lastmod>2016-01-01T10:00:44+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/vlc/</loc>
     <lastmod>2016-01-01T10:00:44+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -266,19 +188,7 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/categories/facebook/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/facebook/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/freebasics/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -295,19 +205,7 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/categories/open-internet/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/open-internet/</loc>
-    <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/categories/website/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
     <priority>0</priority>
   </url>
