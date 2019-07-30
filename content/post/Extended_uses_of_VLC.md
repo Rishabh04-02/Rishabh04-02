@@ -2,14 +2,14 @@
 title: "Extended uses of VLC"
 date: 2016-01-01T10:00:44+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/Extended_uses_of_VLC.md/"
+project_url: "https://therishabh.in/Extended_uses_of_VLC.md/"
 Tags: ["VLC","Technology","Opensource"]
 Categories: ["VLC","Technology","Opensource"]
 keywords: ["uses of VLC","extended uses of VLC"]
 ---
 
 You thought vlc as just another audio/video player, but to your surprise its much more than that. If you are using vlc you must be using it because its quite popular and maybe your friend recommended it to you as its a good player and if you ask him/her how its good then you must got in reply that it can play more formats of video than any other player can even think of. If its so then now its the time to start my story. So, let me tell you some advanced features of vlc which no other player has it all and that so for free.
- 
+
 So let’s start with -
 
 

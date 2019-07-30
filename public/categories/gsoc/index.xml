@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GSoC on Rishabh Chaudhary</title>
+    <title>GSoC on Rishabh&#39;s website</title>
     <link>https://therishabh.in/categories/gsoc/</link>
-    <description>Recent content in GSoC on Rishabh Chaudhary</description>
+    <description>Recent content in GSoC on Rishabh&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>rishabh0402@gmail.com (Rishabh Chaudhary)</managingEditor>
-    <webMaster>rishabh0402@gmail.com (Rishabh Chaudhary)</webMaster>
-    <copyright>(c) : 2019 | Rishabh Chaudhary</copyright>
+    <managingEditor>rishabh0402@gmail.com (Rishabh)</managingEditor>
+    <webMaster>rishabh0402@gmail.com (Rishabh)</webMaster>
+    <copyright>(c) : 2019 | Rishabh</copyright>
     <lastBuildDate>Wed, 06 Jun 2018 13:50:45 +0530</lastBuildDate>
     
 	<atom:link href="https://therishabh.in/categories/gsoc/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <title>GSoC - Initial phase and getting selected</title>
       <link>https://therishabh.in/gsoc_initial_phase_and_getting_selected/</link>
       <pubDate>Wed, 06 Jun 2018 13:50:45 +0530</pubDate>
-      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <author>rishabh0402@gmail.com (Rishabh)</author>
       <guid>https://therishabh.in/gsoc_initial_phase_and_getting_selected/</guid>
       <description>Previous post - GSoC - Selecting the project and organization
 Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
@@ -29,7 +29,7 @@ Understanding the Project As I&amp;rsquo;ve already chosen my project (Read the 
       <title>GSoC - Selecting the project and organization</title>
       <link>https://therishabh.in/gsoc_selecting_the_project_and_organization/</link>
       <pubDate>Wed, 23 May 2018 13:17:22 +0530</pubDate>
-      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <author>rishabh0402@gmail.com (Rishabh)</author>
       <guid>https://therishabh.in/gsoc_selecting_the_project_and_organization/</guid>
       <description>I started working towards GSoC 2018 in the first week of February. I remember because my birthday is in February and it was then I decided that I&amp;rsquo;ll try to be a part of GSoC 2018.
 So, the first step in the process is the selection of a project/organization. Instead of selecting the organization I thought to go for a project of my interest, as in case of selecting an organization it is possible that the organization is doing something that interests us but their available projects don&amp;rsquo;t interest us much.</description>
@@ -39,7 +39,7 @@ So, the first step in the process is the selection of a project/organization. In
       <title>Google Summer of Code(GSoC) 2018</title>
       <link>https://therishabh.in/rishabh_gsoc_2018/</link>
       <pubDate>Sun, 29 Apr 2018 10:51:04 +0530</pubDate>
-      <author>rishabh0402@gmail.com (Rishabh Chaudhary)</author>
+      <author>rishabh0402@gmail.com (Rishabh)</author>
       <guid>https://therishabh.in/rishabh_gsoc_2018/</guid>
       <description>Google Summer of Code (GSoC) 2018 result was announced on April 23 at 09:30 PM. I got selected for GSoC 2018 😊 in the organization The Libreswan Project. My project is Web based Certificate and Profile User Interface.
 I am really happy 😊, It means a lot to me. Special thanks to Manoj Kumar, Gurpreet Singh and Lokesh sharma. These guys helped me a lot in making this possible by motivating and supporting me during the phase, also my family and friends who always encouraged me to go an extra mile and helped me in my bad times.</description>

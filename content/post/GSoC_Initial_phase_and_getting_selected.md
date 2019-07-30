@@ -2,16 +2,16 @@
 title: "GSoC - Initial phase and getting selected"
 date: 2018-06-06T13:50:45+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/GSoC_Initial_phase_and_getting_selected/"
+project_url: "https://therishabh.in/GSoC_Initial_phase_and_getting_selected/"
 Tags: ["GSoC","Libreswan","technology"]
 Categories: ["GSoC","Libreswan","technology"]
 keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code"]
 ---
 
-![Google Summer of Code](https://rishabhchaudhary.in/gsoc-logo.svg)
+![Google Summer of Code](https://therishabh.in/gsoc-logo.svg)
 
 
-Previous post - [GSoC - Selecting the project and organization](https://rishabhchaudhary.in/gsoc_selecting_the_project_and_organization/)
+Previous post - [GSoC - Selecting the project and organization](https://therishabh.in/gsoc_selecting_the_project_and_organization/)
 
 *Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do*. - Pele
 

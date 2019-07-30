@@ -2,7 +2,7 @@
 title: "When I saw her for the first time"
 date: 2014-10-05T22:29:10+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/When-I-saw-her-for-the-first-time/"
+project_url: "https://therishabh.in/When-I-saw-her-for-the-first-time/"
 Tags: ["Poem"]
 Categories: ["Poem"]
 keywords: ["poem by rishabh","poem by rishabh chaudhary"]

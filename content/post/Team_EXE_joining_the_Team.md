@@ -2,7 +2,7 @@
 title: "Team .EXE (joining the Team - part 1)"
 date: 2016-06-24T10:20:45+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/Team_EXE_joining_the_Team.md/"
+project_url: "https://therishabh.in/Team_EXE_joining_the_Team.md/"
 Tags: ["Github","Technology","TeamEXE"]
 Categories: ["Github","Technology","TeamEXE"]
 keywords: ["Team EXE NIT Hamirpur","Team EXE NIT"]

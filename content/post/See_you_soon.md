@@ -2,7 +2,7 @@
 title: "See you soon"
 date: 2018-05-20T11:23:06+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/See_you_soon/"
+project_url: "https://therishabh.in/See_you_soon/"
 Tags: ["Poem"]
 Categories: ["Poem"]
 keywords: ["poem by rishabh","poem by rishabh chaudhary","see you soon"]

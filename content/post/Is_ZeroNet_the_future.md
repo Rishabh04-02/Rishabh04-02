@@ -2,7 +2,7 @@
 title: "Is ZeroNet the future?"
 date: 2017-01-22T10:20:45+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/Is_ZeroNet_the_future.md/"
+project_url: "https://therishabh.in/Is_ZeroNet_the_future.md/"
 Tags: ["Technology","Zeronet"]
 Categories: ["Technology","Zeronet"]
 keywords: ["Is Zeronet the future","Zeronet the future"]

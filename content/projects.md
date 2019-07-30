@@ -2,13 +2,13 @@
 title: "Projects"
 date: 2018-06-27T15:02:13+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/projects/"
+project_url: "https://therishabh.in/projects/"
 keywords: ["rishabh projects","rishabh chaudhary projects"]
 ---
 
 
 ## 1. [Libreswan Opportunistic IPsec using Let’s Encrypt](https://github.com/Rishabh04-02/Libreswan-Opportunistic-IPsec/)
-<img src="https://rishabhchaudhary.in/gsoc-logo.svg" width="50%">
+<img src="https://therishabh.in/gsoc-logo.svg" width="50%">
 
 >	GSoC 2019, Bash(Shell Scripting), NSS database, Lets Encrypt, Certbot
 
@@ -29,7 +29,7 @@ The project has the following objectives:
 ___________________________________________
 
 ## 2. [Libreswan managing interface](https://github.com/Rishabh04-02/Libreswan-managing-interface)
-<img src="https://rishabhchaudhary.in/gsoc-logo.svg" width="50%">
+<img src="https://therishabh.in/gsoc-logo.svg" width="50%">
 
 >	GSoC 2018, Django 2.0, Python 3.5, MySQL, HTML-CSS  
 

@@ -2,7 +2,7 @@
 title: "Net Neutrality & its relation with free basics and internet.org by Facebook"
 date: 2015-12-25T11:25:55+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/Net_Neutrality_and_its_relation_with_free_basics_and_internet.org_by_Facebook.md/"
+project_url: "https://therishabh.in/Net_Neutrality_and_its_relation_with_free_basics_and_internet.org_by_Facebook.md/"
 Tags: ["Open Internet","Freebasics","Facebook","Technology","Website"]
 Categories: ["Open Internet","Freebasics","Facebook","Technology","Website"]
 keywords: ["Facebook Freebasics","Facebook Internet.org"]
@@ -20,7 +20,7 @@ Net neutrality (also network neutrality, Internet neutrality, or net equality) i
 Open Internet is the idea that the full resources of the Internet and means to operate on it are easily accessible to all individuals and companies. This often includes ideas such as net neutrality, open standards, transparency, lack of Internet censorship, and low barriers to entry. The concept of the open Internet is sometimes expressed as an expectation of decentralized technological power, and is seen by some as closely related to open-source software.
 
 
-* **How is net neutrality related to open Internet? And How did it shape the Internet?** 
+* **How is net neutrality related to open Internet? And How did it shape the Internet?**
 
 In open Internet net neutrality doesn’t allow any people, government organizations, companies,etc. to discriminate among the data present on internet and the users accessing it. And hence doesn’t allow certain individuals to gain profit on the basis of discrimination done between the data.
 

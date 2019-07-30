@@ -2,15 +2,13 @@
 title: "Few things about WannaCry ransomware"
 date: 2017-05-20T12:24:09+05:30
 draft: false
-project_url: "https://www.rishabhchaudhary.in/Few_things_about_WannaCry_ransomware.md/"
+project_url: "https://therishabh.in/Few_things_about_WannaCry_ransomware.md/"
 Tags: ["Technology","wannacry"]
 Categories: ["Technology","wannacry"]
 keywords: ["Wannacry ransomeware"]
 ---
 
 A global cyber attack has been underway since Friday 12 May 2017, affecting more than 200,000 organizations and 230,000 computers in over 150 countries. It has been described as unprecedented in scale.
-
-<embed src="https://qph.ec.quoracdn.net/main-qimg-406c623928b1d20e99c3a32c330f7046"></embed>
 
 Well It’s ```source code is not yet available```, but below is some information that can be useful in understanding its structure and behavior.
 
@@ -59,7 +57,7 @@ del /a %0
 * Each AES key is generated CryptGenRandom.
 * The AES key is encrypted using the infection specific RSA keypair.
 * The RSA public key used to encrypt the infection specific RSA private key is embedded inside the DLL and owned by the ransomware authors.
-    
+
 
 **Encrypted file format**
 
@@ -90,6 +88,6 @@ cwwnhwhlz52maqm7.onion
 	12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw
 
 
-[Source - Rishabh Chaudhary (Quora)](https://www.quora.com/What-is-WannaCry-Ransomwares-source-code/answer/Rishabh-Chaudhary-19)
+[Source - Rishabh's answer on Quora](https://www.quora.com/What-is-WannaCry-Ransomwares-source-code/answer/Rishabh-395)
 
 ___________________________________________
