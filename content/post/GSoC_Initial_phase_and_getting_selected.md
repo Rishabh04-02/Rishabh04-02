@@ -40,4 +40,6 @@ It is already 09:30 PM on the result day, I'm busy chatting with a friend regard
 ## The journey
 This journey till the phase of selection was exciting and full of suspense and during this, I lost my motivation to keep going many times. I used to sleep like *I can't do it anymore* and then wake up like *I'll try one more time*. Many times Manoj helped me regain my motivation and the other times my inner self.
 
+Next post - [GSoC - Completing the project](https://therishabh.in/GSoC_Completing_the_project/)
+
 ___________________________________________

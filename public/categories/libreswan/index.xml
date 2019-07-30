@@ -9,10 +9,20 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh)</webMaster>
     <copyright>(c) : 2019 | Rishabh</copyright>
-    <lastBuildDate>Wed, 06 Jun 2018 13:50:45 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 11:30:16 +0530</lastBuildDate>
     
 	<atom:link href="https://therishabh.in/categories/libreswan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GSoC - Completing the project</title>
+      <link>https://therishabh.in/gsoc_completing_the_project/</link>
+      <pubDate>Tue, 30 Jul 2019 11:30:16 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh)</author>
+      <guid>https://therishabh.in/gsoc_completing_the_project/</guid>
+      <description>Previous post - GSoC - Initial phase and getting selected
+First Evaluation I was very excited at the beginning of the project, as it is a whole new experience, especially for a student. So, I started working on the project in May. The starting was challenging as I choose Django as the framework which the project is going to be built on, I did so because it was most suitable as per the requirements of the project.</description>
+    </item>
     
     <item>
       <title>GSoC - Initial phase and getting selected</title>
