@@ -41,7 +41,7 @@ disqusShortname = "rishabh0402"
     Category = "categories"
 
 [author]
-    name = "Rishabh Chaudhary"
+    name = "Rishabh"
     email = "rishabh0402@gmail.com"
 
 #
@@ -82,7 +82,7 @@ disqusShortname = "rishabh0402"
     highlight = "monokai"
 
     # Google Analytics.
-    googleAnalytics = "UA-69202678-2"
+    googleAnalytics = "UA-69202678-3"
 
     # Sidebar social links.
     github = "Rishabh04-02" # Your Github profile ID
@@ -141,8 +141,8 @@ disqusShortname = "rishabh0402"
     [Languages]
     [Languages.en]
     weight = 1
-    copyright = "(c) : 2019 | Rishabh Chaudhary"
-    title = "Rishabh Chaudhary" # Site title
+    copyright = "(c) : 2019 | Rishabh"
+    title = "Rishabh's website" # Site title
 
     [[Languages.en.menu.main]]
     name = "About"
