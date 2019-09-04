@@ -12,11 +12,6 @@ keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code","the beginner
 ## Introduction
 This is the beginners guide to Google Summer of Code (GSoC). The Google Summer of Code is an annual global program sponsored and managed by Google. The program focuses of bringing more student developers into open source project development. In this program the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3 month programming project in Summers.
 
-
-## Motivation
-It all started with a blog post. I was writing a blog post "the beginners guide to GSoC" to help various students (who otherwise reach us on various social media platforms to ask queries and the students of NITH) get all the information and resources at one place. Then I thought to create this repo so that other knowledgeable people can also contribute.
-Me and the other collaborators of this repo are all two times(2018, 2019) GSoC students. So, we'll try to provide accurate, to the point and as much information as we can.
-
 ## Table of Contents
 * [What is Open Source](#what-is-open-source)
 	* [Why Should we Care](#why-should-we-care)
@@ -97,9 +92,4 @@ Drafting the Project Proposal
 ### Getting Selected
 Getting Selected and sometimes rejected. How to handle rejection and what to do on selection.
 
-## Contribute
-You have something to share? 
-Open an Issue or Create PR.
-
-## License
-This project is licensed under [MIT License](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC/blob/master/LICENSE)
+___________________________________________
