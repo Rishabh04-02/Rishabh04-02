@@ -4,8 +4,32 @@
   
   <url>
     <loc>https://therishabh.in/tags/gsoc/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therishabh.in/post/</loc>
+    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therishabh.in/</loc>
+    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therishabh.in/tags/</loc>
+    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therishabh.in/tags/technology/</loc>
+    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therishabh.in/the_beginners_guide_to_google_summer_of_code_gsoc/</loc>
+    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
   </url>
   
   <url>
@@ -16,31 +40,6 @@
   <url>
     <loc>https://therishabh.in/tags/libreswan/</loc>
     <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/post/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/tags/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://therishabh.in/tags/technology/</loc>
-    <lastmod>2019-07-30T11:30:16+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -51,7 +50,6 @@
   <url>
     <loc>https://therishabh.in/tags/poem/</loc>
     <lastmod>2018-11-21T13:39:19+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -107,7 +105,6 @@
   <url>
     <loc>https://therishabh.in/tags/wannacry/</loc>
     <lastmod>2017-05-20T12:24:09+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -118,7 +115,6 @@
   <url>
     <loc>https://therishabh.in/tags/zeronet/</loc>
     <lastmod>2017-01-30T10:20:45+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -134,7 +130,6 @@
   <url>
     <loc>https://therishabh.in/tags/github/</loc>
     <lastmod>2016-06-24T10:20:45+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -145,7 +140,6 @@
   <url>
     <loc>https://therishabh.in/tags/teamexe/</loc>
     <lastmod>2016-06-24T10:20:45+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -156,7 +150,6 @@
   <url>
     <loc>https://therishabh.in/tags/travel/</loc>
     <lastmod>2016-02-17T11:17:30+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -167,7 +160,6 @@
   <url>
     <loc>https://therishabh.in/tags/windows/</loc>
     <lastmod>2016-01-06T10:11:43+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -178,25 +170,21 @@
   <url>
     <loc>https://therishabh.in/tags/opensource/</loc>
     <lastmod>2016-01-01T10:00:44+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://therishabh.in/tags/vlc/</loc>
     <lastmod>2016-01-01T10:00:44+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://therishabh.in/tags/facebook/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://therishabh.in/tags/freebasics/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -207,13 +195,11 @@
   <url>
     <loc>https://therishabh.in/tags/open-internet/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://therishabh.in/tags/website/</loc>
     <lastmod>2015-12-25T11:25:55+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -238,7 +224,6 @@
   
   <url>
     <loc>https://therishabh.in/topics/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

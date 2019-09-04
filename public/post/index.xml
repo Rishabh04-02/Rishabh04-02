@@ -9,10 +9,20 @@
     <managingEditor>rishabh0402@gmail.com (Rishabh)</managingEditor>
     <webMaster>rishabh0402@gmail.com (Rishabh)</webMaster>
     <copyright>(c) : 2019 | Rishabh</copyright>
-    <lastBuildDate>Tue, 30 Jul 2019 11:30:16 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2019 22:04:22 +0530</lastBuildDate>
     
 	<atom:link href="https://therishabh.in/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Beginners Guide to Google Summer of Code (GSoC)</title>
+      <link>https://therishabh.in/the_beginners_guide_to_google_summer_of_code_gsoc/</link>
+      <pubDate>Wed, 04 Sep 2019 22:04:22 +0530</pubDate>
+      <author>rishabh0402@gmail.com (Rishabh)</author>
+      <guid>https://therishabh.in/the_beginners_guide_to_google_summer_of_code_gsoc/</guid>
+      <description>Introduction This is the beginners guide to Google Summer of Code (GSoC). The Google Summer of Code is an annual global program sponsored and managed by Google. The program focuses of bringing more student developers into open source project development. In this program the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3 month programming project in Summers.
+Motivation It all started with a blog post.</description>
+    </item>
     
     <item>
       <title>GSoC - Completing the project</title>
