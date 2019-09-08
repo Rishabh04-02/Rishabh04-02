@@ -9,10 +9,10 @@ keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code","the beginner
 
 ![Google Summer of Code](https://therishabh.in/gsoc-logo.svg)
 
-## Introduction
+# Introduction
 This is the beginners guide to Google Summer of Code (GSoC). The Google Summer of Code is an annual global program sponsored and managed by Google. The program focuses of bringing more student developers into open source project development. In this program the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3 month programming project in Summers.
 
-## Table of Contents
+# Table of Contents
 * [What is Open Source](#what-is-open-source)
 	* [Why Should we Care](#why-should-we-care)
 	* [How to make a contribution](#how-to-make-a-contribution)
@@ -31,7 +31,7 @@ This is the beginners guide to Google Summer of Code (GSoC). The Google Summer o
 	* [Getting Selected](#getting-selected)
 * [Terminologies](#terminologies)
 
-## What is Open Source
+# What is Open Source
 The term Open Source means the source code of the software is freely available to its users and anyone can modify it. Open Source softwares can also be redistributed after modifying the original software. The Open Source softwares are usually available to the users for free, these softwares have no licensing fee or other restrictions as they use [open source licenses](https://en.wikipedia.org/wiki/Open-source_license). To know the detailed definition of Open Source you can visit this [link - opensource.org](https://opensource.org/osd).
 
 Few examples of open source softwares which you might be using on a daily basis are:
@@ -40,7 +40,7 @@ Few examples of open source softwares which you might be using on a daily basis 
 * [VLC media player](https://www.videolan.org/index.html) - It has 82,544 commits made by 524 contributors and has 50 releases. [Reference](https://github.com/videolan/vlc)
 * Almost all the Linux distributions. [Reference](http://glug.nith.ac.in/getting-started)
 
-### Why Should we Care
+# Why Should we Care
 **Why Should we care if a software is open source?**
 
 As the source code of open source softwares is freely available. Then there is negligible chance that the software is not respecting the user privacy. Which means that the software can't do something like this [These 6 popular browser extensions are selling your data](https://www.digitaltrends.com/news/popular-browser-extensions-are-selling-your-data/) and this [Uninstall These Eight Browser Extensions That Stole Data from Millions](https://lifehacker.com/uninstall-these-eight-browser-extensions-that-stole-dat-1836539093).
@@ -51,7 +51,7 @@ There is another reason we should care about these softwares, as most of these s
 
 The Open source projects benefit users in the way that they are free, can be modified and re distributed (but to modify any software one should know it better, not everyone can modify a software), provides flexibility. These projects also benefit large corporations eg. Microsoft edge is based on Chromium and open source browser. These corporations can use the source code of open source softwares without any restrictions or license issues. 
 
-### How to make a contribution
+## How to make a contribution
 Contributing to open source helps the contributor learn and gain experience about the language, product OR skill. But before trying to contribute to open source you have to learn few skills which are very easy. E.g. git, github, a programming language (not necessary, but essential for GSoC aspirants), basic knowledge of IRC(Internet Relay Chat), Basic knowledge of Bug tracking tools.
 
 [Reference to learn about git and github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
@@ -65,6 +65,7 @@ Once there you could ask questions related to bugs for beginners, etc. Usually t
 Once you reach there start working on solving the easy bug OR bugs for beginners and submit your patch (or pull request).
 
 **If you want to make your first contribution without getting involved with the organization members then there is a way.**
+
 * Visit [this link](https://github.com/firstcontributions/first-contributions) and follow the instructions.
 * Visit [this link](https://www.firsttimersonly.com) and follow the instructions.
 
@@ -72,43 +73,43 @@ You can find various such repositories on gitHub or GitLab with a simple web sea
 
 There is a guide on "How to Contribute to Open Source" you can find the detailed description for everything on [this link](https://opensource.guide/how-to-contribute/).
 
-### Difference between Open Source, Freeware and Other Softwares
+## Difference between Open Source, Freeware and Other Softwares
 Write Difference between Open Source and Freeware Softwares here.
 
-## What is git and GitHub
+# What is git and GitHub
 What is git and GitHub and what do we need to know about them.
 
-### What are version control systems
+## What are version control systems
 What are version control systems, mention a few and write about their importance.
 
-## What is Google Summer of Code
+# What is Google Summer of Code
 What is Google Summer of Code, write intro about it.
 
-### Eligibility criteria
+## Eligibility criteria
 Mention the criteria and Provide the link too.
 
-### Am I good Enough
+## Am I good Enough
 Can I do it. I'm just a student. 
 
-### Benefits of GSoC
+## Benefits of GSoC
 GSoC the good parts here.
 
-### Required Skills
+## Required Skills
 What are the skills required for GSoC.
 
-## How to Start
+# How to Start
 Where to begin, how to make a roadmap. What to do and what not to do.
 
-### Selecting the Project and Organization
+## Selecting the Project and Organization
 Selecting the Project and Organization
 
-### Understanding the Project
+## Understanding the Project
 Understanding the Project
 
-### Drafting the Project Proposal
+## Drafting the Project Proposal
 Drafting the Project Proposal
 
-### Getting Selected
+## Getting Selected
 Getting Selected and sometimes rejected. How to handle rejection and what to do on selection.
 
 ## Terminologies
