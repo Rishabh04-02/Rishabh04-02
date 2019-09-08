@@ -81,10 +81,17 @@ There is a guide on "How to Contribute to Open Source" you can find the detailed
 * **Proprietary software** - These are the softwares which are not free to use and their source code is protected with proprietary rights, license and copyright. The user needs to pay a specific amount to use the software. They often have limitations on its use, e.g. it can be installed only on one PC. These softwares are also called closed-source softwares. E.g. Microsoft Office.
 
 # What is git and GitHub
-What is git and GitHub and what do we need to know about them.
+Git is an open source  version control system. It's main aim is to handle various kinds of projects with speed and efficiency.
 
-## What are version control systems
-What are version control systems, mention a few and write about their importance.
+GitHub is a web based hosting service for version control using git.
+
+## Version control systems
+**What are version control systems?**
+Version control system is a category of software tools that keeps the track of changes done to a file/files over time.
+
+The main benefit it provides is that at any time we can view/revert to any available versions of a file/files. While other benefits are branching, merging and traceability.
+
+To read about version control systems in detail visit [this link](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) or [this link](https://www.atlassian.com/git/tutorials/what-is-version-control#benefits-of-version-control)
 
 # What is Google Summer of Code
 What is Google Summer of Code, write intro about it.
