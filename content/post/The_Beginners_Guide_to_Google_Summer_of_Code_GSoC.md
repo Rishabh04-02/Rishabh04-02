@@ -74,7 +74,17 @@ You can find various such repositories on gitHub or GitLab with a simple web sea
 There is a guide on "How to Contribute to Open Source" you can find the detailed description for everything on [this link](https://opensource.guide/how-to-contribute/).
 
 ## Difference between Open Source, Freeware and Other Softwares
-Write Difference between Open Source and Freeware Softwares here.
+* **Open Source Softwares** - The source code of these softwares is freely available to its users and anyone can modify and redistribute it. These softwares use open source licenses which doesn't have any licensing fee.
+
+E.g. Mozilla Firefox web browser.
+
+* **Freeware Softwares** - These are the softwares which are free to use. But their source code is not available and is protected with proprietary rights and license.
+
+E.g. WinRAR.
+
+* **Proprietary software** - These are the softwares which are not free to use and their source code is protected with proprietary rights, license and copyright. The user needs to pay a specific amount to use the software. They often have limitations on its use, e.g. it can be installed only on one PC. These softwares are also called cosed-source softwares.
+
+E.g. Microsoft Office.
 
 # What is git and GitHub
 What is git and GitHub and what do we need to know about them.
