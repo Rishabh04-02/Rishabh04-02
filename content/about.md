@@ -6,20 +6,18 @@ project_url: "https://therishabh.in/about/"
 keywords: ["about rishabh","about rishabh chaudhary"]
 ---
 
-## Information -
+## Information
 Smart and Adaptive with a keen interest in Research and Development in the field of Information security, Internet of Things, and Opportunistic Encryption. An achiever and a team player with a demonstrated history of leading/working in various Teams, Clubs & Societies. Held responsibility as Student training and placement Coordinator at National Institute of Technology Hamirpur.
 <br><br><a href="https://drive.google.com/file/d/1lg_m6PtkVcnSDPLGqUbWBo8AQPP3czTA/view?usp=sharing" target="_blank"><button style="width: 35%"><b>View my Resume</b></button></a>  <a href="https://www.linkedin.com/in/rishabh0402/" target="_blank"><button style="width: 35%"><b>Visit my Linkedin Profile</b></button></a>
 
 ___________________________________________
 
 
-## Education -
+## Education
 * **National Institute of Technology Hamirpur**            _(Jul. 2014 - Jun. 2019)_<br>
 	Dual Degree (B.Tech. and M.Tech.) in Computer Science and Engineering <br>
-	_CGPI (B.Tech.: 7.0/10, M.Tech.: 6.8/10)_<br>
 * **D.A.V. Public Senior Secondary School Baghni, Nurpur** _(Apr. 2013 - Mar. 2014)_<br>
 	Higher Secondary Education (CBSE)<br>
-	_Percentage: 78%_<br>
 
 ___________________________________________
 
@@ -137,5 +135,3 @@ ___________________________________________
 <script>
     new GitHubCalendar(".calendar", "Rishabh04-02");
 </script>
-
-<center>Contribution Graph Credits [IonicaBizau](https://github.com/IonicaBizau/).</center>
