@@ -1,4 +1,4 @@
-# Rishabh04-02-website [![Netlify Status](https://api.netlify.com/api/v1/badges/7085e378-7558-4d7e-8adc-6ed45d72f0c5/deploy-status)]() 
+# Rishabh04-02-website [![Netlify Status](https://api.netlify.com/api/v1/badges/7085e378-7558-4d7e-8adc-6ed45d72f0c5/deploy-status)]() [![Build Status](https://travis-ci.com/Rishabh04-02/Rishabh04-02-website.svg?branch=master)]()
 
 This repository holds my website [https://therishabh.in/](https://therishabh.in/)
 
