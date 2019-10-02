@@ -2,7 +2,7 @@
 title: "Net Neutrality & its relation with free basics and internet.org by Facebook"
 date: 2015-12-25T11:25:55+05:30
 draft: false
-project_url: "https://therishabh.in/Net_Neutrality_and_its_relation_with_free_basics_and_internet.org_by_Facebook.md/"
+project_url: "https://therishabh.in/Net_Neutrality_and_its_relation_with_free_basics_and_internet.org_by_Facebook/"
 Tags: ["Open Internet","Freebasics","Facebook","Technology","Website"]
 Categories: ["Open Internet","Freebasics","Facebook","Technology","Website"]
 keywords: ["Facebook Freebasics","Facebook Internet.org"]

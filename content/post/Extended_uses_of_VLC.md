@@ -2,7 +2,7 @@
 title: "Extended uses of VLC"
 date: 2016-01-01T10:00:44+05:30
 draft: false
-project_url: "https://therishabh.in/Extended_uses_of_VLC.md/"
+project_url: "https://therishabh.in/Extended_uses_of_VLC/"
 Tags: ["VLC","Technology","Opensource"]
 Categories: ["VLC","Technology","Opensource"]
 keywords: ["uses of VLC","extended uses of VLC"]

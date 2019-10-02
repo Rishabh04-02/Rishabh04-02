@@ -2,7 +2,7 @@
 title: "Few things about WannaCry ransomware"
 date: 2017-05-20T12:24:09+05:30
 draft: false
-project_url: "https://therishabh.in/Few_things_about_WannaCry_ransomware.md/"
+project_url: "https://therishabh.in/Few_things_about_WannaCry_ransomware/"
 Tags: ["Technology","wannacry"]
 Categories: ["Technology","wannacry"]
 keywords: ["Wannacry ransomeware"]

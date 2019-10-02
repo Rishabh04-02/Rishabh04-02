@@ -2,7 +2,7 @@
 title: "How to make your computer welcome you"
 date: 2016-01-06T10:11:43+05:30
 draft: false
-project_url: "https://therishabh.in/How_to_make_your_computer_Welcome_you.md/"
+project_url: "https://therishabh.in/How_to_make_your_computer_Welcome_you/"
 Tags: ["Technology","Windows"]
 Categories: ["Technology","Windows"]
 keywords: ["how to make your computer welcome you","extended features of windows"]

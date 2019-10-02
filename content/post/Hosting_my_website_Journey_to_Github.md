@@ -2,7 +2,7 @@
 title: "Hosting my website - Journey to Github"
 date: 2015-03-30T09:41:09+05:30
 draft: false
-project_url: "https://therishabh.in/Hosting_my_website_Journey_to_Github.md/"
+project_url: "https://therishabh.in/Hosting_my_website_Journey_to_Github/"
 Tags: ["Github","Technology","Website"]
 Categories: ["Github","Technology","Website"]
 keywords: ["hosting website on Github","journey to github"]

@@ -2,7 +2,7 @@
 title: "How Does ZeroNet Work?"
 date: 2017-01-30T10:20:45+05:30
 draft: false
-project_url: "https://therishabh.in/How_Does_ZeroNet_Work.md/"
+project_url: "https://therishabh.in/How_Does_ZeroNet_Work/"
 Tags: ["Technology","Zeronet"]
 Categories: ["Technology","Zeronet"]
 keywords: ["Zeronet working","How does Zeronet work"]
