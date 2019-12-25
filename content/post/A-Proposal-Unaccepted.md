@@ -25,7 +25,7 @@ Of making some unforgettable memory.
 
 ___________________________________________
 ```
-© : Rishabh Chaudhary
+© : Rishabh
 ```
 
 ___________________________________________

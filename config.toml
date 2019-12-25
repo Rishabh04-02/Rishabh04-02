@@ -125,6 +125,6 @@ disqusShortname = "rishabh0402"
 
     [[Languages.en.menu.main]]
     name = "Blog"
-    identifier = "posts"
+    identifier = "post"
     weight = 4
-    url = "/posts"
+    url = "/post"
