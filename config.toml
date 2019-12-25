@@ -74,7 +74,7 @@ disqusShortname = "rishabh0402"
   highlight = "monokai"
 
   # Google Analytics.
-  googleAnalytics = "UA-69202678-3"    
+  googleAnalytics = "UA-69202678-3"
 
 [blackfriday]
     angledQuotes = true
@@ -129,5 +129,5 @@ disqusShortname = "rishabh0402"
     name = "Blog"
     pre = ""
     weight = 4
-    identifier = "post"
-    url = "/post/"
+    identifier = "posts"
+    url = "/posts/"
