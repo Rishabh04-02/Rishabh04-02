@@ -46,7 +46,7 @@ That I’m the one for one just being.<br><br>
 
 ___________________________________________
 ```
-© : Rishabh Chaudhary
+© : Rishabh
 ```
 
 ___________________________________________

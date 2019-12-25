@@ -2,7 +2,7 @@
 title: "I am not"
 date: 2018-04-17T19:55:01+05:30
 draft: false
-project_url: "https://therishabh.in/I_am_not/"
+project_url: "https://therishabh.in/I-am-not/"
 Tags: ["Poem"]
 Categories: ["Poem"]
 keywords: ["poem by rishabh","poem by rishabh chaudhary","I am not"]
@@ -26,7 +26,7 @@ but I want to be with you.<br><br>
 
 ___________________________________________
 ```
-© : Rishabh Chaudhary
+© : Rishabh
 ```
 
 ___________________________________________

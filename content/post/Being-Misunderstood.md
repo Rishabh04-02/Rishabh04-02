@@ -26,7 +26,7 @@ and will give me the deserved reactions.<br><br>
 
 ___________________________________________
 ```
-© : Rishabh Chaudhary
+© : Rishabh
 ```
 
 ___________________________________________
