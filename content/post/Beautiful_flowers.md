@@ -2,7 +2,7 @@
 title: "Beautiful flowers"
 date: 2018-03-21T12:24:47+05:30
 draft: false
-project_url: "https://therishabh.in/Beautiful-flowers/"
+project_url: "https://therishabh.in/Beautiful_flowers/"
 Tags: ["Poem"]
 Categories: ["Poem"]
 keywords: ["poem by rishabh","poem by rishabh chaudhary","beautiful flowers"]
