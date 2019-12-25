@@ -2,7 +2,7 @@
 title: "Love Story"
 date: 2018-11-21T13:39:19+05:30
 draft: false
-project_url: "https://therishabh.in/Love-story/"
+project_url: "https://therishabh.in/Love_story/"
 Tags: ["Poem"]
 Categories: ["Poem"]
 keywords: ["poem by rishabh","poem by rishabh chaudhary","Love Story"]
