@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Few things about WannaCry ransomware  &middot; Rishabh | Software Engineer</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="description" content="" />
+
+<meta name="keywords" content="Wannacry ransomeware, ">
+
+
+<meta property="og:title" content="Few things about WannaCry ransomware  &middot; Rishabh | Software Engineer ">
+<meta property="og:site_name" content="Rishabh | Software Engineer"/>
+<meta property="og:url" content="https://therishabh.in/posts/few_things_about_wannacry_ransomware/" />
+<meta property="og:locale" content="en">
+
+<meta property="content-source" content="posts/Few_things_about_WannaCry_ransomware.md">
+<meta property="og:type" content="article" />
+<meta property="og:description" content=""/>
+<meta property="og:article:published_time" content="2017-05-20T12:24:09&#43;05:30" />
+<meta property="og:article:modified_time" content="2017-05-20T12:24:09&#43;05:30" />
+
+  
+    
+<meta property="og:article:tag" content="Wannacry ransomeware">
+    
+  
+
+  
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@" />
+<meta name="twitter:title" content="Few things about WannaCry ransomware" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:url" content="https://therishabh.in/posts/few_things_about_wannacry_ransomware/" />
+<meta name="twitter:domain" content="https://therishabh.in/">
+  
+
+  
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "Few things about WannaCry ransomware",
+    "author": {
+      "@type": "Person",
+      "name": "http://profiles.google.com/+?rel=author"
+    },
+    "datePublished": "2017-05-20",
+    "description": "",
+    "wordCount":  469 
+  }
+</script>
+  
+
+
+
+<link rel="canonical" href="https://therishabh.in/posts/few_things_about_wannacry_ransomware/" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://therishabh.in/touch-icon-144-precomposed.png">
+<link rel="icon" href="https://therishabh.in/favicon.png">
+<meta name="generator" content="Hugo 0.59.1" />
+
+  <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="https://therishabh.in/css/bundle.min.eab611615f17136b6537f348f3fa66f8763c200b327d0d2c4ec9876c519be013a166c5b088a9331d8a9a08e54e8cb793cb936a74a55f922640bfc3bb0b8eddd8.css" >
+
+</head>
+<body data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">
+    <header id="main-header">
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        
+          
+          <a class="navbar-brand-img" href="https://therishabh.in/">
+            <img alt="Rishabh" src="https://therishabh.in/logo.png">
+            
+          </a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            
+            
+            <li class="">
+              
+		<a href="https://therishabh.in/about"  title="About">
+                  
+                  About
+                </a>
+              
+            </li>
+            
+            <li class="">
+              
+		<a href="https://therishabh.in/contact"  title="Contact">
+                  
+                  Contact
+                </a>
+              
+            </li>
+            
+            <li class="">
+              
+		<a href="https://therishabh.in/projects"  title="Projects">
+                  
+                  Projects
+                </a>
+              
+            </li>
+            
+            <li class="">
+              
+		<a href="https://therishabh.in/posts"  title="Blog">
+                  
+                  Blog
+                </a>
+              
+            </li>
+            
+            
+              
+          </ul>
+        </div>
+        
+      </div>
+    </nav>
+  </header>
+
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-9">
+
+
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
+<header class="container hat">
+  <h1>Few things about WannaCry ransomware
+</h1>
+
+</header>
+</div>
+
+
+      <div class="content">
+  <p>A global cyber attack has been underway since Friday 12 May 2017, affecting more than 200,000 organizations and 230,000 computers in over 150 countries. It has been described as unprecedented in scale.</p>
+
+<p>Well It’s <code>source code is not yet available</code>, but below is some information that can be useful in understanding its structure and behavior.</p>
+
+<ul>
+<li><strong>Virus Name</strong>: WannaCrypt, WannaCry, WanaCrypt0r, WCrypt, WCRY</li>
+<li><strong>Vector</strong>: All Windows versions before Windows 10 are vulnerable if not patched for MS-17–010. The malware is using the EternalBlue (MS17–010) exploit to distribute itself. This is a SMB vulnerability with remote code execution options.</li>
+<li><strong>Ransom</strong>: between $300 to $600. There is code to ‘rm’ (delete) files in the virus. Seems to reset if the virus crashes.</li>
+<li><strong>Backdooring</strong>: The worm loops through every RDP session on a system to run the ransomware as that user. It also installs the DOUBLEPULSAR backdoor. It corrupts shadow volumes to make recovery harder. Ransomware is writing itself into a random character folder in the ProgramData folder with the filename tasksche.exe or in the C:\Windows\ folder with the filename mssecsvc.exe and tasksche.exe.</li>
+<li><strong>Kill switch</strong>: If the website <code>www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com</code> is up the virus exits instead of infecting the host. This domain has been sinkholed, stopping the spread of the worm. Will not work if proxied.</li>
+<li><strong>File size</strong> of the ransomware is 3.4MB (3514368 bytes).</li>
+<li>The ransomware <strong>grants full access</strong> to all files by using the command:
+ <code>Icacls . /grant Everyone:F /T /C /Q</code></li>
+<li>Using a batch script for operations:
+ <code>176641494574290.bat</code></li>
+<li><strong>Content of batch file</strong> (fefe6b30d0819f1a1775e14730a10e0e)</li>
+</ul>
+
+<pre>
+echo off
+echo SET ow = WScript.CreateObject(“WScript.Shell”)> m.vbs
+echo SET om = ow.CreateShortcut(“C:\WanaDecryptor.exe.lnk”)>> m.vbs
+echo om.TargetPath = “C:\WanaDecryptor.exe”>> m.vbs
+echo om.Save>> m.vbs
+cscript.exe //nologo m.vbs
+del m.vbs
+del /a %0
+</pre>
+
+<p><strong>Content of M.vbs</strong></p>
+
+<pre><code>SET ow = WScript.CreateObject(“WScript.Shell”)
+SET om = ow.CreateShortcut(“C:\
+WanaDecryptor
+.exe.lnk”)
+om.TargetPath = “C:\
+WanaDecryptor
+om.Save
+</code></pre>
+
+<p><strong>Cryptography details</strong></p>
+
+<ul>
+<li>Each infection generates a new RSA-2048 keypair.
+* The public key is exported as blob and saved to <code>00000000.pky</code></li>
+<li>The private key is encrypted with the ransomware public key and saved as <code>00000000.eky</code></li>
+<li>Each file is encrypted using AES-128-CBC, with a unique AES key per file.</li>
+<li>Each AES key is generated CryptGenRandom.</li>
+<li>The AES key is encrypted using the infection specific RSA keypair.</li>
+<li>The RSA public key used to encrypt the infection specific RSA private key is embedded inside the DLL and owned by the ransomware authors.</li>
+</ul>
+
+<p><strong>Encrypted file format</strong></p>
+
+<pre><code>typedef struct _wc_file_t {
+ char sig[WC_SIG_LEN] // 64 bit signature WANACRY!
+ uint32_t keylen; // length of encrypted key
+ uint8_t key[WC_ENCKEY_LEN]; // AES key encrypted with RSA
+ uint32_t unknown; // usually 3 or 4, unknown
+ uint64_t datalen; // length of file before encryption, obtained from GetFileSizeEx
+ uint8_t *data; // Ciphertext Encrypted data using AES-128 in CBC mode
+ } wc_file_t;
+</code></pre>
+
+<p><strong>Command &amp; Control centers</strong>
+<pre>
+gx7ekbenv2riucmf.onion
+57g7spgrzlojinas.onion
+xxlvbrloxvriy2c5.onion
+76jdd2ir2embyv47.onion
+cwwnhwhlz52maqm7.onion
+</pre></p>
+
+<p><strong>Bitcoin Wallets</strong></p>
+
+<pre><code>115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn
+13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94
+12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw
+</code></pre>
+
+<p><a href="https://www.quora.com/What-is-WannaCry-Ransomwares-source-code/answer/Rishabh-395" target="_blank">Source - Rishabh&rsquo;s answer on Quora</a></p>
+
+<hr />
+
+</div>
+
+
+      
+    </div>
+    
+      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+        <div>
+  
+
+    <div class="section">
+      <header><div class="title"><b>Latest Posts</b></div></header>
+      <div class="content">
+        <ul>
+        
+        </ul>
+      </div>
+    </div>
+
+    
+      
+      
+      <div class="section taxonomies">
+        <header><div class="title"><b>tag</b></div></header>
+
+        <div class="content">
+          <ul>
+            <li><a href="https://therishabh.in/tags/technology">technology</a></li><li><a href="https://therishabh.in/tags/poem">poem</a></li><li><a href="https://therishabh.in/tags/gsoc">gsoc</a></li><li><a href="https://therishabh.in/tags/libreswan">libreswan</a></li><li><a href="https://therishabh.in/tags/github">github</a></li><li><a href="https://therishabh.in/tags/website">website</a></li><li><a href="https://therishabh.in/tags/zeronet">zeronet</a></li><li><a href="https://therishabh.in/tags/facebook">facebook</a></li><li><a href="https://therishabh.in/tags/freebasics">freebasics</a></li><li><a href="https://therishabh.in/tags/open-internet">open-internet</a></li>
+          </ul>
+        </div>
+      </div>
+      
+    
+      
+      
+    
+
+</div>
+
+      </div>
+    
+  </div>
+</div>
+    
+<footer class="footer hidden-print">
+  <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+           <div class="pull-left">
+  <a class="toplink" href="javascript:" id="return-to-top">back to top</a>
+</div>
+<div class="pull-right">
+
+</div>
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+              
+    
+<div class="container footline">
+    <small>
+  Made with <i style='color:red' class='fa fa-heart'></i>
+
+</small>
+</div>
+
+
+    
+<div class="container copyright">
+    <small>
+  &copy; : 2020 | Rishabh
+
+  </small>
+</div>
+
+
+
+        </div>
+    </div>
+  </div>
+</footer>
+
+    
+
+<script src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="" async="async"></script>
+
+
+
+<script src="//load.sumome.com/" data-sumo-site-id="" async="async"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  var _gaq=[['_setAccount','UA-69202678-3'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+<script>
+var ENABLE_POPOVER =  null , 
+EXPIRE_COOKIE =  null , 
+SHOW_MODAL_TIMEOUT =  null , 
+MOUSE_LEAVE =  null , 
+MODAL_SIZE =  null , 
+POST_URL =  null , 
+SIGNUP_HEADER =  null ,
+HEADER_IMAGE =  null ,
+IMG_DESCRIPTION =  null ,
+SIGNUP_TEXT =  null ,
+INPUT_PLACEHOLDER =  null ,
+SUBMIT_BUTTON =  null ,
+SUCCESS_MESSAGE =  null ,
+ERROR_MESSAGE =  null ,
+OPTIN =  null ,
+COOKIE_NAME =  null ,
+CONTENTLANGUAGE =  null ; 
+</script>
+
+
+
+
+
+
+
+<script  src="https://therishabh.in/js/bundle.min.bc5960fdb0e04a2806026a317569a41d3e1757f01180209bb41d2a9b208ff0da68a292a6d35e8917ee58bdc091b1ace06fd1d6aa79350ebc515593615dcdbd75.js" ></script>
+
+
+
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax//MathJax.js"></script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax//config/TeX-AMS-MML_HTMLorMML.js"></script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Queue(function() {
+    for(var all in MathJax.Hub.getAllJax()) {
+        all.SourceElement().parentNode.className += ' has-jax';
+
+    }
+});
+</script>
+
+
+
+
+
+  </body>
+</html>
+

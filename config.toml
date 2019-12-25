@@ -127,4 +127,4 @@ disqusShortname = "rishabh0402"
     name = "Blog"
     identifier = "posts"
     weight = 4
-    url = "/post"
+    url = "/posts"
