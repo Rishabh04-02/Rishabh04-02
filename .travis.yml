@@ -6,4 +6,4 @@ before_script:
 script:
   - awesome_bot README.md --allow-dupe --allow-redirect
   - awesome_bot content/*.md  --allow-dupe --allow-redirect --white-list https://www.linkedin.com/
-  - awesome_bot content/posts/*.md --allow-dupe --allow-redirect 
+  - awesome_bot content/post/*.md --allow-dupe --allow-redirect 
