@@ -15,8 +15,8 @@ ___________________________________________
 
 
 ## Publications
-*	Rishabh and T.P. Sharma, **_“Device Classification Based Data Encryption for Internet of Things_,”** International Journal of High Performance Computing and Networking, 2019. (Communicated)<br>
-* Rishabh and T.P. Sharma, **_“Lightweight Encryption Algorithms, Technologies, and Architectures in Internet of Things: A Survey_,”** 7th International Conference on Innovations in Computer Science and Engineering, 2019. (Springer)
+*	Rishabh and T.P. Sharma, **_“Device Classification Based Data Encryption for Internet of Things_,”** International Journal of High Performance Computing and Networking, 2019.<br>
+* Rishabh and T.P. Sharma, **_“Lightweight Encryption Algorithms, Technologies, and Architectures in Internet of Things: A Survey_,”** 7th International Conference on Innovations in Computer Science and Engineering, 2019.
 
 ___________________________________________
 
@@ -83,7 +83,7 @@ ___________________________________________
 
 ## Open Source Activities
 * **Contributor in Organizations: Over 150 commits in The Libreswan Project, Mozilla, phpBB, Awesome CSS, PublicLab, Sendgrid.**
-* **GitHub ([Rishabh04- 02](https://github.com/Rishabh04-02/)) : 1 ,900+ Open Source Commits.**
+* **GitHub ([Rishabh04-02](https://github.com/Rishabh04-02/)) : 3,100+ Commits.**
 
 <!-- Prepare a container for your calendar. -->
 <script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>
