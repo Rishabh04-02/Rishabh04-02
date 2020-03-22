@@ -15,8 +15,9 @@ ___________________________________________
 
 
 ## Publications
-*	Rishabh and T.P. Sharma, **_“Device Classification Based Data Encryption for Internet of Things_,”** International Journal of High Performance Computing and Networking, 2019.<br>
-* Rishabh and T.P. Sharma, **_“Lightweight Encryption Algorithms, Technologies, and Architectures in Internet of Things: A Survey_,”** 7th International Conference on Innovations in Computer Science and Engineering, 2019.
+*	Rishabh, T.P. Sharma (2019) **_“Device Classification Based Data Encryption for Internet of Things_,”** International Journal of High Performance Computing and Networking, 2019.<br>
+* Rishabh, T.P. Sharma (2020) **_“Lightweight Encryption Algorithms, Technologies, and Architectures in Internet of Things: A
+Survey_,”** Innovations in Computer Science and Engineering. Lecture Notes in Networks and Systems, vol 103. Springer.
 
 ___________________________________________
 
