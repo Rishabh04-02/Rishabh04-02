@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://therishabh.in/</loc>
-    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://therishabh.in/tags/</loc>
     <lastmod>2019-09-04T22:04:22+05:30</lastmod>
   </url>
@@ -29,6 +24,11 @@
   
   <url>
     <loc>https://therishabh.in/the_beginners_guide_to_google_summer_of_code_gsoc/</loc>
+    <lastmod>2019-09-04T22:04:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therishabh.in/</loc>
     <lastmod>2019-09-04T22:04:22+05:30</lastmod>
   </url>
   
