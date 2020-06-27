@@ -20,7 +20,7 @@ keywords: ["AI","Artificial Intelligence","Google summer of code","ML","Machine 
 
 ## Difference between Artificial Intelligence and Machine Learning?
 | Artificial Intelligence 	| Machine Learning 	|
-|:-:	|:-:	|
+|:--	|:--	|
 | It is the intelligence demonstrated by machines. 	| It is an application of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed 	|
 | The aim is to maximize the chances of success and not focus on accuracy. 	| The aim is to maximize the accuracy and not focus on success. 	|
 | It can be a computer program doing some smart work. 	| It can be a computer program learning from the provided data. 	|
