@@ -9,10 +9,19 @@
     <managingEditor>rishabh0402&#43;website@gmail.com (Rishabh)</managingEditor>
     <webMaster>rishabh0402&#43;website@gmail.com (Rishabh)</webMaster>
     <copyright>(c) : 2020 | Rishabh</copyright>
-    <lastBuildDate>Wed, 04 Sep 2019 22:04:22 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 15:11:08 +0530</lastBuildDate>
     
 	<atom:link href="https://therishabh.in/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI and ML, Can they be the next big thing?</title>
+      <link>https://therishabh.in/ai_and_ml_can_they_be_the_next_big_thing/</link>
+      <pubDate>Sat, 27 Jun 2020 15:11:08 +0530</pubDate>
+      <author>rishabh0402&#43;website@gmail.com (Rishabh)</author>
+      <guid>https://therishabh.in/ai_and_ml_can_they_be_the_next_big_thing/</guid>
+      <description>What is Artificial Intelligence?  Artificial Intelligence (AI) is the study and design of Intelligent agents, where an intelligent agent is a system that perceives its environment and takes actions which maximize its chances of success [1]. OR one can understand Artificial Intelligence as the intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals [2].  What is Machine Learning?  Machine learning (ML) is the study of computer algorithms that improve automatically through experience [3].</description>
+    </item>
     
     <item>
       <title>The Beginners Guide to Google Summer of Code (GSoC)</title>
