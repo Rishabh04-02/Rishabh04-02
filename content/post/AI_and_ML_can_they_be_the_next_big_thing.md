@@ -10,12 +10,13 @@ keywords: ["AI","Artificial Intelligence","Google summer of code","ML","Machine 
 
 ## What is Artificial Intelligence?
 * Artificial Intelligence (AI) is the study and design of Intelligent agents, where an intelligent agent is a system that perceives its environment and takes actions which maximize its chances of success [1].
-* OR one can understand Artificial Intelligence as the intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals [2].
+* Artificial Intelligence is the intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals [2].
+* Artificial Intelligence is the science and engineering of making intelligent machines [3]. 
 
 
 ## What is Machine Learning?
-* Machine learning (ML) is the study of computer algorithms that improve automatically through experience [3]. 
-* OR one can understand Machine learning as an application of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed [4].
+* Machine learning (ML) is the study of computer algorithms that improve automatically through experience [4]. 
+* OR one can understand Machine learning as an application of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed [5].
 
 
 ## Difference between Artificial Intelligence and Machine Learning?
@@ -119,9 +120,9 @@ So, yes AI & ML is the next big thing.
 ## References
 1. [Science Daily - Artificial intelligence](https://www.sciencedaily.com/terms/artificial_intelligence.htm)
 2. [Wikipedia - Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-3. [Wikipedia - Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
-4. [Expert System - Machine Learning](https://expertsystem.com/machine-learning-definition/)
-5. [Analytics Insight - AI and ML](https://www.analyticsinsight.net/5-real-world-examples-machine-learning-ai/)
+3. [Mind Data - What is Artificial Intelligence](https://minddata.org/what-is-ai-mit-stanford-harvard-cmu-Brian-Ka-Chan-AI)
+4. [Wikipedia - Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+5. [Expert System - Machine Learning](https://expertsystem.com/machine-learning-definition/)
 6. [Wikipedia - Music and artificial intelligence](https://en.wikipedia.org/wiki/Music_and_artificial_intelligence)
 7. [Open Software System for Interactive Applications](https://ossia.io/)
 8. [Medium - How Netflix uses AI for content creation and recommendation](https://medium.com/swlh/how-netflix-uses-ai-for-content-creation-and-recommendation-c1919efc0af4)
