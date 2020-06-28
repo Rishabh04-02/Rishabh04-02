@@ -1,8 +1,8 @@
 ---
-title: "AI and ML, Can they be the next big thing?"
+title: "Artificial Intelligence and Machine Learning, Can they be the next big thing?"
 date: 2020-06-27T15:11:08+05:30
 draft: false
-project_url: "https://therishabh.in/AI_and_ML_can_they_be_the_next_big_thing/"
+project_url: "https://therishabh.in/Artificial_Intelligence_and_Machine_Learning_can_they_be_the_next_big_thing/"
 Tags: ["AI","ML","technology"]
 Categories: ["AI","ML","technology"]
 keywords: ["AI","Artificial Intelligence","Google summer of code","ML","Machine Learning","AI and ML, Can they be the next big thing?"]
