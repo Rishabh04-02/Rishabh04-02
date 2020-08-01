@@ -38,8 +38,8 @@ The term Open Source means the source code of the software is freely available t
 Few examples of open source softwares which you might be using on a daily basis are:
 
 * [Mozilla Firefox web browser](https://www.mozilla.org/en-US/firefox/) -  It has 665,020 commits made by 7,369 contributors representing 20,505,182 lines of code. [Reference](https://www.openhub.net/p/firefox)
-* [VLC media player](https://www.videolan.org/index.html) - It has 82,544 commits made by 524 contributors and has 50 releases. [Reference](https://github.com/videolan/vlc)
-* Almost all the Linux distributions. [Reference](http://glug.nith.ac.in/getting-started)
+* [VLC media player](http://www.videolan.org/index.html) - It has 82,544 commits made by 524 contributors and has 50 releases. [Reference](http://github.com/videolan/vlc)
+* Almost all the Linux distributions. [Reference - http://glug.nith.ac.in/getting-started](http://glug.nith.ac.in)
 
 ### Why Should we Care
 **Why Should we care if a software is open source?**
@@ -238,6 +238,5 @@ Remember one thing "Success consists of going from failure to failure without lo
 ## References -
 1. [GitHub: The Beginners Guide to Google Summer of Code (GSoC) by Rishabh04-02](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC)
 
-![GitHub Hits Count](http://hits.dwyl.io/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC.svg)
 
 ___________________________________________
