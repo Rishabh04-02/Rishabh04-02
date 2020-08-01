@@ -61,17 +61,14 @@ ___________________________________________
 
 
 ## Recreational Interests
-* Contributing to [Open Source](http://github.com/Rishabh04-02/)<br>
+* 🧑‍💻 Contributing to [Open Source](http://github.com/Rishabh04-02/)<br>
 	I love contributing to Open Source and have contributed to a lot of Open Source Projects of organizations ranging from The Libreswan Project, Mozilla, PhpBB, etc.
-* I love writing and sharing my experiences, so sometimes write on quora. But you know what? I love reading more :) .
-* Linux Administration.
-* Enjoys blogging<br>
-	As I've already written, I love to write. Want to read my blogs? [Click here](https://therishabh.in/post/).
-* Photo and Video editing.
+* 📖 I like to read
+* ✍️ I enjoy blogging, Want to read my blogs? [Click here](https://therishabh.in/post/)
+* 💻 Loves trying new software/gadgets
+* 🌏 My website [https://therishabh.in/](https://therishabh.in/)
 * Philosophy, Photography.
 * Loves Traveling :) .
-* Sometimes write poems, Want to read? [Click here](/tags/poem).
-* Loves trying new software/gadgets.
 
 ___________________________________________
 
