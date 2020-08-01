@@ -1,10 +1,10 @@
-# Rishabh04-02-website [![Netlify Status](https://api.netlify.com/api/v1/badges/7085e378-7558-4d7e-8adc-6ed45d72f0c5/deploy-status)]() [![Build Status](https://travis-ci.com/Rishabh04-02/Rishabh04-02-website.svg?branch=master)]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7085e378-7558-4d7e-8adc-6ed45d72f0c5/deploy-status)](https://therishabh.in/) [![Build Status](https://travis-ci.com/Rishabh04-02/Rishabh04-02-website.svg?branch=master)](https://therishabh.in/)
 
-This repository holds my website [https://therishabh.in/](https://therishabh.in/)
+Hi There 👋
 
-## Basic Information
-
-This website is created using [Hugo](https://github.com/gohugoio/hugo).
-
-## License
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+* 🧑‍💻 I am an open source contributor
+* 📖 I like to read
+* ✍️ I enjoy blogging, Want to read my blogs? [Click here](https://therishabh.in/post/).
+* 💻 Loves trying new software/gadgets.
+* 🌏 My website [https://therishabh.in/](https://therishabh.in/)
+* 📇 Reach me @ rishabh0402+github[at]gmail[dot]com.
