@@ -128,3 +128,9 @@ disqusShortname = "rishabh0402"
     identifier = "post"
     weight = 4
     url = "/post"
+
+    [[Languages.en.menu.main]]
+    name = "Mind-Blowing"
+    identifier = "mind-blowing"
+    weight = 5
+    url = "/mind-blowing"

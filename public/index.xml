@@ -9,10 +9,19 @@
     <managingEditor>rishabh0402&#43;website@gmail.com (Rishabh)</managingEditor>
     <webMaster>rishabh0402&#43;website@gmail.com (Rishabh)</webMaster>
     <copyright>(c) : 2020 | Rishabh</copyright>
-    <lastBuildDate>Sat, 27 Jun 2020 15:11:08 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 12:02:13 +0530</lastBuildDate>
     
 	<atom:link href="https://therishabh.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mind-Blowing</title>
+      <link>https://therishabh.in/mind-blowing/</link>
+      <pubDate>Sat, 01 Aug 2020 12:02:13 +0530</pubDate>
+      <author>rishabh0402&#43;website@gmail.com (Rishabh)</author>
+      <guid>https://therishabh.in/mind-blowing/</guid>
+      <description>A collection of mind blowing facts. If you want to see all the mind-blowing posts then please click on the following tag mind-blowing</description>
+    </item>
     
     <item>
       <title>Artificial Intelligence and Machine Learning, Can they be the next big thing?</title>
