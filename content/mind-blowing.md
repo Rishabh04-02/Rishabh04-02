@@ -8,4 +8,4 @@ keywords: ["contact rishabh","contact rishabh chaudhary", "mind blowing facts"]
 
 ### A collection of mind blowing facts.
 
-If you want to see all the mind-blowing posts then please click on the following tag <a href="https://therishabh.in/tags/mind-blowing/">mind-blowing</a>
+If you want to see all the mind-blowing posts then please click on the following tag <a href="#">mind-blowing</a>
