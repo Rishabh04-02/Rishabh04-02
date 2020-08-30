@@ -130,7 +130,7 @@ disqusShortname = "rishabh0402"
     url = "/post"
 
     [[Languages.en.menu.main]]
-    name = "Mind-Blowing"
-    identifier = "mind-blowing"
+    name = "TIL"
+    identifier = "today-i-learned"
     weight = 5
-    url = "/mind-blowing"
+    url = "/today-i-learned"
