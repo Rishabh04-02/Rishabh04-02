@@ -6,7 +6,7 @@ project_url: "https://therishabh.in/today-i-learned/"
 keywords: ["contact rishabh","contact rishabh chaudhary", "mind blowing facts", "today I learned"]
 ---
 
-## 1. Facts About Blood and Blood Types
+## Facts About Blood and Blood Types [30 August, 2020]
 ___________________________________________
 
 * **How Blood Type Is Determined & Details of four major blood groups**
