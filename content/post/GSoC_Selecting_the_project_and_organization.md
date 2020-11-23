@@ -11,7 +11,7 @@ keywords: ["Gsoc","Gsoc rishabh Libreswan","Google summer of code"]
 ![Google Summer of Code](https://therishabh.in/gsoc-logo.svg)
 
 
-I started working towards GSoC 2018 in the first week of February. I remember because my birthday is in February and it was then I decided that I'll try to be a part of GSoC 2018.
+I started working towards GSoC 2018 in the first week of February. It was then I decided that I'll try to be a part of GSoC 2018.
 
 So, the first step in the process is the selection of a project/organization. Instead of selecting the organization I thought to go for a project of my interest, as in case of selecting an organization it is possible that the organization is doing something that interests us but their available projects don't interest us much.
 This step is time-consuming and was a little difficult as at that time the organizations for GSoC 2018 were not announced and to choose the projects I had to visit their official websites and their projects wiki/GSoC page.
