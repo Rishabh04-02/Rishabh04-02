@@ -136,7 +136,7 @@ So, yes AI & ML is the next big thing.
 9. [Instagram - The World’s First Digital Supermodel](https://www.instagram.com/shudu.gram)
 10. [Fortune business insights](https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114)
 11. [Grand View Research - Artificial Intelligence Market Size](https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market)
-12. [Market Watch - Big Data Market](https://www.marketwatch.com/press-release/big-data-market-2019-with-detailed-analysis-of-size-share-trends-online-services-emerging-technology-solutions-and-forecast-to-2026-2020-06-26)
+12. [Market Watch - Big Data Market](https://www.marketwatch.com)
 13. [CNET News](https://www.cnet.com/news/bill-gates-says-ai-should-improve-education-and-medicine/)
 14. [CNBC News](https://www.cnbc.com/2018/03/13/elon-musk-at-sxsw-a-i-is-more-dangerous-than-nuclear-weapons.html)
 15. [CNBC News](https://www.cnbc.com/2018/03/01/elon-musk-responds-to-harvard-professor-steven-pinkers-a-i-comments.html)
