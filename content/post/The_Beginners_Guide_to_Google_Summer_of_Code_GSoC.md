@@ -227,9 +227,8 @@ Remember one thing "Success consists of going from failure to failure without lo
 2. [Learn about git and GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 3. [GSoC Guides](https://google.github.io/gsocguides/student/)
 4. [Introduction to Open Source - A Series by DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
-5. [Contribute to Open Source. Search issue labels to find the right project for you!](http://issuehub.io)
-6. [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners)
-7. [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+5. [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners)
+6. [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 ## Terminologies
 1. patch - It is a set of changes to a computer program or its supporting data designed to update, fix, or improve it.
