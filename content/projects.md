@@ -107,7 +107,7 @@ This portal has all the relevant information on it be it about the functionaries
 
 ___________________________________________
 
-## 7. [Paradox - Team .EXE](https://teamexe.in/paradox/)
+## 7. [Paradox - Team .EXE](https://play.google.com/store/apps/developer?id=Team+.EXE)
 >	PHP, MySQL, Javascript, API, HTML-CSS
 
 An online game, with answers based on an image/set of images. Hints are provided periodically. Website and App work on APIs. The App has 50K+ downloads on Google play store and receives 5K+ monthly registrations.
