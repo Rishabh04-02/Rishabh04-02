@@ -3,13 +3,13 @@ title: "About"
 date: 2017-12-27T15:02:13+05:30
 draft: false
 project_url: "https://therishabh.in/about/"
-keywords: ["about rishabh","about rishabh chaudhary"]
+keywords: ["about rishabh"]
 ---
 
 ## Information
 Smart and Adaptive with a keen interest in Research and Development in the field of Information security, Internet of Things, and Opportunistic Encryption. An achiever and a team player with a demonstrated history of leading/working in various Teams, Clubs & Societies. Held responsibility as Student training and placement Coordinator at National Institute of Technology Hamirpur.
 <br><br>
-<a href="https://drive.google.com/file/d/1lg_m6PtkVcnSDPLGqUbWBo8AQPP3czTA/view?usp=sharing" target="_blank"><button style="width: 40%"><b>View my Resume</b></button></a>   <a href="https://www.linkedin.com/in/rishabh0402/" target="_blank"><button style="width: 40%"><b>Visit my Linkedin Profile</b></button></a>
+<a href="https://drive.google.com/file/d/1lg_m6PtkVcnSDPLGqUbWBo8AQPP3czTA/view?usp=sharing" target="_blank"><button style="width: 40%"><b>View my Resume</b></button></a>   <a href="https://www.linkedin.com/in/the-rishabh/" target="_blank"><button style="width: 40%"><b>Visit my Linkedin Profile</b></button></a>
 
 ___________________________________________
 
