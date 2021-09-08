@@ -9,4 +9,4 @@ keywords: ["contact rishabh","contact rishabh chaudhary"]
 ## Reach me via -
 * **Email id  <i style="color: maroon" class='fa fa-envelope'></i>** - hello[at]therishabh[dot]in.
 
-* **Linkedin  <i class='fa fa-linkedin'></i>** - [Rishabh](https://www.linkedin.com/in/rishabh0402/).
+* **Linkedin  <i class='fa fa-linkedin'></i>** - [Rishabh](https://www.linkedin.com/in/the-rishabh/).
