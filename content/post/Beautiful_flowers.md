@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/Beautiful_flowers/"
 Tags: ["Poem"]
 Categories: ["Poem"]
-keywords: ["poem by rishabh","poem by rishabh chaudhary","beautiful flowers"]
+keywords: ["poem by rishabh","poem rishabh","beautiful flowers","rishabh"]
 ---
 
 

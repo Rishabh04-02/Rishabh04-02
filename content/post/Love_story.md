@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/Love_story/"
 Tags: ["Poem"]
 Categories: ["Poem"]
-keywords: ["poem by rishabh","poem by rishabh chaudhary","Love Story"]
+keywords: ["poem by rishabh","poem rishabh","Love Story","poem"]
 ---
 
 

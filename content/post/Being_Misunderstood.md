@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/being_misunderstood/"
 Tags: ["Poem"]
 Categories: ["Poem"]
-keywords: ["poem by rishabh","poem by rishabh chaudhary"]
+keywords: ["poem by rishabh","poem rishabh","poem"]
 ---
 
 

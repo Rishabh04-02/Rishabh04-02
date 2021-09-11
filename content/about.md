@@ -57,18 +57,21 @@ ___________________________________________
 	* **Training and placement portal:** Developed Official website - Office of Training and Placement NIT Hamirpur. It eases the process of finding the relevant info regarding the Placement cell and helps with the process when visiting the Institute for placements. The project has turned out to be over 10 times faster than the existing procedure.
 
 
+
+___________________________________________
+
+
+## Competitive Programming
+* Leetcode Profile - [user24976](https://leetcode.com/user24976/)
+* Hackerrank Profile - [user45634745](https://www.hackerrank.com/user45634745)
+
 ___________________________________________
 
 
 ## Recreational Interests
 * 🧑‍💻 Contributing to [Open Source](http://github.com/Rishabh04-02/)<br>
 	I love contributing to Open Source and have contributed to a lot of Open Source Projects of organizations ranging from The Libreswan Project, Mozilla, PhpBB, etc.
-* 📖 I like to read
 * ✍️ I enjoy blogging, Want to read my blogs? [Click here](https://therishabh.in/post/)
-* 💻 Loves trying new software/gadgets
-* 🌏 My website [https://therishabh.in/](https://therishabh.in/)
-* Philosophy, Photography.
-* Loves Traveling :) .
 
 ___________________________________________
 
@@ -81,7 +84,7 @@ ___________________________________________
 
 ## Open Source Activities
 * **Contributor in Organizations: Over 150 commits in The Libreswan Project, Mozilla, phpBB, Awesome CSS, PublicLab, Sendgrid.**
-* **GitHub ([Rishabh04-02](https://github.com/Rishabh04-02/)) : 3,100+ Commits.**
+* **GitHub**: [Rishabh04-02](https://github.com/Rishabh04-02/)
 
 <!-- Prepare a container for your calendar. -->
 <script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>

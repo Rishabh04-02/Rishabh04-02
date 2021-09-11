@@ -3,7 +3,7 @@ title: "Contact"
 date: 2017-12-27T15:02:13+05:30
 draft: false
 project_url: "https://therishabh.in/contact/"
-keywords: ["contact rishabh","contact rishabh chaudhary"]
+keywords: ["contact rishabh","rishabh"]
 ---
 
 ## Reach me via -

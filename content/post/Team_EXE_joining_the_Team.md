@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/Team_EXE_joining_the_Team/"
 Tags: ["Github","Technology","TeamEXE"]
 Categories: ["Github","Technology","TeamEXE"]
-keywords: ["Team EXE NIT Hamirpur","Team EXE NIT"]
+keywords: ["Team EXE NIT Hamirpur","Team EXE NIT","rishabh"]
 ---
 
 Its raining outside & i am writing this post , Hope it helps :-)

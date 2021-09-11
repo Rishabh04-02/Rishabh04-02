@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/I_am_not/"
 Tags: ["Poem"]
 Categories: ["Poem"]
-keywords: ["poem by rishabh","poem by rishabh chaudhary","I am not"]
+keywords: ["poem by rishabh","poem rishabh","I am not","poem"]
 ---
 
 

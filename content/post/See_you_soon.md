@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/See_you_soon/"
 Tags: ["Poem"]
 Categories: ["Poem"]
-keywords: ["poem by rishabh","poem by rishabh chaudhary","see you soon"]
+keywords: ["poem by rishabh","poem rishabh","see you soon","poem"]
 ---
 
 

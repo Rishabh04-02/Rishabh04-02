@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/When_I_saw_her_for_the_first_time/"
 Tags: ["Poem"]
 Categories: ["Poem"]
-keywords: ["poem by rishabh","poem by rishabh chaudhary"]
+keywords: ["poem by rishabh","poem rishabh","poem"]
 ---
 
 <center><b>

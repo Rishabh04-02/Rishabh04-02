@@ -5,7 +5,7 @@ draft: false
 project_url: "https://therishabh.in/Rishabh_GSoC_2018/"
 Tags: ["GSoC","Libreswan","technology"]
 Categories: ["GSoC","Libreswan","technology"]
-keywords: ["rishabh GSoC","GSoC rishabh chaudhary","GSoC","Google summer of code Rishabh"]
+keywords: ["rishabh GSoC","GSoC rishabh","GSoC","Google summer of code Rishabh","rishabh"]
 ---
 
 ![Google Summer of Code](https://therishabh.in/gsoc-logo.svg)
