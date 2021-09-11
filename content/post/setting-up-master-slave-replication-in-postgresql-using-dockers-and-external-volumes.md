@@ -8,9 +8,7 @@ Categories: ["Postgresql","technology"]
 keywords: ["Postgresql","master slave","dockers","external volumes","droplets","master slave replication","master slave replication in postgresql","master slave replication in postgresql using dockers","master slave replication in postgresql using dockers and external volumes"]
 ---
 
-# Setting up Master Slave Replication in PostgreSQL using Dockers and external volumes
-
-## Understanding replication in PostgreSQL 12
+# Understanding replication in PostgreSQL 12
 
 Streaming replication in PostgreSQL works on log shipping. Every transaction in postgres is written to a transaction log called WAL (write-ahead log) to achieve durability. A slave uses these WAL segments to continuously replicate changes from its master.
 
@@ -20,7 +18,7 @@ A wal sender process runs on a master, whereas the wal receiver and startup p
 
 Note: Log Sequence Number, or LSN, is a pointer to a location in the WAL.
 
-## Firewall -
+# Firewall -
 UFW or Uncomplicated Firewall is an application to manage the iptables based firewall on Ubuntu. UFW is the default firewall configuration tool for Ubuntu Linux and provides a user-friendly way to configure the firewall.
 
 ```
@@ -43,38 +41,38 @@ ufw status
 
 UFW firewall has been installed and the PostgreSQL service has been added.
 
-## Setting up Docker using external volume
+# Setting up Docker using external volume
 
-### Install docker
+## Install docker
 You can install docker from your default package manager or using some other service like [**Snapcraft**](https://snapcraft.io/) e.g. ``snap install docker``
 
-### Setup Docker engine
-#### Pull postgress in docker
+## Setup Docker engine
+### Pull postgress in docker
 ```
 docker pull postgres
 ```
 
-#### Create docker
+### Create docker
 ```
 docker run --name DOCKER_NAME -e POSTGRES_PASSWORD=PASSWORD -d -p 0.0.0.0:5432:5432 -v /mnt/EXTERNAL_VOLUME_NAME/postgres:/var/lib/postgresql/data  postgres
 ```
 
-### Check for running dockers
+## Check for running dockers
 ```
 docker ps
 ```
 
-### View all available dockers
+## View all available dockers
 ```
 docker ps -a
 ```
 
-### Enter into Docker shell
+## Enter into Docker shell
 ```
 docker exec -it DOCKER_NAME /bin/bash
 ```
 
-## Master -
+# Master -
 Create a role dedicated to the replication -
 Create the user in master using whichever slave should connect for streaming the WALs. This user must have REPLICATION ROLE.
 
@@ -88,7 +86,7 @@ Now check the new user with 'du' query below, and you will see the replica user 
 \du
 ```
 
-### Edit postgresql.conf -
+## Edit postgresql.conf -
 Note - the postgresql.conf would be present in the following location in case of external volume ``/mnt/EXTERNAL_VOLUME_NAME/postgres/postgresql.conf``
 
 The following parameters on the master are considered as mandatory when setting up streaming replication:
@@ -128,7 +126,7 @@ Mount the location on docker configuration file (Docker has permission to read w
 /mnt/external_volume:/var/lib/postgresql/12/main/archive/
 ```
 
-### Edit pg_hba.conf -
+## Edit pg_hba.conf -
 
 Add an entry to pg_hba.conf of the master to allow replication connections from the slave. The default location of pg_hba.conf is the data directory. However, you may modify the location of this file in the file  postgresql.conf. In Ubuntu/Debian, pg_hba.conf may be located in the same directory as the postgresql.conf file by default. You can get the location of postgresql.conf in Ubuntu/Debian by calling an OS command => pg_lsclusters.
 
@@ -152,7 +150,7 @@ PostgreSQL is running under the IP address 10.0.15.10, check it with netstat com
 netstat -plntu
 ```
 
-## Slave -
+# Slave -
 
 First stop the postgresql service using the following command
 
@@ -179,13 +177,13 @@ The following parameters on the slave are considered as mandatory when setting u
     synchronous_standby_names = 'pgslave001'
     hot_standby = on
 
-## Starting the Data Streaming
+# Starting the Data Streaming
 To start stream the data and to bring Slave at the same state as that of Master, we do the following steps:
 * Copy the data of Master to Slave
 * Create a recovery configuration file
 * And restart the postgresql service on Slave
 
-### Copying the data of Master to Slave
+## Copying the data of Master to Slave
 Login to Slave and create a backup of the `main/` directory using the following commands
 
     su - postgres
@@ -229,7 +227,7 @@ now restart postgresql and make sure the service is running
     systemctl start postgresql
     netstat -plntu
 
-## Testing
+# Testing
 One can check the streaming status on Master
 
     postgres=# select * from pg_stat_activity  where usename = 'replica' ;
@@ -263,10 +261,7 @@ One can check for user `replica` on the Master
     query            |
     backend_type     | walsender
 
-## Storing the archive files -
-* How to recreate database from the archive files?
-
-## References -
+# References -
 1. [Setting up Master Slave Replication in PostgreSQL using Dockers and external volumes](https://github.com/Rishabh04-02/setting-up-master-slave-replication-in-postgresql-using-dockers-and-external-volumes)
 2. [Setting up Master Slave Replication in PostgreSQL (upto version 11) using Dockers and external volumes](https://github.com/Rishabh04-02/Master-Slave-Replication-in-PSQL)
 3. [Setting up Streaming Replication Postgresql](https://www.percona.com/blog/2018/09/07/setting-up-streaming-replication-postgresql/)
