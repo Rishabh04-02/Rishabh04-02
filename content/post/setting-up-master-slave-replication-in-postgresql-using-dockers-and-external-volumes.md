@@ -90,12 +90,19 @@ Now check the new user with 'du' query below, and you will see the replica user 
 Note - the postgresql.conf would be present in the following location in case of external volume ``/mnt/EXTERNAL_VOLUME_NAME/postgres/postgresql.conf``
 
 The following parameters on the master are considered as mandatory when setting up streaming replication:
+
 * **archive_mode** : Must be set to ON to enable archiving of WALs.
+
 * **wal_level** : Must be at least set to hot_standby  until version 9.5 or replica  in the later versions.
+
 * **max_wal_senders** : Must be set to 3 if you are starting with one slave. For every slave, you may add 2 wal senders.
+
 * **wal_keep_segments** : Set the WAL retention in pg_xlog (until PostgreSQL 9.x) and pg_wal (from PostgreSQL 10). Every WAL requires 16MB of space unless you have explicitly modified the WAL segment size. You may start with 100 or more depending on the space and the amount of WAL that could be generated during a backup.
+
 * **archive_command** : This parameter takes a shell command or external programs. It can be a simple copy command to copy the WAL segments to another location or a script that has the logic to archive the WALs to S3 or a remote backup server.
+
 * **listen_addresses** : Set it to * or the range of IP Addresses that need to be whitelisted to connect to your master PostgreSQL server. Your slave IP should be whitelisted too, else, the slave cannot connect to the master to replicate/replay WALs.
+
 * **hot_standby** : Must be set to ON on standby/replica and has no effect on the master. However, when you setup your replication, parameters set on the master are automatically copied. This parameter is important to enable READS on slave. Otherwise, you cannot run your SELECT queries against slave.
 
 The above parameters can be set on the master using these commands followed by a restart:
@@ -178,9 +185,13 @@ The following parameters on the slave are considered as mandatory when setting u
     hot_standby = on
 
 # Starting the Data Streaming
+
 To start stream the data and to bring Slave at the same state as that of Master, we do the following steps:
+
 * Copy the data of Master to Slave
+
 * Create a recovery configuration file
+
 * And restart the postgresql service on Slave
 
 ## Copying the data of Master to Slave
@@ -209,8 +220,11 @@ Note: The `STRONG_PASSWORD_HERE` is same as you've used above in the **Master** 
 Explanation of each parameter:
 
 * **standby_mode=on** : specifies that the server must start as a standby server
+
 * **primary_conninfo** : the parameters to use to connect to the master
+
 * **trigger_file** : if this file exists, the server will stop the replication and act as a master
+
 * **restore_command** : this command is only needed if you have used the archive_command on the master
 
     standby_mode = 'on'
@@ -228,6 +242,7 @@ now restart postgresql and make sure the service is running
     netstat -plntu
 
 # Testing
+
 One can check the streaming status on Master
 
     postgres=# select * from pg_stat_activity  where usename = 'replica' ;
