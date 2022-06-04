@@ -58,7 +58,7 @@ disqusShortname = "rishabh0402"
   # You can use markdown here.
   BrandImage = "/logo.png" #top header brand image.
   brand = "Rishabh" # brand image alt text.
-  topline = "Research Scholar | Software Engineer"
+  topline = "Software Engineer"
   footline = "Made with <i style='color:red' class='fa fa-heart'></i>"
 
   # Show a sidebar menu
@@ -131,6 +131,6 @@ disqusShortname = "rishabh0402"
 
     [[Languages.en.menu.main]]
     name = "TIL"
-    identifier = "today-i-learned"
+    identifier = "Competitive Programming"
     weight = 5
-    url = "/today-i-learned"
+    url = "/competitive-programming"
