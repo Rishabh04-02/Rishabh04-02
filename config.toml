@@ -106,8 +106,8 @@ disqusShortname = "rishabh0402"
     title = "Rishabh's Website" # Site title
 
     [[Languages.en.menu.main]]
-    name = "TIL"
-    identifier = "Competitive Programming"
+    name = "Competitive Programming"
+    identifier = "competitive-programming"
     weight = 1
     url = "/competitive-programming"
 
