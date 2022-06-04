@@ -108,29 +108,29 @@ disqusShortname = "rishabh0402"
     [[Languages.en.menu.main]]
     name = "Competitive Programming"
     identifier = "competitive-programming"
-    weight = 1
+    weight = 2
     url = "/competitive-programming"
 
     [[Languages.en.menu.main]]
     name = "About"
-    weight = 2
+    weight = 3
     identifier = "about"
     url = "/about"
 
     [[Languages.en.menu.main]]
     name = "Contact"
     identifier = "contact"
-    weight = 3
+    weight = 4
     url = "/contact"
 
     [[Languages.en.menu.main]]
     name = "Projects"
     identifier = "projects"
-    weight = 4
+    weight = 5
     url = "/projects"
 
     [[Languages.en.menu.main]]
     name = "Blog"
     identifier = "post"
-    weight = 5
+    weight = 6
     url = "/post"
