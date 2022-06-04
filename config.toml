@@ -106,31 +106,31 @@ disqusShortname = "rishabh0402"
     title = "Rishabh's Website" # Site title
 
     [[Languages.en.menu.main]]
-    name = "About"
+    name = "TIL"
+    identifier = "Competitive Programming"
     weight = 1
+    url = "/competitive-programming"
+
+    [[Languages.en.menu.main]]
+    name = "About"
+    weight = 2
     identifier = "about"
     url = "/about"
 
     [[Languages.en.menu.main]]
     name = "Contact"
     identifier = "contact"
-    weight = 2
+    weight = 3
     url = "/contact"
 
     [[Languages.en.menu.main]]
     name = "Projects"
     identifier = "projects"
-    weight = 3
+    weight = 4
     url = "/projects"
 
     [[Languages.en.menu.main]]
     name = "Blog"
     identifier = "post"
-    weight = 4
-    url = "/post"
-
-    [[Languages.en.menu.main]]
-    name = "TIL"
-    identifier = "Competitive Programming"
     weight = 5
-    url = "/competitive-programming"
+    url = "/post"
