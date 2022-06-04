@@ -17,8 +17,6 @@ ___________________________________________
 
 ___________________________________________
 
-README Last Updated - 4/06/2022
-
 * Hackerrank Profile - [user45634745](https://www.hackerrank.com/user45634745)
 
 ![Hackerrank Image](/images/hackerrank.png)
