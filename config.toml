@@ -102,7 +102,7 @@ disqusShortname = "rishabh0402"
     [Languages]
     [Languages.en]
     weight = 1
-    copyright = "(c) : 2021 | Rishabh"
+    copyright = "(c) : 2022 | Rishabh"
     title = "Rishabh's Website" # Site title
 
     [[Languages.en.menu.main]]
