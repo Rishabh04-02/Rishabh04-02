@@ -52,11 +52,12 @@ ___________________________________________
 		* Designed and developed various features (for web application) and solutions, to enhance the user experience and usability.
 		* Developed and Optimized various internal tools to improve the accuracy hence quality of the solutions provided to the customers.
 		* Optimized the web app (backend and queries) and reduced page loading time.
-		* Optimized various existing solutions and made them work more than 10X faster.
+		* Optimized various existing solutions and made them work more than 10X faster.<br><br>
 
 * **Google Summer of Code** _(2018, 2019)_
 	* **Libreswan Opportunistic IPsec using Let’s Encrypt:** Created shell scripts for establishing the Opportunistic Encryption connection using Libreswan IPsec. It also generates client/server configurations and updates and imports the certificates automatically along with handling files safely. Server/Client crashes handled. The project makes the process of using OE easier, automated and over 10 times faster than the manual procedure.
 	* **Libreswan Managing Interface:** Developed Application for generating & signing CA root certificates & user certificates (VPN connection profiles) along with generating custom configurations for user certificates. Automatic creating and updating of certificate revocation list implemented. The project increased the efficiency of performing all the above tasks by over 7 times as compared to the existing manual procedure.<br><br>
+
 * **Internships at NIT Hamirpur** _(Summer 2018, 2017)_<br>
 	* **Elective manager:** Built an application for the online allotment of various UG/PG electives, which are allotted based on CGPA, elective priority & available seats. The software has an auto backup mechanism and is using SQL procedures for performing various tasks. The project has proved to be over 15 times faster than the existing system (manual).
 	* **Training and placement portal:** Developed Official website - Office of Training and Placement NIT Hamirpur. It eases the process of finding the relevant info regarding the Placement cell and helps with the process when visiting the Institute for placements. The project has turned out to be over 10 times faster than the existing procedure.
