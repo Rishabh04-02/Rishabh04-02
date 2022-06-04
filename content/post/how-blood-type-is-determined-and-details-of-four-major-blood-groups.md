@@ -10,6 +10,7 @@ keywords: ["contact rishabh","blood type determination", "mind blowing facts", "
 
 ## Facts About Blood and Blood Types
 > Today I learned
+
 ___________________________________________
 
 * **How Blood Type Is Determined & Details of four major blood groups**
