@@ -11,7 +11,7 @@ ___________________________________________
 
 * Leetcode Profile - [the_sky_high](https://leetcode.com/the_sky_high/)
 
-### Rank - 33,271
+### Rank - 28,737 (as on 26/08/22)
 
 ![LeetCode Image](/images/leetcode.png)
 
