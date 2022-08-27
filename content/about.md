@@ -69,7 +69,6 @@ ___________________________________________
 * Leetcode Profile - [the_sky_high](https://leetcode.com/the_sky_high/)
 * Hackerrank Profile - [user45634745](https://www.hackerrank.com/user45634745)
 
-For more details check [competitive programming page](https://therishabh.in/competitive-programming/) of website
 ___________________________________________
 
 
