@@ -13,7 +13,7 @@ draft: false
 ![Google Summer of Code](/images/gsoc-logo.svg)
 
 
-Previous post - [GSoC - Selecting the project and organization](https://therishabh.in/gsoc_selecting_the_project_and_organization/)
+Previous post - [GSOC - Selecting the project and organization](/blog/gsoc-selecting-the-project-and-organization/)
 
 *Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do*. - Pele
 

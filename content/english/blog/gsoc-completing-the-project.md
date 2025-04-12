@@ -1,7 +1,7 @@
 ---
-title: "GSoC - Completing the project"
-meta_title: "GSoC - Completing the project"
-description: "GSoC - Completing the project"
+title: "GSOC - Completing the project"
+meta_title: "GSOC - Completing the project"
+description: "GSOC - Completing the project"
 date: 2019-07-30T11:30:16+05:30
 image: "/images/image-placeholder.png"
 author: "Rishabh"
@@ -13,7 +13,7 @@ draft: false
 ![Google Summer of Code](/images/gsoc-logo.svg)
 
 
-Previous post - [GSoC - Initial phase and getting selected](https://therishabh.in/gsoc_initial_phase_and_getting_selected/)
+Previous post - [GSOC - Understanding, Proposing, and Getting Selected](/blog/gsoc-understanding-proposing-and-getting-selected/)
 
 ## First Evaluation
 I was very excited at the beginning of the project, as it is a whole new experience, especially for a student. So, I started working on the project in May. The starting was challenging as I choose Django as the framework which the project is going to be built on, I did so because it was most suitable as per the requirements of the project. But I had never worked on it before. So, during the initial days, I spent a significant amount of time in learning Django. But this didn't slow the pace of the project. After working for around 10-15 days, all the configuration and tweaking were done, and the modules were written. So, after these days, the interface starts to work and perform the tasks it was supposed to do successfully. 
