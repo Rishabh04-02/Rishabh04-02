@@ -1,12 +1,12 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+baseURL = "https://therishabh.in/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "Rishabh"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Asia/Kolkata"
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
@@ -21,10 +21,10 @@ defaultContentLanguageInSubdir = false
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
-ID = 'G-MEASUREMENT_ID' # see https://gohugo.io/templates/internal/#configure-google-analytics
+ID = 'UA-69202678-3' # see https://gohugo.io/templates/internal/#configure-google-analytics
 
 [services.disqus]
-shortname = 'themefisher-template' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+shortname = 'rishabh0402' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 
 ########################## Permalinks ############################
 [permalinks.page]
@@ -160,3 +160,46 @@ lazy = true
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
 lazy = true
+
+# ############################# Languages ##############################
+# [Languages]
+# [Languages.en]
+# weight = 1
+# copyright = "(c) : 2025 | Rishabh"
+# title = "Rishabh"
+
+# [[Languages.en.menu.main]]
+# name = "About"
+# weight = 2
+# identifier = "about"
+# url = "/about"
+
+# [[Languages.en.menu.main]]
+# name = "Contact"
+# identifier = "contact"
+# weight = 3
+# url = "/contact"
+
+# [[Languages.en.menu.main]]
+# name = "Projects"
+# identifier = "projects"
+# weight = 4
+# url = "/projects"
+
+# [[Languages.en.menu.main]]
+# name = "Blog"
+# identifier = "post"
+# weight = 5
+# url = "/post"
+
+############################# Author ##############################
+[author]
+name = "Rishabh"
+email = "hello@therishabh.in"
+
+############################# Params ##############################
+[params]
+brand = "Rishabh"
+topline = "Software Engineer"
+footline = "Made with <i style='color:red' class='fa fa-heart'></i>"
+BrandImage = "/logo.png"
