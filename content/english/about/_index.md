@@ -1,10 +1,7 @@
 ---
-title: "About me"
-meta_title: "About"
-description: "About me"
-image: "/images/avatar.png"
-project_url: "https://therishabh.in/about/"
-keywords: ["about rishabh"]
+title: "About"
+meta_title: ""
+description: ""
 draft: false
 ---
 
