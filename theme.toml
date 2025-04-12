@@ -1,9 +1,8 @@
 name = "Hugoplate"
 license = "MIT"
-licenselink = "https://github.com/zeon-studio/hugoplate/blob/main/LICENSE"
-description = "Hugoplate is a free starter template built with Hugo, and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-homepage = "https://github.com/zeon-studio/hugoplate"
-demosite = "https://zeon.studio/preview?project=hugoplate"
+licenselink = "https://github.com/Rishabh04-02/Rishabh04-02/blob/main/LICENSE.md"
+description = "Personal website of Rishabh"
+homepage = "https://therishabh.in"
 min_version = "0.141.0"
 
 tags = [
@@ -29,10 +28,10 @@ features = [
 ]
 
 [author]
-name = "Zeon Studio"
-homepage = "https://zeon.studio"
+name = "Rishabh"
+homepage = "https://therishabh.in"
 
 [original]
-author = "Zeon Studio"
-homepage = "https://zeon.studio"
-repo = "https://github.com/zeon-studio/themeplate"
+author = "Rishabh"
+homepage = "https://therishabh.in"
+repo = "https://github.com/Rishabh04-02/Rishabh04-02"
