@@ -4,6 +4,7 @@ baseurl = "https://therishabh.in/"
 publishDir = "public"
 
 DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = false
 
 # Language
 languageCode = "en"
@@ -19,8 +20,9 @@ metaDataFormat = "toml"
 theme = "hugo-bootstrap-premium"
 
 # Pagination
-paginate = 10
-paginatePath = "page"
+[pagination]
+    pagerSize = 10
+    path = "page"
 
 # Enable Disqus integration
 disqusShortname = "rishabh0402"
@@ -73,7 +75,7 @@ disqusShortname = "rishabh0402"
   highlight = "monokai"
 
   # Google Analytics.
-  googleAnalytics = "UA-69202678-3"
+  googleAnalytics = "G-XXXXXXXXXX" # Replace with your GA4 measurement ID
 
 [blackfriday]
     angledQuotes = true
@@ -124,6 +126,45 @@ disqusShortname = "rishabh0402"
     url = "/projects"
 
     [[Languages.en.menu.main]]
+    name = "Blog"
+    identifier = "post"
+    weight = 5
+    url = "/post"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+    [markup.highlight]
+        style = "monokai"
+        lineNos = true
+
+[languages]
+    [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "The Rishabh"
+    copyright = "(c) : 2024 | Rishabh"
+
+    [[languages.en.menu.main]]
+    name = "About"
+    weight = 2
+    identifier = "about"
+    url = "/about"
+
+    [[languages.en.menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    weight = 3
+    url = "/contact"
+
+    [[languages.en.menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    weight = 4
+    url = "/projects"
+
+    [[languages.en.menu.main]]
     name = "Blog"
     identifier = "post"
     weight = 5
