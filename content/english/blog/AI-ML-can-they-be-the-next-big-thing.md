@@ -142,4 +142,3 @@ So, yes AI & ML is the next big thing.
 13. [CNET News](https://www.cnet.com/news/bill-gates-says-ai-should-improve-education-and-medicine/)
 14. [CNBC News](https://www.cnbc.com/2018/03/13/elon-musk-at-sxsw-a-i-is-more-dangerous-than-nuclear-weapons.html)
 15. [CNBC News](https://www.cnbc.com/2018/03/01/elon-musk-responds-to-harvard-professor-steven-pinkers-a-i-comments.html)
-
