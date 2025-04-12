@@ -5,8 +5,8 @@ description: "GSoC - Completing the project"
 date: 2019-07-30T11:30:16+05:30
 image: "/images/image-placeholder.png"
 author: "Rishabh"
-categories: ["GSoC","Libreswan","technology"]
-tags: ["GSoC","Libreswan","technology"]
+categories: ["GSOC","Libreswan","technology"]
+tags: ["GSOC","Libreswan","technology"]
 draft: false
 ---
 
