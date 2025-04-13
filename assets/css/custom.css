@@ -1,0 +1,26 @@
+/* Add your own custom styles here */
+
+/* Beating heart animation */
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.2);
+  }
+  28% {
+    transform: scale(1);
+  }
+  42% {
+    transform: scale(1.2);
+  }
+  70% {
+    transform: scale(1);
+  }
+}
+
+.beating-heart {
+  display: inline-block;
+  animation: heartbeat 1.4s infinite;
+  transform-origin: center;
+}
