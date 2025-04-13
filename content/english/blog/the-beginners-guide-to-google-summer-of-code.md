@@ -3,7 +3,6 @@ title: "The Beginners Guide to Google Summer of Code (GSOC)"
 meta_title: "The Beginners Guide to Google Summer of Code (GSOC)"
 description: "The Beginners Guide to Google Summer of Code (GSOC)"
 date: 2019-09-04T22:04:22+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["GSOC","technology"]
 tags: ["GSOC","technology"]

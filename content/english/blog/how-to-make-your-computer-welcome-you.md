@@ -3,7 +3,6 @@ title: "How to make your computer welcome you"
 meta_title: "How to make your computer welcome you"
 description: "How to make your computer welcome you"
 date: 2016-01-06T10:11:43+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Technology","Windows"]
 tags: ["Technology","Windows"]

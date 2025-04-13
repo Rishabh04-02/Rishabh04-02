@@ -3,7 +3,6 @@ title: "Joining Team .EXE at NIT Hamirpur"
 meta_title: "Joining Team .EXE at NIT Hamirpur"
 description: "Joining Team .EXE at NIT Hamirpur"
 date: 2016-06-24T10:20:45+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Github","Technology","TeamEXE", "NITH"]
 tags: ["Github","Technology","TeamEXE", "NITH"]

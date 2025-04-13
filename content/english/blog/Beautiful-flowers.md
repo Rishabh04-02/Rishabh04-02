@@ -3,7 +3,6 @@ title: "Beautiful flowers"
 meta_title: "Beautiful flowers"
 description: "Beautiful flowers"
 date: 2018-03-21T12:24:47+05:30
-image: "/images/gallery/beautiful-flowers.jpg"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

@@ -3,7 +3,6 @@ title: "Love Story"
 meta_title: "Love Story"
 description: "Love Story"
 date: 2018-11-21T13:39:19+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

@@ -3,7 +3,6 @@ title: "How Blood Type Is Determined & Details of four major blood groups"
 meta_title: "How Blood Type Is Determined & Details of four major blood groups"
 description: "How Blood Type Is Determined & Details of four major blood groups"
 date: 2020-08-01T12:02:13+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["blood groups"]
 tags: ["blood groups"]

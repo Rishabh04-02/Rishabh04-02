@@ -3,7 +3,6 @@ title: "Artificial Intelligence and Machine Learning, Can they be the next big t
 meta_title: "Artificial Intelligence and Machine Learning, Can they be the next big thing?"
 description: "Artificial Intelligence and Machine Learning, Can they be the next big thing?"
 date: 2020-06-27T15:11:08+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["AI","ML","Technology"]
 tags: ["AI","ML","Technology"]

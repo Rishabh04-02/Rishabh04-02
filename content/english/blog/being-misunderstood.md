@@ -3,7 +3,6 @@ title: "Being Misunderstood"
 meta_title: "Being Misunderstood"
 description: "Being Misunderstood"
 date: 2016-11-26T22:29:10+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

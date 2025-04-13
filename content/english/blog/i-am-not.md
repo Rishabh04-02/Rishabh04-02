@@ -3,7 +3,6 @@ title: "I am not"
 meta_title: "I am not"
 description: "I am not"
 date: 2018-04-17T19:55:01+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

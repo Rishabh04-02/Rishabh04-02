@@ -3,7 +3,6 @@ title: "What is ZeroNet?"
 meta_title: "What is ZeroNet?"
 description: "What is ZeroNet?"
 date: 2017-01-22T10:20:45+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["technology","Zeronet"]
 tags: ["technology","Zeronet"]

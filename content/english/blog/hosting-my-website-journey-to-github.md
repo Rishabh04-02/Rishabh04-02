@@ -3,7 +3,6 @@ title: "Hosting my website - Journey to Github"
 meta_title: "Hosting my website - Journey to Github"
 description: "Hosting my website - Journey to Github"
 date: 2015-03-30T09:41:09+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Github","Technology","Website"]
 tags: ["Github","Technology","Website"]

@@ -3,7 +3,6 @@ title: "Setting Up Master Slave Replication in Postgresql Using Dockers and Exte
 meta_title: "Setting Up Master Slave Replication in Postgresql Using Dockers and External Volumes"
 description: "Setting Up Master Slave Replication in Postgresql Using Dockers and External Volumes"
 date: 2021-09-11T13:34:03+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Postgresql","technology"]
 tags: ["Postgresql","technology"]

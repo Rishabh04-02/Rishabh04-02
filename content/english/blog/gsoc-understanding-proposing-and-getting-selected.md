@@ -3,7 +3,6 @@ title: "GSOC - Understanding, Proposing, and Getting Selected"
 meta_title: "GSOC - Understanding, Proposing, and Getting Selected"
 description: "GSOC - Understanding, Proposing, and Getting Selected"
 date: 2018-06-06T13:50:45+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["GSOC","Libreswan","technology"]
 tags: ["GSOC","Libreswan","technology"]

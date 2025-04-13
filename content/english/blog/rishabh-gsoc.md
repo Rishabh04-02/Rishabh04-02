@@ -3,7 +3,6 @@ title: "Google Summer of Code(GSOC) 2018"
 meta_title: "Google Summer of Code(GSOC) 2018"
 description: "Google Summer of Code(GSOC) 2018"
 date: 2018-04-29T10:51:04+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["GSOC","Libreswan","technology"]
 tags: ["GSOC","Libreswan","technology"]
