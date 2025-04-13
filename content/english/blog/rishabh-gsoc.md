@@ -20,4 +20,4 @@ My project is [Web based Certificate and Profile User Interface](https://summero
 I am really happy 😊, It means a lot to me.
 Special thanks to **Manoj Kumar**, **Gurpreet Singh** and **Lokesh sharma**. These guys helped me a lot in making this possible by motivating and supporting me during the phase, also my family and friends who always encouraged me to go an extra mile and helped me in my bad times.
 
-Next Post - [GSoC - Selecting the project and organization](/blog/gsoc-selecting-the-project-and-organization/)
+Next Post - [GSOC - Selecting the project and organization](/blog/gsoc-selecting-the-project-and-organization/)
