@@ -2,8 +2,8 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+# logo = "images/logo.png"
+# logo_darkmode = "images/logo-darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "RISHABH"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -65,7 +65,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["Rishabh", "Software Engineer", "Developer", "Programmer", "Coder", "Developer", "Backend Engineer", "Full Stack Developer", "Software Developer", "Software Engineer", "Developer"]
 description = "Senior Backend Engineer"
 author = "Rishabh"
-image = "images/logo.png"
+# image = "images/logo.png"
 
 
 # site verifications
