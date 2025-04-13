@@ -3,7 +3,7 @@ title: "Flowers and Butterflies"
 meta_title: "Flowers and Butterflies"
 description: "Flowers and Butterflies"
 date: 2022-04-06T08:00:00+05:30
-image: "/images/image-placeholder.png"
+image: "/images/gallery/flowers-and-butterflies.jpg"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]
