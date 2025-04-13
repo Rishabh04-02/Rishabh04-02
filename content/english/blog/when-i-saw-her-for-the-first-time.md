@@ -3,7 +3,6 @@ title: "When I saw her for the first time"
 meta_title: "When I saw her for the first time"
 description: "When I saw her for the first time"
 date: 2014-10-05T22:29:10+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

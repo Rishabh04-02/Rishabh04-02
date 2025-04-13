@@ -3,7 +3,6 @@ title: "Setting Up DNS Based Email Forwarding to Gmail Using Open Source Service
 meta_title: "Setting Up DNS Based Email Forwarding to Gmail Using Open Source Service and Custom Domain"
 description: "Setting Up DNS Based Email Forwarding to Gmail Using Open Source Service and Custom Domain"
 date: 2020-08-13T13:17:29+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["DNS","email","technology","domain"]
 tags: ["DNS","email","technology","domain"]

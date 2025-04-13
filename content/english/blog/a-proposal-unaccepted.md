@@ -3,7 +3,6 @@ title: "A Proposal Unaccepted"
 meta_title: "A Proposal Unaccepted"
 description: "A Proposal Unaccepted"
 date: 2015-04-20T22:29:10+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

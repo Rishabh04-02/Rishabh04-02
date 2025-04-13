@@ -3,7 +3,6 @@ title: "Few things about WannaCry ransomware"
 meta_title: "Few things about WannaCry ransomware"
 description: "Few things about WannaCry ransomware"
 date: 2017-05-20T12:24:09+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Technology","ransomware"]
 tags: ["Technology","ransomware"]

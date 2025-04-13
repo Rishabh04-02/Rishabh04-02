@@ -3,7 +3,6 @@ title: "Extended uses of VLC"
 meta_title: "Extended uses of VLC"
 description: "Extended uses of VLC"
 date: 2016-01-01T10:00:44+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["VLC","Technology","Opensource"]
 tags: ["VLC","Technology","Opensource"]

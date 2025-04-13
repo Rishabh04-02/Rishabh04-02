@@ -3,7 +3,6 @@ title: "See you soon"
 meta_title: "See you soon"
 description: "See you soon"
 date: 2018-05-20T11:23:06+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

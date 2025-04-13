@@ -3,7 +3,6 @@ title: "Net Neutrality & its relation with free basics and internet.org by Faceb
 meta_title: "Net Neutrality & its relation with free basics and internet.org by Facebook"
 description: "Net Neutrality & its relation with free basics and internet.org by Facebook"
 date: 2015-12-25T11:25:55+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Open Internet","Freebasics","Facebook","Technology","Website"]
 tags: ["Open Internet","Freebasics","Facebook","Technology","Website"]

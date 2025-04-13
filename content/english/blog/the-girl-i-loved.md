@@ -3,7 +3,6 @@ title: "The Girl I Loved"
 meta_title: "The Girl I Loved"
 description: "The Girl I Loved"
 date: 2015-09-01T22:29:10+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["Poem"]
 tags: ["Poem"]

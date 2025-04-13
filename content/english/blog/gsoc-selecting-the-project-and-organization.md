@@ -3,7 +3,6 @@ title: "GSOC - Selecting the project and organization"
 meta_title: "GSOC - Selecting the project and organization"
 description: "GSOC - Selecting the project and organization"
 date: 2018-05-23T13:17:22+05:30
-image: "/images/image-placeholder.png"
 author: "Rishabh"
 categories: ["GSOC","Libreswan","technology"]
 tags: ["GSOC","Libreswan","technology"]
