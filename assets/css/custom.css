@@ -1,5 +1,17 @@
 /* Add your own custom styles here */
 
+:root {
+  --link-color: #2563eb;
+  --link-hover-color: #1d4ed8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --link-color: #60a5fa;
+    --link-hover-color: #93c5fd;
+  }
+}
+
 /* Beating heart animation */
 @keyframes heartbeat {
   0% {
@@ -23,4 +35,14 @@
   display: inline-block;
   animation: heartbeat 1.4s infinite;
   transform-origin: center;
+}
+
+.content a {
+  color: var(--link-color);
+  transition: color 0.2s ease-in-out;
+}
+
+.content a:hover {
+  color: var(--link-hover-color);
+  text-decoration: none;
 }

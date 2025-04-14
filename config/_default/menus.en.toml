@@ -18,5 +18,10 @@ weight = 3
 
 [[main]]
 weight = 4
+name = "Readings"
+url = "/readings"
+
+[[main]]
+weight = 5
 name = "Blog"
 url = "/blog"
