@@ -6,3 +6,4 @@ Hi There 👋
 * ⚡ I am a Software Engineer.
 * 👨‍💻 I am an open source contributor. And I love open source products.
 * 📇 Reach me @ hello[at]therishabh[dot]in
+* Want to read by blogs, visit [therishabh.in](https://therishabh.in/blog/)
