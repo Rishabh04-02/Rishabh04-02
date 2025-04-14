@@ -8,7 +8,7 @@
           <div class="row">
             {{ $paginator:= .Paginate (where .Site.RegularPages "Type" "blog") }}
             {{ range $paginator.Pages }}
-              <div class="md:col-6 mb-14">
+              <div class="md:col-12 mb-14">
                 {{ partial "components/blog-card" . }}
               </div>
             {{ end }}
