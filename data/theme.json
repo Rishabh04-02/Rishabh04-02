@@ -37,12 +37,17 @@
       "secondary_type": "ubuntu"
     },
     "font_size": {
-      "base": "17",
+      "base": "19",
       "scale": "1.2"
     },
     "letter_spacing": {
       "base": "0.02em",
       "heading": "0.02em"
+    },
+    "line_height": {
+      "base": "1.5",
+      "heading": "1.2",
+      "paragraph": "1.6"
     }
   }
 }
