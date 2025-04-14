@@ -23,9 +23,9 @@
         "dark": "#fff"
       },
       "text_color": {
-        "text": "#d3d3d3",
+        "text": "#c6c6c6",
         "text-dark": "#fff",
-        "text-light": "#d3d3d3"
+        "text-light": "#c6c6c6"
       }
     }
   },
@@ -39,6 +39,10 @@
     "font_size": {
       "base": "17",
       "scale": "1.2"
+    },
+    "letter_spacing": {
+      "base": "0.02em",
+      "heading": "0.02em"
     }
   }
 }
