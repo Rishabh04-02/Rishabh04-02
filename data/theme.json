@@ -23,18 +23,18 @@
         "dark": "#fff"
       },
       "text_color": {
-        "text": "#B4AFB6",
+        "text": "#d3d3d3",
         "text-dark": "#fff",
-        "text-light": "#B4AFB6"
+        "text-light": "#d3d3d3"
       }
     }
   },
   "fonts": {
     "font_family": {
       "primary": "Heebo:wght@400;600",
-      "primary_type": "sans-serif",
+      "primary_type": "ubuntu",
       "secondary": "Signika:wght@500;700",
-      "secondary_type": "sans-serif"
+      "secondary_type": "ubuntu"
     },
     "font_size": {
       "base": "16",
