@@ -3,7 +3,7 @@
 
 Hi There 👋
 
-* ⚡ I am a Software Engineer.
-* 👨‍💻 I am an open source contributor. And I love open source products.
-* 📇 Reach me @ hello[at]therishabh[dot]in
-* Want to read by blogs, visit [therishabh.in](https://therishabh.in/blog/)
+* ⚡ I am a Senior Backend Engineer with a strong focus on scalable architecture and system design.
+* 👨‍💻 As a passionate open source contributor, I actively participate in the global developer community. My daily workflow is deeply integrated with open source tools and technologies, reflecting my belief in the power of shared knowledge.
+* 📇 Reach me @ hello at therishabh dot in
+* 📝 Want to read by blogs, visit <a href="https://therishabh.in/blog/" target="_blank">therishabh.in</a>
