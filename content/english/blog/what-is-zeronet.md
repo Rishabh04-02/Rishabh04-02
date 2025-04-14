@@ -41,7 +41,7 @@ It’s a Decentralized web platform using Bitcoin cryptography and BitTorrent ne
 
 When i create a new site we get two keys -
 ```shell
-	Private Key 5JNiiGspzqt8sL9FM54FMr53U9XvLVh8Waz6YYDK69gG6hso9xu
+    Private Key 5JNiiGspzqt8sL9FM54FMr53U9XvLVh8Waz6YYDK69gG6hso9xu
 
     Public key 16YsjZK9nweLyy3vNQQPKT8tfjCNjEX9JM
 ```

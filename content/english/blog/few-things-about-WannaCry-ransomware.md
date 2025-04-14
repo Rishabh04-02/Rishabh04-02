@@ -40,13 +40,13 @@ del /a %0
 **Content of M.vbs**
 
 
-	SET ow = WScript.CreateObject(“WScript.Shell”)
-	SET om = ow.CreateShortcut(“C:\
-	WanaDecryptor
-	.exe.lnk”)
-	om.TargetPath = “C:\
-	WanaDecryptor
-	om.Save
+    SET ow = WScript.CreateObject(“WScript.Shell”)
+    SET om = ow.CreateShortcut(“C:\
+    WanaDecryptor
+    .exe.lnk”)
+    om.TargetPath = “C:\
+    WanaDecryptor
+    om.Save
 
 
 **Cryptography details**
@@ -62,14 +62,14 @@ del /a %0
 
 **Encrypted file format**
 
-	typedef struct _wc_file_t {
-	 char sig[WC_SIG_LEN] // 64 bit signature WANACRY!
-	 uint32_t keylen; // length of encrypted key
-	 uint8_t key[WC_ENCKEY_LEN]; // AES key encrypted with RSA
-	 uint32_t unknown; // usually 3 or 4, unknown
-	 uint64_t datalen; // length of file before encryption, obtained from GetFileSizeEx
-	 uint8_t *data; // Ciphertext Encrypted data using AES-128 in CBC mode
-	 } wc_file_t;
+    typedef struct _wc_file_t {
+     char sig[WC_SIG_LEN] // 64 bit signature WANACRY!
+     uint32_t keylen; // length of encrypted key
+     uint8_t key[WC_ENCKEY_LEN]; // AES key encrypted with RSA
+     uint32_t unknown; // usually 3 or 4, unknown
+     uint64_t datalen; // length of file before encryption, obtained from GetFileSizeEx
+     uint8_t *data; // Ciphertext Encrypted data using AES-128 in CBC mode
+     } wc_file_t;
 
 
 

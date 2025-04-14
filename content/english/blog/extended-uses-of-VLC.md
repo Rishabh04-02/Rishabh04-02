@@ -9,7 +9,7 @@ tags: ["VLC","Technology","Opensource"]
 draft: false
 ---
 
-You thought vlc as just another audio/video player, but to your surprise its much more than that. If you are using vlc you must be using it because its quite popular and maybe your friend recommended it to you as its a good player and if you ask him/her how its good then you must got in reply that it can play more formats of video than any other player can even think of. If its so then now its the time to start my story. So, let me tell you some advanced features of vlc which no other player has it all and that so for free. 
+You thought vlc as just another audio/video player, but to your surprise its much more than that. If you are using vlc you must be using it because its quite popular and maybe your friend recommended it to you as its a good player and if you ask him/her how its good then you must got in reply that it can play more formats of video than any other player can even think of. If its so then now its the time to start my story. So, let me tell you some advanced features of vlc which no other player has it all and that so for free.
 
 So let’s start with the features:
 

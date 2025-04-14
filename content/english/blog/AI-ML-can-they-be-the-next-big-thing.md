@@ -12,10 +12,10 @@ draft: false
 ## What is Artificial Intelligence?
 * Artificial Intelligence (AI) is the study and design of Intelligent agents, where an intelligent agent is a system that perceives its environment and takes actions which maximize its chances of success [1].
 * Artificial Intelligence is the intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals [2].
-* Artificial Intelligence is the science and engineering of making intelligent machines [3]. 
+* Artificial Intelligence is the science and engineering of making intelligent machines [3].
 
 ## What is Machine Learning?
-* Machine learning (ML) is the study of computer algorithms that improve automatically through experience [4]. 
+* Machine learning (ML) is the study of computer algorithms that improve automatically through experience [4].
 * OR one can understand Machine learning as an application of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed [5].
 
 ## Subsets of Artificial Intelligence
@@ -31,44 +31,44 @@ AI has various subsets and a few of the most common subsets are as follows:
 Among these various subsets, our focus in this article would be on Machine Learning.
 
 ## Difference between Artificial Intelligence and Machine Learning?
-| Artificial Intelligence 	| Machine Learning 	|
-|:--	|:--	|
-| It is the intelligence demonstrated by machines. 	| It is an application of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed 	|
-| The aim is to maximize the chances of success and not focus on accuracy. 	| The aim is to maximize the accuracy and not focus on success. 	|
-| It can be a computer program doing some smart work. 	| It can be a computer program learning from the provided data. 	|
-| The goal is to make machines solve complex problems. 	| The goal is to improve the performance of the machine for performing a particular task. 	|
-| It leads the program to become Intelligent. 	| It leads the program to become knowledgeable. 	|
-| Machine learning is a subset of AI. 	| Deep learning is a subset of Machine learning. 	|
-| It has a wide range of scope. 	| It has a narrow range of scope as compared to AI. 	|
-| It's purpose is to create an intelligent system, which can perform various complex tasks. 	| It's purpose is to create machines that can perform well on only some specific tasks on which they are trained. 	|
-| It deals with Structured, semi-structured, and unstructured data. 	| It deals with Structured and semi-structured data. 	|
-| E.g. Virtual assistants(although they use ML too), Customer support chatbots, Facial filters on Snapchat, etc. 	| E.g. Online recommendation system on a website, Facebook auto friends tagging suggestions, Google photos similar face suggestions, etc. 	|
+| Artificial Intelligence     | Machine Learning     |
+|:--    |:--    |
+| It is the intelligence demonstrated by machines.     | It is an application of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed     |
+| The aim is to maximize the chances of success and not focus on accuracy.     | The aim is to maximize the accuracy and not focus on success.     |
+| It can be a computer program doing some smart work.     | It can be a computer program learning from the provided data.     |
+| The goal is to make machines solve complex problems.     | The goal is to improve the performance of the machine for performing a particular task.     |
+| It leads the program to become Intelligent.     | It leads the program to become knowledgeable.     |
+| Machine learning is a subset of AI.     | Deep learning is a subset of Machine learning.     |
+| It has a wide range of scope.     | It has a narrow range of scope as compared to AI.     |
+| It's purpose is to create an intelligent system, which can perform various complex tasks.     | It's purpose is to create machines that can perform well on only some specific tasks on which they are trained.     |
+| It deals with Structured, semi-structured, and unstructured data.     | It deals with Structured and semi-structured data.     |
+| E.g. Virtual assistants(although they use ML too), Customer support chatbots, Facial filters on Snapchat, etc.     | E.g. Online recommendation system on a website, Facebook auto friends tagging suggestions, Google photos similar face suggestions, etc.     |
 
 ## What wonders can they do together?
 As we know that AI focuses on success and ML on accuracy. So, when these two work together they lead the intelligent system to become accurate. To better understand the wonders they can do together let's have a look at the following examples:
 
 1. **Voice assistants (Siri, Google Assistant, Amazon Alexa) -**
 
-	These assistants not only provide us with the best possible response to our question/query. But they also keep learning and expanding their knowledge, hence providing us with an even better response the next time for the same query. They also use Natural Language Processing to understand our words.
+    These assistants not only provide us with the best possible response to our question/query. But they also keep learning and expanding their knowledge, hence providing us with an even better response the next time for the same query. They also use Natural Language Processing to understand our words.
 
 2. **Music Applications (Spotify) -**
 
-	These applications use AI to calculate Interactive scores [6]. These scores are represented by temporal objects, temporal relations and interactive objects. Few examples of temporal objects are sounds, videos and light controls [7].
+    These applications use AI to calculate Interactive scores [6]. These scores are represented by temporal objects, temporal relations and interactive objects. Few examples of temporal objects are sounds, videos and light controls [7].
 
-	Spotify offers the famous Discover Weekly - its weekly music recommendation service based on previous playlists and user's personal preferences. It uses AI & ML to analyze the playlists of all its users comparing them to the recently played songs and then precisely creating a related playlist. They scan millions of users each time, to find out other people who are listening to similar playlists. In this way, they recommend songs to their users.
+    Spotify offers the famous Discover Weekly - its weekly music recommendation service based on previous playlists and user's personal preferences. It uses AI & ML to analyze the playlists of all its users comparing them to the recently played songs and then precisely creating a related playlist. They scan millions of users each time, to find out other people who are listening to similar playlists. In this way, they recommend songs to their users.
 
 3. **Media Services Providers (Netflix, Prime Video) -**
 
-	Netflix uses AI to enable personalization of the streaming experience based on user behaviour. It classifies and tags the content to get a fine view of consumer preferences. It has developed over 1,000 tag types that classify content by genre, time period, plot conclusiveness, mood, etc. They track viewing habits of their users from the beginning and have created around 2000 clusters, also called as "taste communities".
+    Netflix uses AI to enable personalization of the streaming experience based on user behaviour. It classifies and tags the content to get a fine view of consumer preferences. It has developed over 1,000 tag types that classify content by genre, time period, plot conclusiveness, mood, etc. They track viewing habits of their users from the beginning and have created around 2000 clusters, also called as "taste communities".
 
-	Their Senior Data scientist in 2014 stated that “75% of users select movies based on the company’s recommendations, and Netflix wants to make that number even higher.”
+    Their Senior Data scientist in 2014 stated that “75% of users select movies based on the company’s recommendations, and Netflix wants to make that number even higher.”
 
-	It uses ML to create recommendations and they are powered by algorithms that are based on the assumption that similar viewing patterns represent similar user tastes. The taste communities play a crucial role in these recommendations. They also show different artwork for the same show/title to users based on different taste communities and ML plays a crucial role in the creation of this artwork [8].
+    It uses ML to create recommendations and they are powered by algorithms that are based on the assumption that similar viewing patterns represent similar user tastes. The taste communities play a crucial role in these recommendations. They also show different artwork for the same show/title to users based on different taste communities and ML plays a crucial role in the creation of this artwork [8].
 
-There are hundreds of similar examples which can show us the wonders happening when AI and ML are used in a particular domain. 
+There are hundreds of similar examples which can show us the wonders happening when AI and ML are used in a particular domain.
 
 ## Sectors revolutionized by AI & ML
-There are various sectors improved using AI and ML. Few of the examples are: 
+There are various sectors improved using AI and ML. Few of the examples are:
 
 1. **Online stores -** Product recommendations, Query resolution chatbots, Visual searches, Cashier AI, Pricing and Promotion, Supply chain optimization, Personalized advertisements
 2. **Ride sharing -** Route optimization, self-driving cars, Supply and demand predictions, resource allocations, Congestion avoidance
@@ -100,7 +100,7 @@ The global artificial intelligence (AI) market size was USD 20.67 Billion in 201
 Similarly, the Global Big Data Market which is also growing at a good pace is accounted for $31.93 billion in 2017 and is expected to reach $156.72 billion by 2026 growing at a CAGR of 19.3% during the forecast period [12].
 
 ## AI & ML, promising or dangerous?
-Microsoft co-founder Bill Gates issued a grave warning, comparing advanced artificial intelligence to nuclear weapons — and arguing that the United States is losing its edge in the global AI research race. 
+Microsoft co-founder Bill Gates issued a grave warning, comparing advanced artificial intelligence to nuclear weapons — and arguing that the United States is losing its edge in the global AI research race.
 
 “The world hasn’t had that many technologies that are both promising and dangerous,” like nuclear weapons and nuclear energy Gates said during an event at Stanford [13].
 
@@ -108,7 +108,7 @@ Whereas, Tesla and SpaceX CEO Elon Musk has doubled down on his dire warnings ab
 
 “I am really quite close, I am very close, to the cutting edge in AI and it scares the hell out of me,” said Musk. “It’s capable of vastly more than almost anyone knows and the rate of improvement is exponential.”
 
-In his analysis of the dangers of AI, Musk differentiates between case-specific applications of machine intelligence like self-driving cars and general machine intelligence, which he has described previously as having “an open-ended utility function” and having a “million times more compute power” than case-specific AI [14]. 
+In his analysis of the dangers of AI, Musk differentiates between case-specific applications of machine intelligence like self-driving cars and general machine intelligence, which he has described previously as having “an open-ended utility function” and having a “million times more compute power” than case-specific AI [14].
 
 So, there might be risks associated if the development of AI continued without any regulatory oversight. But there are people like  Facebook founder Mark Zuckerberg who are not liking this idea and calling that “Musk’s doomsday AI scenarios are unnecessary and pretty irresponsible.” And Harvard professor Steven Pinker also criticized Musk’s tactics [15].
 
@@ -119,7 +119,7 @@ For example, London-based company, DeepMind, which was acquired by Google in 201
 So, for now, all we can say is AI & ML are capable of doing things in a great way but only if we constructively use them. Otherwise, Musk's concerns might turn into reality someday.
 
 ## Conclusion
-In this post, we've gone through the basic definitions of AI and ML as well as the differences between them. Also, we have seen what wonders they can do when they work together, and how they are improving the products and services surrounding us, and hence our lifestyles. 
+In this post, we've gone through the basic definitions of AI and ML as well as the differences between them. Also, we have seen what wonders they can do when they work together, and how they are improving the products and services surrounding us, and hence our lifestyles.
 
 We've also gone through a little bit related to the global market size of AI. And it has a lot of potential and opportunities. Then we went through the concerns and dangers associated with the unregulated development related to AI. There we read the views of some well known Tech industry personalities regarding the development and potential of AI. And that resulted in the conclusion that AI and ML are capable of doing incredible things but only if we constructively use them. And if they are used destructively then we can just say that those systems Might rule humanity, if they didn't destroy it.
 
