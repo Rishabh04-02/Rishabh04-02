@@ -17,5 +17,6 @@ This space serves as both a personal knowledge repository and a resource for oth
 
 * [The 15 Best Engineering Blogs that every CTO Should Read](https://betterstack.com/community/blog/cto-blogs/): Collection of some of the best engineering blogs.
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): Interactive visualizations of data structures and algorithms to help understand their behavior and operations.
+* [Hacking Scale by Better Stack](https://newsletter.betterstack.com/archive?sort=new): A collection of various interesting posts, most of which need ~5 mins read time and are very well organized.
 * [Premature Optimization: Why It’s the “Root of All Evil” and How to Avoid It](https://effectiviology.com/premature-optimization/): When perfecting too early becomes the root of all evil in programming and beyond.
 * [How engineers can use one-on-ones with their manager to accelerate career growth](https://github.blog/developer-skills/career-growth/how-engineers-can-use-one-on-ones-with-their-manager-to-accelerate-career-growth/): Beyond Code, Transforming One-on-Ones into Career Growth Opportunities.
