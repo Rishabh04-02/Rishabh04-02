@@ -46,7 +46,8 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["blog", "readings", "about", "contact"]
+include_all_sections = true
+include_list_pages = true
 show_image = true
 show_description = true
 show_tags = true

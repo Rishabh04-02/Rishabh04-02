@@ -1,7 +1,7 @@
 name = "Hugoplate"
-license = "MIT"
+license = "CC BY-NC-ND 4.0"
 licenselink = "https://github.com/Rishabh04-02/Rishabh04-02/blob/main/LICENSE.md"
-description = "Personal website of Rishabh"
+description = "Rishabh's website"
 homepage = "https://therishabh.in"
 min_version = "0.141.0"
 
