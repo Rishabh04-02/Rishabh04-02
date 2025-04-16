@@ -34,7 +34,7 @@ shortname = 'rishabh0402' # we use disqus to show comments in blog posts . To in
 ########################## Pagination ############################
 [pagination]
 disableAliases = false
-pagerSize = 10
+pagerSize = 7
 path = 'page'
 
 
