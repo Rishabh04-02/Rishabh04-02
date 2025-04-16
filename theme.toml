@@ -5,28 +5,6 @@ description = "Rishabh's website"
 homepage = "https://therishabh.in"
 min_version = "0.141.0"
 
-tags = [
-  "blog",
-  "responsive",
-  "minimal",
-  "personal",
-  "light",
-  "dark",
-  "multilingual",
-  "landing",
-  "contact",
-  "dark mode",
-  "tailwindcss",
-]
-
-features = [
-  "Multi-Authors",
-  "Search",
-  "Multilingual",
-  "Dark Mode",
-  "Taxonomies",
-]
-
 [author]
 name = "Rishabh"
 homepage = "https://therishabh.in"
