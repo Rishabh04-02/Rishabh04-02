@@ -19,4 +19,8 @@ This space serves as both a personal knowledge repository and a resource for oth
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): Interactive visualizations of data structures and algorithms to help understand their behavior and operations.
 * [Hacking Scale by Better Stack](https://newsletter.betterstack.com/archive?sort=new): A collection of various interesting posts, most of which need ~5 mins read time and are very well organized.
 * [Premature Optimization: Why It’s the “Root of All Evil” and How to Avoid It](https://effectiviology.com/premature-optimization/): When perfecting too early becomes the root of all evil in programming and beyond.
-* [How engineers can use one-on-ones with their manager to accelerate career growth](https://github.blog/developer-skills/career-growth/how-engineers-can-use-one-on-ones-with-their-manager-to-accelerate-career-growth/): Beyond Code, Transforming One-on-Ones into Career Growth Opportunities.
+
+
+## CXO Talks/Interviews
+* [Product Thinking by Instagram CTO & Co-Founder & Anthropic CPO, Mike Krieger](https://www.youtube.com/watch?v=Tk-EI2yYT3A): From Instagram to AI: Mike Krieger's journey of building products that matter, learning from failures, and shaping the future of human-AI collaboration.
+* ["Don’t Learn to Code" Is WRONG by GitHub CEO Thomas Dohmke](https://www.youtube.com/watch?v=5UhnQ2h-5BY): From East Berlin to GitHub CEO: Thomas Dohmke's journey of democratizing coding through AI and building the future of software development.
