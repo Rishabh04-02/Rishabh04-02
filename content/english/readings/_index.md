@@ -25,7 +25,9 @@ This space serves as both a personal knowledge repository and a resource for oth
 
 * [How Great Leaders Inspire Action by Simon Sinek ](https://www.youtube.com/watch?v=qp0HIF3SfI4):  Inspire action by starting with Why: The Golden Circle of leadership, from Apple's success to Tivo's initial struggle.
 * [Looks aren't everything. Believe me, I'm a model by Cameron Russell](https://www.youtube.com/watch?v=KM4Xe6Dlp0Y): Beyond the surface: A model reveals the power and illusion of image, beauty standards, and hidden insecurities.
+* [MEETING THE ENEMY A feminist comes to terms with the Men's Rights movement by Cassie Jaye](https://www.youtube.com/watch?v=3WMuzhQXJoY): From feminist assumptions to surprising insights: One filmmaker's journey into the men's rights movement.
 * [Frank Abagnale | Catch Me If You Can | Talks at Google](https://www.youtube.com/watch?v=vsMydMDi3rI): His transformation from one of the world’s most notorious con men to an international cybersecurity expert trusted by the FBI has been mythologized in film and literature – but the takeaways he shares are the real deal.
+* [What Representing Men in Divorce Taught Me About Fatherhood by Marilyn York](https://www.youtube.com/watch?v=RlSwsE22nX0): Addressing legal and societal disadvantages to combat the crisis of fatherlessness.
 
 
 ## Entrepreneurship
@@ -35,9 +37,14 @@ This space serves as both a personal knowledge repository and a resource for oth
 * [The Secret of How to Think Like an Entrepreneur by Amy Wilkinson](https://www.youtube.com/watch?v=WAMwyAm0ySw): Thrive in a changing world: Think like an entrepreneur – adapt, decide, learn, and connect.
 
 
-## Articles
+## Thoughtful Articles
 
 * [The 15 Best Engineering Blogs that every CTO Should Read](https://betterstack.com/community/blog/cto-blogs/): Collection of some of the best engineering blogs.
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): Interactive visualizations of data structures and algorithms to help understand their behavior and operations.
 * [Hacking Scale by Better Stack](https://newsletter.betterstack.com/archive?sort=new): A collection of various interesting posts, most of which need ~5 mins read time and are very well organized.
 * [Premature Optimization: Why It’s the “Root of All Evil” and How to Avoid It](https://effectiviology.com/premature-optimization/): When perfecting too early becomes the root of all evil in programming and beyond.
+
+
+## Interesting Videos
+
+* [Why Finland And Denmark Are Happier Than The U.S.](https://www.youtube.com/watch?v=6Pm0Mn0-jYU): Nordic countries: Where balance, support, and community create enduring happiness.
