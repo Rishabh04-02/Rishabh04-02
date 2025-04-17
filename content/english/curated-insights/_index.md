@@ -1,6 +1,6 @@
 ---
-title: "Readings"
-meta_title: "My Reading List"
+title: "Curated Insights"
+meta_title: "My Curated Insights List"
 description: "A collection of books, articles, and resources that have influenced my thinking"
 draft: false
 ---

@@ -18,8 +18,8 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Readings"
-url = "/readings/"
+name = "Curated Insights"
+url = "/curated-insights/"
 
 [[main]]
 weight = 5
