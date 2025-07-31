@@ -1,6 +1,6 @@
 ### 👉 Project Setup
 
-We build this custom script to make your project setup easier. It will create a new Hugo theme folder, and clone the Hugoplate theme into it. Then move the exampleSite folder into the root directory. So that you can start your Hugo server without going into the exampleSite folder. Use the following command to setup your project.
+Use the following command for project setup. It will create a new Hugo theme folder, and clone the Hugoplate theme into it. Then move the exampleSite folder into the root directory.
 
 ```bash
 npm run project-setup

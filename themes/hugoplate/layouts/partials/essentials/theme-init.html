@@ -1,0 +1,21 @@
+<script>
+(function() {
+  try {
+    var theme = localStorage.getItem("theme");
+    var darkMode = theme === "dark";
+    if (theme === null) {
+      darkMode = {{if eq site.Params.theme_default "dark"}}true{{else}}false{{end}};
+      {{ if eq site.Params.theme_default "system" }}
+      if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        darkMode = true;
+      }
+      {{ end }}
+    }
+    if (darkMode) {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+  } catch(e) {}
+})();
+</script>
