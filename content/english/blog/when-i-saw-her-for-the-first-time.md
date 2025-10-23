@@ -8,7 +8,7 @@ categories: ["Poem"]
 tags: ["Poem"]
 draft: false
 ---
-
+![image](/images/posts/when-i-saw-her.png)
 
 When I saw her for the first time,<br>
 She was wearing a white dress with a glittering shine.
